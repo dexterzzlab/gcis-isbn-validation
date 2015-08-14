@@ -1,0 +1,31 @@
+# gcis-isbn-validator
+Script to validate and clean up ISBN formats in GCIS
+
+What this script does?
+=====================
+Each script is dedicated to a specfic database (World Cat, Google, Library of Congress, etc.).
+Each script:
+1. Extracts all ISBN formats from GCIS 
+2. Converts ISBN to a validated ISBN-13 format 
+3. Prints metadata from desired database using new ISBN to compare to GCIS metadata 
+
+
+Requirements
+============
+1.Python:
+  - Python 3.4 
+2.API access:
+    Positional arg:
+      Gcis.conf (YAML format) file containing:
+        - url
+        - userinfo
+        - key
+    Optional arg: (*use only if Gcis.conf file is not avaliable)
+      -username and api key
+
+Installation
+============
+
+
+Usage
+=====
