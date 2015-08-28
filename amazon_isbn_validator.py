@@ -41,7 +41,9 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('-awsid', '--AWSAccessKeyID', help = "Insert AWS Access Key ID")
     parser.add_argument('-astag', '--AssociateTag', help = "Insert Amazon Associate Tag")
+    parser.add_argument('-path', '--GCIS', help = "Insert url path to GCIS book in JSON format [ex.'https://gcis-search-stage.jpl.net:3000/book.json?all=1'] ")
     args = parser.parse_args()
+    GCIS = args.GCIS
 
     if args.AWSAccessKeyID:
         print(args.AWSAccessKeyID)
@@ -52,6 +54,12 @@ def main():
         print(args.AssociateTag)
     else:
         print('NO Amazon Associate Tag')
+
+    if GCIS is None:
+        GCIS = 'https://gcis-search-stage.jpl.net:3000/book.json?all=1'
+        print('NO MANUAL GCIS PATH\n ALL GCIS BOOK JSON FORMATS WILL BE USED AS DEFAULT')
+
+    GCISPAR = parse(GCIS)
 
 
     for x in range(len(GCISPAR)):
@@ -90,3 +98,6 @@ def main():
             Error = '\n\t######## PROBLEM #######\n\tTitle:{}\n\tGCIS-ISBN:{}\n\tIdentifier:{}\n\n'.format(TITLE, ISBNS, IDEN)
             print(Error)
             file.write(Error)
+
+if __name__ =='__main__':
+    main()
