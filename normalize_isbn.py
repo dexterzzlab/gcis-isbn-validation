@@ -33,8 +33,8 @@ def get_book_dir():
             temp = temp.replace(" ", "")
             return temp
 
-book_dir = get_book_dir()
-
+#book_dir = get_book_dir()
+book_dir = top_dir+"book/"
 directory = "gcis-isbn-validation/%s"%book_dir
 
 problem_count = 0
