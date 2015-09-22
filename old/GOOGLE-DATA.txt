@@ -1,0 +1,548 @@
+DATE:08/13/2015
+MILITARY TIME:16:55:20
+GCIS-DEV
+
+	{'href': 'https://gcis-search-stage.jpl.net:3000/book/00143c55-a52c-46a6-9322-9647fd93d2f3.json', 'url': None, 'number_of_pages': '529', 'in_library': None, 'year': '2011', 'files': [], 'cited_by': [{'publication_type': 'chapter', 'reference': '/reference/7840d713-2588-4fcc-8893-3d1c7e967cbe', 'publication': '/report/nca3/chapter/ecosystems'}, {'publication_type': 'report', 'publication': '/report/nca3', 'reference': '/reference/7840d713-2588-4fcc-8893-3d1c7e967cbe'}], 'parents': [], 'topic': None, 'publisher': 'Springer Science+Business Media, LLC', 'title': 'Principles of Terrestrial Ecosystem Ecology: Second Edition', 'identifier': '00143c55-a52c-46a6-9322-9647fd93d2f3', 'references': [], 'contributors': [], 'isbn': '978-1-4419-9504-9', 'uri': '/book/00143c55-a52c-46a6-9322-9647fd93d2f3'}
+
+	isbn_original:978-1-4419-9504-9
+
+	isbn_mod:9781441995049
+
+GOOB
+
+	{'Title': 'Principles Of Terrestrial Ecosystem Ecology', 'Publisher': 'Springer Science & Business Media', 'Authors': ['F. Stuart Chapin III', 'Pamela A. Matson', 'Peter Vitousek'], 'Year': '2011', 'ISBN-13': '9781441995049', 'Language': 'en'}
+
+------------
+
+GCIS-DEV
+
+	{'href': 'https://gcis-search-stage.jpl.net:3000/book/018aba6e-7bff-4124-ae9a-f2521e683bd1.json', 'url': 'http://cakex.org/sites/default/files/documents/Oceans%20and%20Marine%20Resources%20in%20a%20Changing%20Climate-%20A%20Technical%20Input%20to%20the%202013%20National%20Climate%20Assessment.pdf', 'number_of_pages': '249', 'in_library': None, 'year': '2013', 'files': [], 'cited_by': [{'publication_type': 'chapter', 'publication': '/report/nca3/chapter/oceans-marine-resources', 'reference': '/reference/018aba6e-7bff-4124-ae9a-f2521e683bd1'}, {'publication_type': 'finding', 'reference': '/reference/018aba6e-7bff-4124-ae9a-f2521e683bd1', 'publication': '/report/nca3/chapter/oceans-marine-resources/finding/marine-habitat-loss-and-expansion'}, {'publication_type': 'finding', 'reference': '/reference/018aba6e-7bff-4124-ae9a-f2521e683bd1', 'publication': '/report/nca3/chapter/oceans-marine-resources/finding/increased-ocean-temp-impacts'}, {'publication_type': 'finding', 'publication': '/report/nca3/chapter/oceans-marine-resources/finding/ocean-acidity-increase-alters-marine', 'reference': '/reference/018aba6e-7bff-4124-ae9a-f2521e683bd1'}, {'publication_type': 'finding', 'publication': '/report/nca3/chapter/oceans-marine-resources/finding/sea-surface-temp-up-increase-disease', 'reference': '/reference/018aba6e-7bff-4124-ae9a-f2521e683bd1'}, {'publication_type': 'finding', 'publication': '/report/nca3/chapter/oceans-marine-resources/finding/climate-change-affects-ocean-uses', 'reference': '/reference/018aba6e-7bff-4124-ae9a-f2521e683bd1'}, {'publication_type': 'finding', 'reference': '/reference/018aba6e-7bff-4124-ae9a-f2521e683bd1', 'publication': '/report/nca3/chapter/oceans-marine-resources/finding/ocean-management-adaptations'}, {'publication_type': 'report', 'publication': '/report/nca3', 'reference': '/reference/018aba6e-7bff-4124-ae9a-f2521e683bd1'}], 'parents': [], 'topic': None, 'publisher': 'Island Press', 'uri': '/book/018aba6e-7bff-4124-ae9a-f2521e683bd1', 'identifier': '018aba6e-7bff-4124-ae9a-f2521e683bd1', 'references': [], 'contributors': [], 'isbn': '9781610914345', 'title': 'Oceans and Marine Resources in a Changing Climate: Technical Input to the 2013 National Climate Assessment'}
+
+	isbn_original:9781610914345
+
+	isbn_mod:9781610914345
+
+GOOB
+
+	{'Title': 'Oceans And Marine Resources In A Changing Climate', 'Publisher': 'NCA Regional Input Reports', 'Authors': ['Roger Griffis', 'Jennifer Howard'], 'Year': '2013', 'ISBN-13': '9781610914345', 'Language': 'en'}
+
+------------
+
+GCIS-DEV
+
+	{'href': 'https://gcis-search-stage.jpl.net:3000/book/0260d3c1-cd9f-4a8d-a63f-50af49a961ad.json', 'url': 'http://www.springer.com/earth+sciences+and+geography/atmospheric+sciences/book/978-1-4020-7028-0', 'number_of_pages': '275', 'in_library': None, 'year': '2002', 'files': [], 'cited_by': [{'publication_type': 'chapter', 'publication': '/report/nca3/chapter/agriculture', 'reference': '/reference/071bdf37-99d9-47e9-a89f-830cbb28f60c'}, {'publication_type': 'report', 'publication': '/report/nca3', 'reference': '/reference/071bdf37-99d9-47e9-a89f-830cbb28f60c'}], 'parents': [], 'topic': None, 'publisher': 'Kluwer Academic Publishers', 'uri': '/book/0260d3c1-cd9f-4a8d-a63f-50af49a961ad', 'identifier': '0260d3c1-cd9f-4a8d-a63f-50af49a961ad', 'references': [], 'contributors': [], 'isbn': '9781402070280', 'title': 'Effects of Climate Change and Variability on Agricultural Production Systems'}
+
+	isbn_original:9781402070280
+
+	isbn_mod:9781402070280
+
+GOOB
+
+	{'Title': 'Effects Of Climate Change And Variability On Agricultural Production Systems', 'Publisher': 'Springer Science & Business Media', 'Authors': ['Otto C. Doering III'], 'Year': '2002', 'ISBN-13': '9781402070280', 'Language': 'en'}
+
+------------
+
+GCIS-DEV
+
+	{'href': 'https://gcis-search-stage.jpl.net:3000/book/03826610-743d-4e51-a08e-8fe8d294fa83.json', 'url': None, 'number_of_pages': '256', 'in_library': None, 'year': '2009', 'files': [], 'cited_by': [{'publication_type': 'chapter', 'reference': '/reference/43507fcb-8805-4a9c-b2d3-1390e54f7d40', 'publication': '/report/nca3/chapter/decision-support'}, {'publication_type': 'report', 'reference': '/reference/43507fcb-8805-4a9c-b2d3-1390e54f7d40', 'publication': '/report/nca3'}], 'parents': [], 'topic': None, 'publisher': 'Edward Elgar Publishing, Ltd', 'uri': '/book/03826610-743d-4e51-a08e-8fe8d294fa83', 'identifier': '03826610-743d-4e51-a08e-8fe8d294fa83', 'references': [], 'contributors': [{'id': 3580, 'href': 'https://gcis-search-stage.jpl.net:3000/contributor/3580.json', 'person_id': 2161, 'uri': '/contributor/3580', 'person': {'id': 2161, 'middle_name': None, 'last_name': 'Mendelsohn', 'orcid': None, 'url': 'http://environment.yale.edu/profile/mendelsohn/', 'first_name': 'Robert'}, 'organization_uri': '/organization/yale-university-school-forestry-environmental-studies', 'person_uri': '/person/2161', 'role_type_identifier': 'author', 'organization': {'organization_type_identifier': 'academic', 'country_code': 'US', 'url': 'http://environment.yale.edu', 'name': 'Yale School of Forestry & Environmental Studies', 'identifier': 'yale-university-school-forestry-environmental-studies'}}, {'id': 3581, 'href': 'https://gcis-search-stage.jpl.net:3000/contributor/3581.json', 'person_id': 2162, 'uri': '/contributor/3581', 'person': {'middle_name': None, 'id': 2162, 'last_name': 'Dinar', 'orcid': None, 'url': 'http://envisci.ucr.edu/faculty/dinar.html', 'first_name': 'Ariel'}, 'organization_uri': '/organization/university-california-riverside-department-environmental-sciences', 'person_uri': '/person/2162', 'role_type_identifier': 'author', 'organization': {'organization_type_identifier': 'academic', 'country_code': 'US', 'url': 'http://envisci.ucr.edu/', 'name': 'University of California, Riverside Department of Environmental Sciences', 'identifier': 'university-california-riverside-department-environmental-sciences'}}, {'id': 3582, 'href': 'https://gcis-search-stage.jpl.net:3000/contributor/3582.json', 'person_id': 2162, 'uri': '/contributor/3582', 'person': {'middle_name': None, 'id': 2162, 'url': 'http://envisci.ucr.edu/faculty/dinar.html', 'orcid': None, 'last_name': 'Dinar', 'first_name': 'Ariel'}, 'organization_uri': '/organization/university-california-riverside-water-science-policy-center', 'person_uri': '/person/2162', 'role_type_identifier': 'author', 'organization': {'organization_type_identifier': 'research', 'country_code': 'US', 'url': 'http://wspc.ucr.edu/', 'name': 'University of California, Riverside Water Science and Policy Center', 'identifier': 'university-california-riverside-water-science-policy-center'}}], 'isbn': '1847206700', 'title': 'Climate Change and Agriculture: An Economic Analysis of Global Impacts, Adaptation and Distributional Effects'}
+
+	isbn_original:1847206700
+
+	isbn_mod:9781847206701
+
+GOOB
+
+	{'Title': 'Climate Change And Agriculture', 'Publisher': 'Edward Elgar Pub', 'Authors': ['Robert O. Mendelsohn', 'Ariel Dinar'], 'Year': '2009', 'ISBN-13': '9781847206701', 'Language': 'en'}
+
+------------
+
+GCIS-DEV
+
+	{'href': 'https://gcis-search-stage.jpl.net:3000/book/0468171f-af68-46e7-a072-2c1a1a8d4a78.json', 'url': None, 'cited_by': [{'publication_type': 'chapter', 'reference': '/reference/1f38f63f-a854-44c5-8ebe-b8ec718bdf70', 'publication': '/report/nca3/chapter/hawaii'}, {'publication_type': 'chapter', 'publication': '/report/nca3/chapter/hawaii', 'reference': '/reference/05b4968a-410a-43f0-b668-b96c5af0373c'}, {'publication_type': 'chapter', 'publication': '/report/nca3/chapter/hawaii', 'reference': '/reference/b15aa22b-b2d8-4d25-be84-627aa08ea6d3'}, {'publication_type': 'chapter', 'reference': '/reference/5ce6ec0e-66c4-46dc-b878-f35f65be19f2', 'publication': '/report/nca3/chapter/hawaii'}, {'publication_type': 'finding', 'reference': '/reference/1f38f63f-a854-44c5-8ebe-b8ec718bdf70', 'publication': '/report/nca3/chapter/hawaii/finding/ocean-warming-acidity-affect-fish'}, {'publication_type': 'finding', 'reference': '/reference/05b4968a-410a-43f0-b668-b96c5af0373c', 'publication': '/report/nca3/chapter/hawaii/finding/ocean-warming-acidity-affect-fish'}, {'publication_type': 'report', 'publication': '/report/nca3', 'reference': '/reference/5ce6ec0e-66c4-46dc-b878-f35f65be19f2'}, {'publication_type': 'report', 'publication': '/report/nca3', 'reference': '/reference/b15aa22b-b2d8-4d25-be84-627aa08ea6d3'}, {'publication_type': 'report', 'publication': '/report/nca3', 'reference': '/reference/05b4968a-410a-43f0-b668-b96c5af0373c'}, {'publication_type': 'report', 'reference': '/reference/1f38f63f-a854-44c5-8ebe-b8ec718bdf70', 'publication': '/report/nca3'}], 'in_library': None, 'parents': [], 'files': [], 'number_of_pages': '925', 'year': '2011', 'topic': None, 'publisher': 'Secretariat of the Pacific Community', 'uri': '/book/0468171f-af68-46e7-a072-2c1a1a8d4a78', 'identifier': '0468171f-af68-46e7-a072-2c1a1a8d4a78', 'references': [], 'contributors': [], 'isbn': '9789820004719', 'title': 'Vulnerability of Tropical Pacific Fisheries and Aquaculture to Climate Change'}
+
+	isbn_original:9789820004719
+
+	isbn_mod:9789820004719
+
+GOOB
+
+	{'Title': 'Vulnerability Of Tropical Pacific Fisheries And Aquaculture To Climate Change', 'Publisher': 'SPC FAME Digital Library', 'Authors': ['Johann D. Bell', 'Johanna E. Johnson', 'Alistair James Hobday'], 'Year': '2011', 'ISBN-13': '9789820004719', 'Language': 'en'}
+
+------------
+
+GCIS-DEV
+
+	{'href': 'https://gcis-search-stage.jpl.net:3000/book/0ac1d6dd-4b7e-473d-af51-afa8dc86b3bc.json', 'url': None, 'cited_by': [{'publication_type': 'chapter', 'reference': '/reference/be244401-e84d-4ddd-af18-e8f59f807e17', 'publication': '/report/nca3/chapter/our-changing-climate'}, {'publication_type': 'finding', 'publication': '/report/nca3/chapter/our-changing-climate/finding/global-climate-this-century', 'reference': '/reference/be244401-e84d-4ddd-af18-e8f59f807e17'}, {'publication_type': 'report', 'publication': '/report/nca3', 'reference': '/reference/be244401-e84d-4ddd-af18-e8f59f807e17'}], 'in_library': None, 'year': '2006', 'files': [], 'number_of_pages': '408', 'title': 'Avoiding Dangerous Climate Change', 'topic': None, 'publisher': 'Cambridge University Press', 'uri': '/book/0ac1d6dd-4b7e-473d-af51-afa8dc86b3bc', 'identifier': '0ac1d6dd-4b7e-473d-af51-afa8dc86b3bc', 'references': [], 'contributors': [{'id': 12447, 'href': 'https://gcis-search-stage.jpl.net:3000/contributor/12447.json', 'person_id': 9980, 'uri': '/contributor/12447', 'person_uri': '/person/9980', 'person': {'middle_name': None, 'id': 9980, 'url': 'https://www.pik-potsdam.de/members/john', 'orcid': None, 'last_name': 'Schellnhuber', 'first_name': 'Hans Joachim'}, 'organization_uri': '/organization/united-kingdom-department-environment-food-rural-affairs', 'role_type_identifier': 'editor', 'organization': {'organization_type_identifier': 'national', 'country_code': 'UK', 'url': 'https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs', 'name': 'United Kingdom Department of Environment Food & Rural Affairs', 'identifier': 'united-kingdom-department-environment-food-rural-affairs'}}, {'id': 12448, 'href': 'https://gcis-search-stage.jpl.net:3000/contributor/12448.json', 'person_id': 5529, 'uri': '/contributor/12448', 'organization_uri': '/organization/potsdam-institut-klimafolgenforschung', 'person': {'middle_name': None, 'id': 5529, 'url': None, 'orcid': '0000-0002-9205-5812', 'last_name': 'Cramer', 'first_name': 'Wolfgang'}, 'role_type_identifier': 'editor', 'organization': {'organization_type_identifier': 'research', 'country_code': 'DE', 'url': 'https://www.pik-potsdam.de/', 'name': 'Potsdam-Institut für Klimafolgenforschung', 'identifier': 'potsdam-institut-klimafolgenforschung'}, 'person_uri': '/person/5529'}, {'id': 4550, 'href': 'https://gcis-search-stage.jpl.net:3000/contributor/4550.json', 'person_id': 2556, 'uri': '/contributor/4550', 'organization_uri': '/organization/international-institute-applied-systems-analysis', 'person': {'id': 2556, 'middle_name': None, 'last_name': 'Nakicenovic', 'orcid': None, 'url': 'http://www.iiasa.ac.at/staff/staff.php?type=auto&visibility=visible&search=true&login=naki', 'first_name': 'Nebojsa'}, 'role_type_identifier': 'editor', 'organization': {'organization_type_identifier': 'international', 'country_code': 'AT', 'url': 'http://www.iiasa.ac.at/', 'name': 'International Institute for Applied Systems Analysis', 'identifier': 'international-institute-applied-systems-analysis'}, 'person_uri': '/person/2556'}, {'id': 12446, 'href': 'https://gcis-search-stage.jpl.net:3000/contributor/12446.json', 'person_id': 9979, 'uri': '/contributor/12446', 'person_uri': '/person/9979', 'person': {'middle_name': None, 'id': 9979, 'last_name': 'Wigley', 'orcid': None, 'url': 'http://www.ucar.edu/communications/staffnotes/0311/fellow.html', 'first_name': 'Tom'}, 'organization_uri': '/organization/national-center-atmospheric-research', 'role_type_identifier': 'editor', 'organization': {'organization_type_identifier': 'federally funded research and development center', 'country_code': 'US', 'url': 'http://ncar.ucar.edu/', 'name': 'National Center for Atmospheric Research', 'identifier': 'national-center-atmospheric-research'}}, {'id': 3165, 'href': 'https://gcis-search-stage.jpl.net:3000/contributor/3165.json', 'person_id': 840, 'uri': '/contributor/3165', 'organization_uri': '/organization/wesleyan-university', 'person': {'middle_name': None, 'id': 840, 'url': 'http://gyohe.faculty.wesleyan.edu/', 'orcid': None, 'last_name': 'Yohe', 'first_name': 'Gary'}, 'role_type_identifier': 'editor', 'organization': {'organization_type_identifier': 'academic', 'country_code': 'US', 'url': 'http://www.wesleyan.edu/', 'name': 'Wesleyan University', 'identifier': 'wesleyan-university'}, 'person_uri': '/person/840'}, {'id': 4594, 'href': 'https://gcis-search-stage.jpl.net:3000/contributor/4594.json', 'person_id': None, 'uri': '/contributor/4594', 'person_uri': None, 'person': {}, 'organization_uri': '/organization/cambridge-university-press', 'role_type_identifier': 'publisher', 'organization': {'organization_type_identifier': 'commercial', 'country_code': 'UK', 'url': 'http://www.cambridge.org/', 'name': 'Cambridge University Press', 'identifier': 'cambridge-university-press'}}], 'isbn': '9780521864718', 'parents': []}
+
+	isbn_original:9780521864718
+
+	isbn_mod:9780521864718
+
+GOOB
+
+	{'Title': 'Avoiding Dangerous Climate Change', 'Publisher': 'Cambridge University Press', 'Authors': ['Hans Joachim Schellnhuber'], 'Year': '2006', 'ISBN-13': '9780521864718', 'Language': 'en'}
+
+------------
+
+GCIS-DEV
+
+	{'href': 'https://gcis-search-stage.jpl.net:3000/book/0e6d600c-a99d-41b9-856a-0509c24111d6.json', 'url': None, 'cited_by': [{'publication_type': 'chapter', 'publication': '/report/nca3/chapter/southeast', 'reference': '/reference/eef155ad-a0b8-4817-9ef9-a38c52c5feca'}, {'publication_type': 'report', 'reference': '/reference/eef155ad-a0b8-4817-9ef9-a38c52c5feca', 'publication': '/report/nca3'}], 'in_library': None, 'parents': [], 'files': [], 'number_of_pages': '326', 'year': '2008', 'topic': None, 'publisher': 'Earthscan Publications Ltd.', 'uri': '/book/0e6d600c-a99d-41b9-856a-0509c24111d6', 'identifier': '0e6d600c-a99d-41b9-856a-0509c24111d6', 'references': [], 'contributors': [], 'isbn': '9781844074778', 'title': 'Sudden and Disruptive Climate Change: Exploring the Real Risks and How We Can Avoid Them'}
+
+	isbn_original:9781844074778
+
+	isbn_mod:9781844074778
+
+GOOB
+
+	{'Title': 'Sudden And Disruptive Climate Change', 'Publisher': 'Earthscan', 'Authors': ['Michael C. MacCracken', 'Frances Moore', 'John C. Topping'], 'Year': '2008', 'ISBN-13': '9781844074778', 'Language': 'en'}
+
+------------
+
+GCIS-DEV
+
+	{'href': 'https://gcis-search-stage.jpl.net:3000/book/1f1155c0-a025-43d4-8406-f7471657a2f1.json', 'url': 'http://www.nap.edu/catalog.php?record_id=12943', 'cited_by': [{'publication_type': 'chapter', 'publication': '/report/nca3/chapter/appendix-faqs', 'reference': '/reference/c1c2c9f3-5938-4b03-bd98-55316f400ce0'}, {'publication_type': 'report', 'publication': '/report/nca3', 'reference': '/reference/c1c2c9f3-5938-4b03-bd98-55316f400ce0'}], 'in_library': None, 'parents': [], 'files': [], 'number_of_pages': '58', 'year': '2010', 'topic': None, 'publisher': 'National Research Council. The National Academies Press', 'title': 'Overview and Summary of America’s Energy Future: Technology and Transformation ', 'identifier': '1f1155c0-a025-43d4-8406-f7471657a2f1', 'references': [], 'contributors': [], 'isbn': ' 9780309157100 ', 'uri': '/book/1f1155c0-a025-43d4-8406-f7471657a2f1'}
+
+	isbn_original: 9780309157100 
+
+	isbn_mod:9780309157100
+
+GOOB
+
+	{'Title': "Overview And Summary Of America's Energy Future", 'Publisher': 'National Academies Press', 'Authors': [''], 'Year': '2010', 'ISBN-13': '9780309157100', 'Language': 'en'}
+
+------------
+
+GCIS-DEV
+
+	{'href': 'https://gcis-search-stage.jpl.net:3000/book/29477bb2-bbc7-4d78-b8e1-1253571645db.json', 'url': None, 'cited_by': [{'publication_type': 'chapter', 'publication': '/report/nca3/chapter/hawaii', 'reference': '/reference/60c52a6e-f39d-4076-8e2d-fb1614f1fc58'}, {'publication_type': 'report', 'publication': '/report/nca3', 'reference': '/reference/60c52a6e-f39d-4076-8e2d-fb1614f1fc58'}], 'in_library': None, 'parents': [], 'files': [], 'number_of_pages': '548', 'topic': None, 'isbn': '978-0521364751', 'publisher': 'Cambridge University Press', 'title': 'Teleconnections Linking Worldwide Climate Anomalies', 'identifier': '29477bb2-bbc7-4d78-b8e1-1253571645db', 'references': [], 'contributors': [{'id': 12454, 'href': 'https://gcis-search-stage.jpl.net:3000/contributor/12454.json', 'person_id': 9983, 'uri': '/contributor/12454', 'organization_uri': None, 'person': {'middle_name': None, 'id': 9983, 'url': None, 'orcid': None, 'last_name': 'Glantz', 'first_name': 'Michael H.'}, 'role_type_identifier': 'editor', 'organization': None, 'person_uri': '/person/9983'}, {'id': 12455, 'href': 'https://gcis-search-stage.jpl.net:3000/contributor/12455.json', 'person_id': 4845, 'uri': '/contributor/12455', 'organization_uri': '/organization/national-center-atmospheric-research', 'person': {'id': 4845, 'middle_name': None, 'last_name': 'Katz', 'orcid': None, 'url': None, 'first_name': 'Richard W.'}, 'role_type_identifier': 'editor', 'organization': {'organization_type_identifier': 'federally funded research and development center', 'country_code': 'US', 'url': 'http://ncar.ucar.edu/', 'name': 'National Center for Atmospheric Research', 'identifier': 'national-center-atmospheric-research'}, 'person_uri': '/person/4845'}, {'id': 12456, 'href': 'https://gcis-search-stage.jpl.net:3000/contributor/12456.json', 'person_id': 9984, 'uri': '/contributor/12456', 'person_uri': '/person/9984', 'person': {'id': 9984, 'middle_name': None, 'url': None, 'orcid': None, 'last_name': 'Nicholls', 'first_name': 'Neville'}, 'organization_uri': None, 'role_type_identifier': 'editor', 'organization': None}, {'id': 4594, 'href': 'https://gcis-search-stage.jpl.net:3000/contributor/4594.json', 'person_id': None, 'uri': '/contributor/4594', 'person': {}, 'person_uri': None, 'organization_uri': '/organization/cambridge-university-press', 'role_type_identifier': 'publisher', 'organization': {'organization_type_identifier': 'commercial', 'country_code': 'UK', 'url': 'http://www.cambridge.org/', 'name': 'Cambridge University Press', 'identifier': 'cambridge-university-press'}}], 'uri': '/book/29477bb2-bbc7-4d78-b8e1-1253571645db', 'year': '1991'}
+
+	isbn_original:978-0521364751
+
+	isbn_mod:9780521364751
+
+GOOB
+
+	{'Title': 'Teleconnections Linking Worldwide Climate Anomalies', 'Publisher': 'Cambridge University Press', 'Authors': ['Michael H. Glantz', 'Richard W. Katz', 'Neville Nicholls'], 'Year': '1991', 'ISBN-13': '9780521364751', 'Language': 'en'}
+
+------------
+
+GCIS-DEV
+
+	{'href': 'https://gcis-search-stage.jpl.net:3000/book/3a8caf3d-db40-43b6-a457-39ba40e31a1d.json', 'url': 'http://dx.doi.org/10.1007/978-3-642-11405-2', 'cited_by': [{'publication_type': 'chapter', 'publication': '/report/nca3/chapter/coastal-zone', 'reference': '/reference/c6da3c06-f7f4-4842-93b0-23f5beb8d67f'}, {'publication_type': 'finding', 'reference': '/reference/c6da3c06-f7f4-4842-93b0-23f5beb8d67f', 'publication': '/report/nca3/chapter/coastal-zone/finding/coastal-lifelines-vulnerable'}, {'publication_type': 'report', 'reference': '/reference/c6da3c06-f7f4-4842-93b0-23f5beb8d67f', 'publication': '/report/nca3'}], 'in_library': None, 'parents': [], 'files': [], 'number_of_pages': '265', 'year': '2010', 'topic': None, 'publisher': 'Springer Berlin Heidelberg', 'title': 'Sustainable and Resilient Critical Infrastructure Systems: Simulation, Modeling, and Intelligent Engineering', 'identifier': '3a8caf3d-db40-43b6-a457-39ba40e31a1d', 'references': [], 'contributors': [], 'isbn': '978-3-642-11404-5', 'uri': '/book/3a8caf3d-db40-43b6-a457-39ba40e31a1d'}
+
+	isbn_original:978-3-642-11404-5
+
+	isbn_mod:9783642114045
+
+GOOB
+
+	{'Title': 'Sustainable And Resilient Critical Infrastructure Systems', 'Publisher': 'Springer', 'Authors': ['Kasthurirangan Gopalakrishnan', 'Srinivas Peeta'], 'Year': '2010', 'ISBN-13': '9783642114045', 'Language': 'en'}
+
+------------
+
+GCIS-DEV
+
+	{'href': 'https://gcis-search-stage.jpl.net:3000/book/419fb266-eacf-40a1-b55e-03206feaecee.json', 'url': None, 'cited_by': [{'publication_type': 'chapter', 'publication': '/report/nca3/chapter/southeast', 'reference': '/reference/9f212258-2749-4523-8d0c-2ba849f7ed25'}, {'publication_type': 'finding', 'reference': '/reference/9f212258-2749-4523-8d0c-2ba849f7ed25', 'publication': '/report/nca3/chapter/southeast/finding/sea-level-rise-threatens-environment'}, {'publication_type': 'report', 'publication': '/report/nca3', 'reference': '/reference/9f212258-2749-4523-8d0c-2ba849f7ed25'}], 'in_library': None, 'year': '2010', 'files': [], 'number_of_pages': '224', 'title': 'Delta Urbanism: New Orleans', 'topic': None, 'publisher': 'American Planning Association', 'uri': '/book/419fb266-eacf-40a1-b55e-03206feaecee', 'identifier': '419fb266-eacf-40a1-b55e-03206feaecee', 'references': [], 'contributors': [], 'isbn': '9781932364859', 'parents': []}
+
+	isbn_original:9781932364859
+
+	isbn_mod:9781932364859
+
+GOOB
+
+	{'Title': 'Delta Urbanism', 'Publisher': 'Amer Planning Assn', 'Authors': ['Richard Campanella'], 'Year': '2010', 'ISBN-13': '9781932364859', 'Language': 'en'}
+
+------------
+
+GCIS-DEV
+
+	{'href': 'https://gcis-search-stage.jpl.net:3000/book/5314bca2-8377-461a-b802-2008f547c2a2.json', 'url': None, 'cited_by': [{'publication_type': 'chapter', 'publication': '/report/nca3/chapter/ecosystems', 'reference': '/reference/10f20ca1-ec4b-4492-b161-d763f8186e59'}, {'publication_type': 'report', 'reference': '/reference/10f20ca1-ec4b-4492-b161-d763f8186e59', 'publication': '/report/nca3'}], 'in_library': None, 'parents': [], 'files': [], 'number_of_pages': None, 'title': 'Encyclopedia of Biodiversity', 'topic': None, 'publisher': 'Academic Press', 'uri': '/book/5314bca2-8377-461a-b802-2008f547c2a2', 'identifier': '5314bca2-8377-461a-b802-2008f547c2a2', 'references': [], 'contributors': [], 'isbn': '9780123847195', 'year': '2013'}
+
+	isbn_original:9780123847195
+
+	isbn_mod:9780123847195
+
+GOOB
+
+	{'Title': 'Encyclopedia Of Biodiversity', 'Publisher': '', 'Authors': ['Simon Asher Levin (Biomathematician, United States)'], 'Year': '2013', 'ISBN-13': '9780123847195', 'Language': 'en'}
+
+------------
+
+GCIS-DEV
+
+	{'href': 'https://gcis-search-stage.jpl.net:3000/book/5375603f-4ca2-4165-a1ec-e0079b16078a.json', 'url': None, 'cited_by': [{'publication_type': 'chapter', 'reference': '/reference/5f2331d1-3683-4772-833b-1f60c437dbba', 'publication': '/report/nca3/chapter/oceans-marine-resources'}, {'publication_type': 'chapter', 'reference': '/reference/5f2331d1-3683-4772-833b-1f60c437dbba', 'publication': '/report/nca3/chapter/appendix-report-development-process'}, {'publication_type': 'report', 'reference': '/reference/5f2331d1-3683-4772-833b-1f60c437dbba', 'publication': '/report/nca3'}], 'in_library': None, 'parents': [], 'files': [], 'number_of_pages': '552', 'topic': None, 'isbn': '978-94-007-0114-4', 'publisher': 'Springer', 'title': 'Coral Reefs: An Ecosystem in Transition', 'identifier': '5375603f-4ca2-4165-a1ec-e0079b16078a', 'references': [], 'contributors': [], 'uri': '/book/5375603f-4ca2-4165-a1ec-e0079b16078a', 'year': '2011'}
+
+	isbn_original:978-94-007-0114-4
+
+	isbn_mod:9789400701144
+
+GOOB
+
+	{'Title': 'Coral Reefs: An Ecosystem In Transition', 'Publisher': 'Springer Science & Business Media', 'Authors': ['Zvy Dubinsky', 'Noga Stambler'], 'Year': '2010', 'ISBN-13': '9789400701144', 'Language': 'en'}
+
+------------
+
+GCIS-DEV
+
+	{'href': 'https://gcis-search-stage.jpl.net:3000/book/57713152-0a69-41ce-aa58-f495b7aad5c3.json', 'url': 'http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471720186.html', 'cited_by': [], 'in_library': None, 'parents': [], 'files': [], 'number_of_pages': '1232', 'year': '2006', 'topic': None, 'publisher': 'John Wiley & Sons, Inc.', 'title': 'Atmospheric Chemistry and Physics: From Air Pollution to Climate Change. 2nd ed.', 'identifier': '57713152-0a69-41ce-aa58-f495b7aad5c3', 'references': [], 'contributors': [], 'isbn': '978-0-471-72018-8', 'uri': '/book/57713152-0a69-41ce-aa58-f495b7aad5c3'}
+
+	isbn_original:978-0-471-72018-8
+
+	isbn_mod:9780471720188
+
+GOOB
+
+	{'Title': 'Atmospheric Chemistry And Physics', 'Publisher': 'Wiley-Interscience', 'Authors': ['John H. Seinfeld', 'Spyros N. Pandis'], 'Year': '2006', 'ISBN-13': '9780471720188', 'Language': 'en'}
+
+------------
+
+GCIS-DEV
+
+	{'href': 'https://gcis-search-stage.jpl.net:3000/book/58156695-3a4f-400f-9096-7e189b67cd32.json', 'url': 'http://books.google.com/books?id=ZODb_USsxCEC', 'number_of_pages': '224', 'in_library': None, 'year': '2011', 'files': [], 'cited_by': [{'publication_type': 'chapter', 'publication': '/report/nca3/chapter/rural', 'reference': '/reference/9051aa9f-e32e-48a5-9696-b1771064883d'}, {'publication_type': 'finding', 'reference': '/reference/9051aa9f-e32e-48a5-9696-b1771064883d', 'publication': '/report/nca3/chapter/rural/finding/climate-change-shifts-rural-economy'}, {'publication_type': 'finding', 'publication': '/report/nca3/chapter/rural/finding/limited-rural-capacity-for-climate-adaptation', 'reference': '/reference/9051aa9f-e32e-48a5-9696-b1771064883d'}, {'publication_type': 'report', 'reference': '/reference/9051aa9f-e32e-48a5-9696-b1771064883d', 'publication': '/report/nca3'}], 'parents': [], 'topic': None, 'publisher': 'Polity Press', 'title': 'Rural People and Communities in the 21st Century: Resilience and Transformation', 'identifier': '58156695-3a4f-400f-9096-7e189b67cd32', 'references': [], 'contributors': [], 'isbn': '9780745641287', 'uri': '/book/58156695-3a4f-400f-9096-7e189b67cd32'}
+
+	isbn_original:9780745641287
+
+	isbn_mod:9780745641287
+
+GOOB
+
+	{'Title': 'Rural People And Communities In The 21St Century', 'Publisher': 'Polity', 'Authors': ['David L. Brown', 'Kai A. Schafft'], 'Year': '2011', 'ISBN-13': '9780745641287', 'Language': 'en'}
+
+------------
+
+GCIS-DEV
+
+	{'href': 'https://gcis-search-stage.jpl.net:3000/book/58594dc2-005e-4581-bbfe-6d75d1e8d5c8.json', 'url': None, 'cited_by': [{'publication_type': 'chapter', 'reference': '/reference/8f130c5e-1565-41f1-bd2e-47ba49c43d2a', 'publication': '/report/nca3/chapter/urban-systems-infrastructure-vulnerability'}, {'publication_type': 'finding', 'reference': '/reference/8f130c5e-1565-41f1-bd2e-47ba49c43d2a', 'publication': '/report/nca3/chapter/urban-systems-infrastructure-vulnerability/finding/urban-vulnerability-adaptive-capacity'}, {'publication_type': 'report', 'publication': '/report/nca3', 'reference': '/reference/8f130c5e-1565-41f1-bd2e-47ba49c43d2a'}], 'in_library': None, 'parents': [], 'files': [], 'number_of_pages': '392', 'year': '2009', 'topic': None, 'publisher': 'CRC Press of the Taylor and Francis Group', 'uri': '/book/58594dc2-005e-4581-bbfe-6d75d1e8d5c8', 'identifier': '58594dc2-005e-4581-bbfe-6d75d1e8d5c8', 'references': [], 'contributors': [], 'isbn': '978-1-4200-7856-5', 'title': 'Social Vulnerability to Disasters'}
+
+	isbn_original:978-1-4200-7856-5
+
+	isbn_mod:9781420078565
+
+GOOB
+
+	{'Title': 'Social Vulnerability To Disasters', 'Publisher': 'CRC Press', 'Authors': ['Deborah S.K. Thomas', 'Brenda D. Phillips', 'Alice Fothergill', 'Lynn Blinn-Pike'], 'Year': '2009', 'ISBN-13': '9781420078565', 'Language': 'en'}
+
+------------
+
+GCIS-DEV
+
+	{'href': 'https://gcis-search-stage.jpl.net:3000/book/6eadf0ed-70c7-44f8-b83a-a1e5e5b83ac0.json', 'url': 'http://www.nap.edu/catalog.php?record_id=12434', 'number_of_pages': '322', 'in_library': 1, 'year': '2008', 'files': [], 'cited_by': [{'publication_type': 'chapter', 'reference': '/reference/1781be33-84df-448b-ade0-4c63780bb53d', 'publication': '/report/nca3/chapter/decision-support'}, {'publication_type': 'report', 'publication': '/report/nca3', 'reference': '/reference/1781be33-84df-448b-ade0-4c63780bb53d'}], 'parents': [], 'topic': 'Adaptation', 'publisher': 'National Research Council. The National Academies Press', 'title': 'Public Participation in Environmental Assessment and Decision Making', 'identifier': '6eadf0ed-70c7-44f8-b83a-a1e5e5b83ac0', 'references': [], 'contributors': [{'id': 2854, 'href': 'https://gcis-search-stage.jpl.net:3000/contributor/2854.json', 'person_id': None, 'uri': '/contributor/2854', 'organization_uri': '/organization/national-research-council', 'person': {}, 'role_type_identifier': 'convening_lead_author', 'organization': {'organization_type_identifier': 'private', 'country_code': 'US', 'url': 'http://www.nationalacademies.org/nrc/', 'name': 'National Research Council', 'identifier': 'national-research-council'}, 'person_uri': None}], 'isbn': '9780309123983', 'uri': '/book/6eadf0ed-70c7-44f8-b83a-a1e5e5b83ac0'}
+
+	isbn_original:9780309123983
+
+	isbn_mod:9780309123983
+
+GOOB
+
+	{'Title': 'Public Participation In Environmental Assessment And Decision Making', 'Publisher': 'National Academies Press', 'Authors': ['Panel on Public Participation in Environmental Assessment and Decision Making', 'Board on Environmental Change and Society', 'Division of Behavioral and Social Sciences and Education', 'National Research Council'], 'Year': '2008', 'ISBN-13': '9780309123983', 'Language': 'en'}
+
+------------
+
+GCIS-DEV
+
+	{'href': 'https://gcis-search-stage.jpl.net:3000/book/71cef134-e769-4328-ae30-b5e75c7b9f58.json', 'url': None, 'number_of_pages': '296', 'in_library': None, 'parents': [], 'files': [], 'cited_by': [{'publication_type': 'chapter', 'publication': '/report/nca3/chapter/rural', 'reference': '/reference/7e2fdb15-edda-40b0-a126-aa3bf5c1897a'}, {'publication_type': 'finding', 'publication': '/report/nca3/chapter/rural/finding/limited-rural-capacity-for-climate-adaptation', 'reference': '/reference/7e2fdb15-edda-40b0-a126-aa3bf5c1897a'}, {'publication_type': 'report', 'publication': '/report/nca3', 'reference': '/reference/7e2fdb15-edda-40b0-a126-aa3bf5c1897a'}], 'year': '2001', 'topic': None, 'publisher': 'CRC Press', 'title': 'Interactions Between Agroecosystems and Rural Communities', 'identifier': '71cef134-e769-4328-ae30-b5e75c7b9f58', 'references': [], 'contributors': [], 'isbn': '0849309174', 'uri': '/book/71cef134-e769-4328-ae30-b5e75c7b9f58'}
+
+	isbn_original:0849309174
+
+	isbn_mod:9780849309175
+
+GOOB
+
+	{'Title': 'Interactions Between Agroecosystems And Rural Communities', 'Publisher': 'CRC Press', 'Authors': ['Cornelia Flora'], 'Year': '2001', 'ISBN-13': '9780849309175', 'Language': 'en'}
+
+------------
+
+GCIS-DEV
+
+	{'href': 'https://gcis-search-stage.jpl.net:3000/book/7209799d-4bb8-439d-8470-88e6e9c50a95.json', 'url': None, 'cited_by': [{'publication_type': 'chapter', 'publication': '/report/nca3/chapter/tribal-indigenous-native-lands-resources', 'reference': '/reference/786e8d79-be34-48ac-b806-8b9fcb50e122'}, {'publication_type': 'report', 'reference': '/reference/786e8d79-be34-48ac-b806-8b9fcb50e122', 'publication': '/report/nca3'}], 'in_library': None, 'parents': [], 'files': [], 'number_of_pages': '378', 'year': '1996', 'topic': None, 'publisher': 'Transaction Publishers', 'uri': '/book/7209799d-4bb8-439d-8470-88e6e9c50a95', 'identifier': '7209799d-4bb8-439d-8470-88e6e9c50a95', 'references': [], 'contributors': [], 'isbn': '9781412825627', 'title': 'Human Ecology as Human Behavior: Essays in Environmental and Development Anthropology'}
+
+	isbn_original:9781412825627
+
+	isbn_mod:9781412825627
+
+GOOB
+
+	{'Title': 'Human Ecology As Human Behavior', 'Publisher': 'Transaction Publishers', 'Authors': ['John William Bennett'], 'Year': '1996', 'ISBN-13': '9781412825627', 'Language': 'en'}
+
+------------
+
+GCIS-DEV
+
+	{'href': 'https://gcis-search-stage.jpl.net:3000/book/7655a66f-59d1-4add-a69c-23a8310587c1.json', 'url': 'http://www.nap.edu/catalog.php?record_id=14682', 'cited_by': [{'publication_type': 'chapter', 'reference': '/reference/d0eb8022-8aeb-4e36-819b-0c8aefd48535', 'publication': '/report/nca3/chapter/appendix-topics-for-consideration-future-assesments'}, {'publication_type': 'report', 'reference': '/reference/d0eb8022-8aeb-4e36-819b-0c8aefd48535', 'publication': '/report/nca3'}], 'in_library': None, 'year': '2013', 'files': [], 'number_of_pages': '252', 'title': 'Climate and Social Stress: Implications for Security Analysis', 'topic': None, 'publisher': 'National Research Council. The National Academies Press', 'uri': '/book/7655a66f-59d1-4add-a69c-23a8310587c1', 'identifier': '7655a66f-59d1-4add-a69c-23a8310587c1', 'references': [], 'contributors': [], 'isbn': '9780309278560', 'parents': []}
+
+	isbn_original:9780309278560
+
+	isbn_mod:9780309278560
+
+GOOB
+
+	{'Title': 'Climate And Social Stress', 'Publisher': 'National Academies Press', 'Authors': ['Committee on Assessing the Impact of Climate Change on Social and Political Stresses', 'Board on Environmental Change and Society', 'Division of Behavioral and Social Sciences and Education', 'National Research Council'], 'Year': '2013', 'ISBN-13': '9780309278560', 'Language': 'en'}
+
+------------
+
+GCIS-DEV
+
+	{'href': 'https://gcis-search-stage.jpl.net:3000/book/7c5fc631-d5e0-4338-886f-02022293ee65.json', 'url': None, 'number_of_pages': '416', 'in_library': None, 'year': '2009', 'files': [], 'cited_by': [{'publication_type': 'chapter', 'reference': '/reference/c9e56ec8-35a6-4895-8ab3-db12a4642b38', 'publication': '/report/nca3/chapter/coastal-zone'}, {'publication_type': 'report', 'publication': '/report/nca3', 'reference': '/reference/c9e56ec8-35a6-4895-8ab3-db12a4642b38'}], 'parents': [], 'topic': None, 'publisher': 'The MIT Press', 'uri': '/book/7c5fc631-d5e0-4338-886f-02022293ee65', 'identifier': '7c5fc631-d5e0-4338-886f-02022293ee65', 'references': [], 'contributors': [], 'isbn': '0262012820', 'title': 'At War with the Weather: Managing Large-Scale Risks in a New Era of Catastrophes'}
+
+	isbn_original:0262012820
+
+	isbn_mod:9780262012829
+
+GOOB
+
+	{'Title': 'At War With The Weather', 'Publisher': 'Mit Press', 'Authors': ['Howard Kunreuther', 'Erwann Michel-Kerjan', 'Neil A. Doherty'], 'Year': '2009', 'ISBN-13': '9780262012829', 'Language': 'en'}
+
+------------
+
+GCIS-DEV
+
+	{'href': 'https://gcis-search-stage.jpl.net:3000/book/7f34e3bf-c824-4cc1-b085-6d55468fa15b.json', 'url': 'http://www.nap.edu/catalog.php?record_id=10972', 'cited_by': [{'publication_type': 'chapter', 'publication': '/report/nca3/chapter/adaptation', 'reference': '/reference/36a77e0e-d359-4652-adc4-efce664f4135'}, {'publication_type': 'table', 'reference': '/reference/36a77e0e-d359-4652-adc4-efce664f4135', 'publication': '/report/nca3/chapter/adaptation/table/adaptation-barriers'}, {'publication_type': 'report', 'reference': '/reference/36a77e0e-d359-4652-adc4-efce664f4135', 'publication': '/report/nca3'}], 'in_library': None, 'parents': [], 'files': [], 'number_of_pages': '113', 'topic': None, 'isbn': '978-0-309-09191-6', 'publisher': 'National Research Council, Panel on Adaptive Management for Resource Stewardship. The National Academies Press', 'title': 'Adaptive Management for Water Resources Project Planning', 'identifier': '7f34e3bf-c824-4cc1-b085-6d55468fa15b', 'references': [], 'contributors': [], 'uri': '/book/7f34e3bf-c824-4cc1-b085-6d55468fa15b', 'year': '2004'}
+
+	isbn_original:978-0-309-09191-6
+
+	isbn_mod:9780309091916
+
+GOOB
+
+	{'Title': 'Adaptive Management For Water Resources Project Planning', 'Publisher': 'National Academies Press', 'Authors': ['Committee to Assess the U.S. Army Corps of Engineers Methods of Analysis and Peer Review for Water Resources Project Planning', 'Panel on Adaptive Management for Resource Stewardship', 'Water Science and Technology Board', 'Ocean Studies Board', 'Division on Earth and Life Studies', 'National Research Council'], 'Year': '2004', 'ISBN-13': '9780309091916', 'Language': 'en'}
+
+------------
+
+GCIS-DEV
+
+	{'href': 'https://gcis-search-stage.jpl.net:3000/book/87e6c96e-d52e-440f-803b-cb420b1c94e2.json', 'url': None, 'number_of_pages': '518', 'in_library': None, 'year': '2007', 'files': [], 'cited_by': [{'publication_type': 'chapter', 'reference': '/reference/5e1f5b8b-6d2e-49da-8d31-3788c2c9c5f2', 'publication': '/report/nca3/chapter/coastal-zone'}, {'publication_type': 'report', 'reference': '/reference/5e1f5b8b-6d2e-49da-8d31-3788c2c9c5f2', 'publication': '/report/nca3'}], 'parents': [], 'topic': None, 'publisher': 'Springer', 'title': 'Ecology of Tidal Freshwater Forested Wetlands of the Southeastern United States', 'identifier': '87e6c96e-d52e-440f-803b-cb420b1c94e2', 'references': [], 'contributors': [], 'isbn': '978-1-4020-5094-7', 'uri': '/book/87e6c96e-d52e-440f-803b-cb420b1c94e2'}
+
+	isbn_original:978-1-4020-5094-7
+
+	isbn_mod:9781402050947
+
+GOOB
+
+	{'Title': 'Ecology Of Tidal Freshwater Forested Wetlands Of The Southeastern United States', 'Publisher': 'Springer', 'Authors': ['William H. Conner', 'Thomas W. Doyle', 'Ken W. Krauss'], 'Year': '2007', 'ISBN-13': '9781402050947', 'Language': 'en'}
+
+------------
+
+GCIS-DEV
+
+	{'href': 'https://gcis-search-stage.jpl.net:3000/book/88d29fd5-0d12-4a80-b341-875fbf28398d.json', 'url': None, 'cited_by': [{'publication_type': 'chapter', 'publication': '/report/nca3/chapter/tribal-indigenous-native-lands-resources', 'reference': '/reference/faab4710-ea52-42af-95d3-a375dca9d898'}, {'publication_type': 'report', 'publication': '/report/nca3', 'reference': '/reference/faab4710-ea52-42af-95d3-a375dca9d898'}], 'in_library': None, 'parents': [], 'files': [], 'number_of_pages': '160', 'year': '2005', 'topic': None, 'publisher': 'Perfection Learning Corporation', 'uri': '/book/88d29fd5-0d12-4a80-b341-875fbf28398d', 'identifier': '88d29fd5-0d12-4a80-b341-875fbf28398d', 'references': [], 'contributors': [], 'isbn': '978-1416903277', 'title': 'Aleutian Sparrow'}
+
+	isbn_original:978-1416903277
+
+	isbn_mod:9781416903277
+
+GOOB
+
+	{'Title': 'Aleutian Sparrow', 'Publisher': 'Margaret K. McElderry Books', 'Authors': ['Karen Hesse'], 'Year': '2005', 'ISBN-13': '9781416903277', 'Language': 'en'}
+
+------------
+
+GCIS-DEV
+
+	{'href': 'https://gcis-search-stage.jpl.net:3000/book/89cf5dfb-7844-4098-a6e2-136ad7a51aae.json', 'url': None, 'cited_by': [{'publication_type': 'chapter', 'publication': '/report/nca3/chapter/northeast', 'reference': '/reference/1985bce4-5738-4ba6-ac9a-0d676d2ce4a3'}, {'publication_type': 'report', 'publication': '/report/nca3', 'reference': '/reference/1985bce4-5738-4ba6-ac9a-0d676d2ce4a3'}], 'in_library': None, 'year': '2007', 'files': [], 'number_of_pages': '364', 'title': 'Agroecosystems in a Changing Climate', 'topic': None, 'publisher': 'CRC Press', 'uri': '/book/89cf5dfb-7844-4098-a6e2-136ad7a51aae', 'identifier': '89cf5dfb-7844-4098-a6e2-136ad7a51aae', 'references': [], 'contributors': [], 'isbn': '9780849320880', 'parents': []}
+
+	isbn_original:9780849320880
+
+	isbn_mod:9780849320880
+
+GOOB
+
+	{'Title': 'Agroecosystems In A Changing Climate', 'Publisher': 'CRC Press', 'Authors': ['Paul C.D. Newton', 'R. Andrew Carran', 'Grant R. Edwards', 'Pascal A. Niklaus'], 'Year': '2006', 'ISBN-13': '9780849320880', 'Language': 'en'}
+
+------------
+
+GCIS-DEV
+
+	{'href': 'https://gcis-search-stage.jpl.net:3000/book/90797532-c388-4ee0-8635-ea25b3261754.json', 'url': 'http://www.sciencedirect.com/science/bookseries/14748177/8/supp/C', 'cited_by': [{'publication_type': 'chapter', 'reference': '/reference/6a236496-3436-481f-a3a4-ce35b52c0f0b', 'publication': '/report/nca3/chapter/northwest'}, {'publication_type': 'report', 'publication': '/report/nca3', 'reference': '/reference/6a236496-3436-481f-a3a4-ce35b52c0f0b'}], 'in_library': None, 'year': '2013', 'files': [], 'number_of_pages': '638', 'title': 'Developments in Environmental Science Volume 8: Wildland Fires and Air Pollution', 'topic': None, 'publisher': 'Elsevier Ltd.', 'uri': '/book/90797532-c388-4ee0-8635-ea25b3261754', 'identifier': '90797532-c388-4ee0-8635-ea25b3261754', 'references': [], 'contributors': [], 'isbn': '978-0-08-055609-3', 'parents': []}
+
+	isbn_original:978-0-08-055609-3
+
+	isbn_mod:9780080556093
+
+GOOB
+
+	{'Title': 'Wildland Fires And Air Pollution', 'Publisher': 'Elsevier', 'Authors': ['Andrzej Bytnerowicz'], 'Year': '2009', 'ISBN-13': '9780080556093', 'Language': 'en'}
+
+------------
+
+GCIS-DEV
+
+	{'href': 'https://gcis-search-stage.jpl.net:3000/book/969f103b-5a7a-483c-ac40-b9fd063e63c6.json', 'url': None, 'cited_by': [{'publication_type': 'chapter', 'publication': '/report/nca3/chapter/forests', 'reference': '/reference/b8a712f7-14f4-4681-96c7-0f87ee0f0121'}, {'publication_type': 'report', 'reference': '/reference/b8a712f7-14f4-4681-96c7-0f87ee0f0121', 'publication': '/report/nca3'}], 'in_library': None, 'year': '2003', 'files': [], 'number_of_pages': '446', 'title': 'Fire and Climatic Change in Temperate Ecosystems of the Western Americas. Ecological Studies Vol. 160', 'topic': None, 'publisher': 'Springer', 'uri': '/book/969f103b-5a7a-483c-ac40-b9fd063e63c6', 'identifier': '969f103b-5a7a-483c-ac40-b9fd063e63c6', 'references': [], 'contributors': [], 'isbn': '978-0-387-21710-9', 'parents': []}
+
+	isbn_original:978-0-387-21710-9
+
+	isbn_mod:9780387217109
+
+GOOB
+
+	{'Title': 'Fire And Climatic Change In Temperate Ecosystems Of The Western Americas', 'Publisher': 'Springer Science & Business Media', 'Authors': ['Thomas T. Veblen', 'William L. Baker', 'Gloria Montenegro', 'Thomas W. Swetnam'], 'Year': '2006', 'ISBN-13': '9780387217109', 'Language': 'en'}
+
+------------
+
+GCIS-DEV
+
+	{'href': 'https://gcis-search-stage.jpl.net:3000/book/a004f5ad-e043-41e5-b2d3-eed2d0e10228.json', 'url': None, 'cited_by': [{'publication_type': 'chapter', 'publication': '/report/nca3/chapter/northeast', 'reference': '/reference/b2ece9e9-21a0-47fa-9f9c-2ed7387f20cc'}, {'publication_type': 'report', 'publication': '/report/nca3', 'reference': '/reference/b2ece9e9-21a0-47fa-9f9c-2ed7387f20cc'}], 'in_library': None, 'year': '2010', 'files': [], 'number_of_pages': '200', 'title': 'Climate Change in the Adirondacks: The Path to Sustainability', 'topic': None, 'publisher': 'Cornell University Press', 'uri': '/book/a004f5ad-e043-41e5-b2d3-eed2d0e10228', 'identifier': 'a004f5ad-e043-41e5-b2d3-eed2d0e10228', 'references': [], 'contributors': [], 'isbn': '0801476518', 'parents': []}
+
+	isbn_original:0801476518
+
+	isbn_mod:9780801476518
+
+GOOB
+
+	{'Title': 'Climate Change In The Adirondacks', 'Publisher': 'Comstock Publishing Associates', 'Authors': ['Jerry C. Jenkins'], 'Year': '2010', 'ISBN-13': '9780801476518', 'Language': 'en'}
+
+------------
+
+GCIS-DEV
+
+	{'href': 'https://gcis-search-stage.jpl.net:3000/book/a591f050-ae8f-4e6d-a5ce-7dd893467d74.json', 'url': 'http://www.islandpress.org/book/natures-services', 'cited_by': [], 'in_library': None, 'year': '1997', 'files': [], 'number_of_pages': '412', 'title': "Nature's Services: Societal Dependence On Natural Ecosystems", 'topic': None, 'publisher': 'Island Press', 'uri': '/book/a591f050-ae8f-4e6d-a5ce-7dd893467d74', 'identifier': 'a591f050-ae8f-4e6d-a5ce-7dd893467d74', 'references': [], 'contributors': [{'id': 12466, 'href': 'https://gcis-search-stage.jpl.net:3000/contributor/12466.json', 'person_id': 5777, 'uri': '/contributor/12466', 'person': {'middle_name': None, 'id': 5777, 'last_name': 'Daily', 'orcid': None, 'url': None, 'first_name': 'Gretchen C.'}, 'organization_uri': '/organization/stanford-university', 'person_uri': '/person/5777', 'role_type_identifier': 'editor', 'organization': {'organization_type_identifier': 'academic', 'country_code': 'US', 'url': 'http://www.stanford.edu', 'name': 'Stanford University', 'identifier': 'stanford-university'}}, {'id': 12467, 'href': 'https://gcis-search-stage.jpl.net:3000/contributor/12467.json', 'person_id': None, 'uri': '/contributor/12467', 'organization_uri': '/organization/island-press', 'person': {}, 'role_type_identifier': 'publisher', 'organization': {'organization_type_identifier': 'commercial', 'country_code': 'US', 'url': 'http://www.islandpress.org', 'name': 'Island Press', 'identifier': 'island-press'}, 'person_uri': None}], 'isbn': '9781559634762', 'parents': []}
+
+	isbn_original:9781559634762
+
+	isbn_mod:9781559634762
+
+GOOB
+
+	{'Title': "Nature's Services", 'Publisher': 'Island Press', 'Authors': ['Gretchen Daily'], 'Year': '1997', 'ISBN-13': '9781559634762', 'Language': 'en'}
+
+------------
+
+GCIS-DEV
+
+	{'href': 'https://gcis-search-stage.jpl.net:3000/book/aa57f460-5187-4d87-b54e-904de2099138.json', 'url': None, 'number_of_pages': '416', 'in_library': None, 'parents': [], 'files': [], 'cited_by': [{'publication_type': 'chapter', 'reference': '/reference/a8c80335-18ea-447b-9197-4b15637f2dc1', 'publication': '/report/nca3/chapter/coastal-zone'}, {'publication_type': 'report', 'publication': '/report/nca3', 'reference': '/reference/a8c80335-18ea-447b-9197-4b15637f2dc1'}], 'year': '2013', 'topic': None, 'publisher': 'CRC Press', 'title': 'Oceanography and Marine Biology: An Annual Review, Volume 53', 'identifier': 'aa57f460-5187-4d87-b54e-904de2099138', 'references': [], 'contributors': [], 'isbn': '9781466568662', 'uri': '/book/aa57f460-5187-4d87-b54e-904de2099138'}
+
+	isbn_original:9781466568662
+
+	isbn_mod:9781466568662
+
+GOOB
+
+	{'Title': 'Oceanography And Marine Biology', 'Publisher': 'CRC Press', 'Authors': ['R. N. Hughes', 'D. J. Hughes', 'I. P. Smith'], 'Year': '2013', 'ISBN-13': '9781466568662', 'Language': 'en'}
+
+------------
+
+GCIS-DEV
+
+	{'href': 'https://gcis-search-stage.jpl.net:3000/book/b9b3cdae-ffd2-42c8-9cd9-329ad48ec19d.json', 'url': None, 'cited_by': [{'publication_type': 'chapter', 'reference': '/reference/01c146e7-1a6a-42b5-aabf-cf0d9d5191b9', 'publication': '/report/nca3/chapter/urban-systems-infrastructure-vulnerability'}, {'publication_type': 'report', 'reference': '/reference/01c146e7-1a6a-42b5-aabf-cf0d9d5191b9', 'publication': '/report/nca3'}], 'in_library': None, 'parents': [], 'files': [], 'number_of_pages': '464', 'year': '2008', 'topic': None, 'publisher': 'Random House Trade Paperbacks', 'title': 'Breach of Faith: Hurricane Katrina and the Near Death of a Great American City', 'identifier': 'b9b3cdae-ffd2-42c8-9cd9-329ad48ec19d', 'references': [], 'contributors': [], 'isbn': '0812976509', 'uri': '/book/b9b3cdae-ffd2-42c8-9cd9-329ad48ec19d'}
+
+	isbn_original:0812976509
+
+	isbn_mod:9780812976502
+
+GOOB
+
+	{'Title': 'Breach Of Faith', 'Publisher': 'Random House Trade Paperbacks', 'Authors': ['Jed Horne'], 'Year': '2008', 'ISBN-13': '9780812976502', 'Language': 'en'}
+
+------------
+
+GCIS-DEV
+
+	{'href': 'https://gcis-search-stage.jpl.net:3000/book/c002c9ba-f913-42a3-a3d9-d07419f03a7b.json', 'url': None, 'cited_by': [{'publication_type': 'chapter', 'reference': '/reference/e5d9f0a6-b7d5-4bfb-adab-535eaf3ffa08', 'publication': '/report/nca3/chapter/coastal-zone'}, {'publication_type': 'report', 'publication': '/report/nca3', 'reference': '/reference/e5d9f0a6-b7d5-4bfb-adab-535eaf3ffa08'}], 'in_library': None, 'year': '2000', 'files': [], 'number_of_pages': '252', 'parents': [], 'topic': None, 'publisher': 'A multisector collaborative project of the H. John Heinz Center for Science, Economics, and the Environment. Island Press', 'title': 'The Hidden Costs of Coastal Hazards: Implications for Risk Assessment and Mitigation', 'identifier': 'c002c9ba-f913-42a3-a3d9-d07419f03a7b', 'references': [], 'contributors': [], 'isbn': '1-55963-756-0', 'uri': '/book/c002c9ba-f913-42a3-a3d9-d07419f03a7b'}
+
+	isbn_original:1-55963-756-0
+
+	isbn_mod:9781559637565
+
+GOOB
+
+	{'Title': 'The Hidden Costs Of Coastal Hazards', 'Publisher': 'Island Press', 'Authors': ['H. John Heinz III Center for Science, Economics, and the Environment. Panel on Risk, Vulnerability, and the True Costs of Coastal Hazards', 'The H. John Heinz III Center for Science, Economics, and the Environment'], 'Year': '2000', 'ISBN-13': '9781559637565', 'Language': 'en'}
+
+------------
+
+GCIS-DEV
+
+	{'href': 'https://gcis-search-stage.jpl.net:3000/book/c1443ec3-e239-41c6-9ba8-393cfa702281.json', 'url': None, 'cited_by': [{'publication_type': 'chapter', 'publication': '/report/nca3/chapter/coastal-zone', 'reference': '/reference/342c5512-314c-46b2-917d-ab69050e287b'}, {'publication_type': 'report', 'publication': '/report/nca3', 'reference': '/reference/342c5512-314c-46b2-917d-ab69050e287b'}], 'in_library': None, 'parents': [], 'files': [], 'number_of_pages': '288', 'year': '2012', 'topic': None, 'publisher': 'Lincoln Institute of Land Policy', 'title': 'Resilient Coastal City Regions: Planning for Climate Change in the United States and Australia', 'identifier': 'c1443ec3-e239-41c6-9ba8-393cfa702281', 'references': [], 'contributors': [], 'isbn': '978-1-55844-214-6', 'uri': '/book/c1443ec3-e239-41c6-9ba8-393cfa702281'}
+
+	isbn_original:978-1-55844-214-6
+
+	isbn_mod:9781558442146
+
+GOOB
+
+	{'Title': 'Resilient Coastal City Regions', 'Publisher': 'Lincoln Inst of Land Policy', 'Authors': ['Edward James Blakely', 'Armando Carbonell'], 'Year': '2012', 'ISBN-13': '9781558442146', 'Language': 'en'}
+
+------------
+
+GCIS-DEV
+
+	{'href': 'https://gcis-search-stage.jpl.net:3000/book/c272240f-79b7-4f9a-8c1d-0284bdde2a99.json', 'url': 'http://www.elsevier.com/books/global-biogeochemical-cycles-in-the-climate-system/schulze/978-0-12-631260-7', 'cited_by': [{'publication_type': 'chapter', 'publication': '/report/nca3/chapter/biogeochemical-cycles', 'reference': '/reference/e6241eda-c0cf-46ff-bdc2-097428c2977d'}, {'publication_type': 'report', 'publication': '/report/nca3', 'reference': '/reference/e6241eda-c0cf-46ff-bdc2-097428c2977d'}], 'in_library': None, 'year': '2001', 'files': [], 'number_of_pages': '350', 'topic': None, 'publisher': None, 'title': 'Global Biogeochemical Cycles in the Climate System', 'identifier': 'c272240f-79b7-4f9a-8c1d-0284bdde2a99', 'references': [], 'contributors': [], 'isbn': '978-0-12-631260-7', 'uri': '/book/c272240f-79b7-4f9a-8c1d-0284bdde2a99', 'parents': []}
+
+	isbn_original:978-0-12-631260-7
+
+	isbn_mod:9780126312607
+
+GOOB
+
+	{'Title': 'Global Biogeochemical Cycles In The Climate System', 'Publisher': 'Elsevier Health Sciences', 'Authors': ['Ernst-Detlef Schulze'], 'Year': '2001', 'ISBN-13': '9780126312607', 'Language': 'en'}
+
+------------
+
+GCIS-DEV
+
+	{'href': 'https://gcis-search-stage.jpl.net:3000/book/c7f2d97c-166a-4f2a-bd5d-5f512ef64b82.json', 'url': None, 'cited_by': [{'publication_type': 'chapter', 'publication': '/report/nca3/chapter/tribal-indigenous-native-lands-resources', 'reference': '/reference/445c08c8-fd32-4e23-aa2b-c1c1e43a5b80'}, {'publication_type': 'report', 'reference': '/reference/445c08c8-fd32-4e23-aa2b-c1c1e43a5b80', 'publication': '/report/nca3'}], 'in_library': None, 'year': '1983', 'files': [], 'number_of_pages': '262', 'parents': [], 'topic': None, 'publisher': 'University of Texas Press', 'title': 'American Indians, American Justice', 'identifier': 'c7f2d97c-166a-4f2a-bd5d-5f512ef64b82', 'references': [], 'contributors': [], 'isbn': '9780292738348', 'uri': '/book/c7f2d97c-166a-4f2a-bd5d-5f512ef64b82'}
+
+	isbn_original:9780292738348
+
+	isbn_mod:9780292738348
+
+GOOB
+
+	{'Title': 'American Indians, American Justice', 'Publisher': 'University of Texas Press', 'Authors': ['Vine Deloria, Jr.', 'Clifford M. Lytle'], 'Year': '1983', 'ISBN-13': '9780292738348', 'Language': 'en'}
+
+------------
+
+GCIS-DEV
+
+	{'href': 'https://gcis-search-stage.jpl.net:3000/book/cafa35ea-267e-4c3d-b891-381b23b4970d.json', 'url': None, 'number_of_pages': '320', 'in_library': None, 'year': '2009', 'files': [], 'cited_by': [{'publication_type': 'chapter', 'reference': '/reference/d0a7134c-7876-4736-ab87-ff0d35b8798b', 'publication': '/report/nca3/chapter/coastal-zone'}, {'publication_type': 'report', 'reference': '/reference/d0a7134c-7876-4736-ab87-ff0d35b8798b', 'publication': '/report/nca3'}], 'parents': [], 'topic': None, 'publisher': 'Backhuys Publishers', 'title': 'Tidal Freshwater Wetlands', 'identifier': 'cafa35ea-267e-4c3d-b891-381b23b4970d', 'references': [], 'contributors': [], 'isbn': '978-90-5782-198-1', 'uri': '/book/cafa35ea-267e-4c3d-b891-381b23b4970d'}
+
+	isbn_original:978-90-5782-198-1
+
+	isbn_mod:9789057821981
+
+GOOB
+
+	{'Title': 'Tidal Freshwater Wetlands', 'Publisher': '', 'Authors': ['Aat Barendregt'], 'Year': '2009', 'ISBN-13': '9789057821981', 'Language': 'en'}
+
+------------
+
+GCIS-DEV
+
+	{'href': 'https://gcis-search-stage.jpl.net:3000/book/d60274ca-9633-435b-8107-ff4bd50f8704.json', 'url': None, 'cited_by': [{'publication_type': 'chapter', 'publication': '/report/nca3/chapter/tribal-indigenous-native-lands-resources', 'reference': '/reference/9510288d-7aff-4db9-a0fd-e8ecf963dce9'}, {'publication_type': 'finding', 'reference': '/reference/9510288d-7aff-4db9-a0fd-e8ecf963dce9', 'publication': '/report/nca3/chapter/tribal-indigenous-native-lands-resources/finding/increased-health-hazards-for-natives'}, {'publication_type': 'report', 'reference': '/reference/9510288d-7aff-4db9-a0fd-e8ecf963dce9', 'publication': '/report/nca3'}], 'in_library': None, 'parents': [], 'files': [], 'number_of_pages': '376', 'year': '2009', 'topic': None, 'publisher': 'UNESCO', 'uri': '/book/d60274ca-9633-435b-8107-ff4bd50f8704', 'identifier': 'd60274ca-9633-435b-8107-ff4bd50f8704', 'references': [], 'contributors': [], 'isbn': '9789231041396', 'title': 'Climate Change And Arctic Sustainable Development: Scientific, Social, Cultural And Educational Challenges'}
+
+	isbn_original:9789231041396
+
+	isbn_mod:9789231041396
+
+GOOB
+
+	{'Title': 'Climate Change And Arctic Sustainable Development', 'Publisher': 'UNESCO', 'Authors': ['UNESCO'], 'Year': '2009', 'ISBN-13': '9789231041396', 'Language': 'en'}
+
+------------
+
+GCIS-DEV
+
+	{'href': 'https://gcis-search-stage.jpl.net:3000/book/d733a480-c42d-4b32-a2ef-8d8b41d4e2ff.json', 'url': 'http://www.sciencedirect.com/science/referenceworks/9780123847041', 'cited_by': [{'publication_type': 'chapter', 'publication': '/report/nca3/chapter/northeast', 'reference': '/reference/97e0383b-4119-4f9b-b621-436739dbae51'}, {'publication_type': 'report', 'reference': '/reference/97e0383b-4119-4f9b-b621-436739dbae51', 'publication': '/report/nca3'}], 'in_library': None, 'year': '2013', 'files': [], 'number_of_pages': '404', 'topic': None, 'publisher': 'Elsevier', 'title': 'Climate Vulnerability: Understanding and Addressing Threats to Essential Resources: Volume 5: Vulnerability of Water Resources to Climate', 'identifier': 'd733a480-c42d-4b32-a2ef-8d8b41d4e2ff', 'references': [], 'contributors': [], 'isbn': '9780123847041', 'uri': '/book/d733a480-c42d-4b32-a2ef-8d8b41d4e2ff', 'parents': []}
+
+	isbn_original:9780123847041
+
+	isbn_mod:9780123847041
+
+GOOB
+
+	{'Title': 'Climate Vulnerability', 'Publisher': 'Elsevier', 'Authors': [''], 'Year': '2013', 'ISBN-13': '9780123847041', 'Language': 'en'}
+
+------------
+
+GCIS-DEV
+
+	{'href': 'https://gcis-search-stage.jpl.net:3000/book/e6b25ebb-4ffa-40e6-ab8b-50ed25d8ff7b.json', 'url': None, 'cited_by': [{'publication_type': 'chapter', 'reference': '/reference/7ed0591e-06c2-488f-bf19-1b3bbb520214', 'publication': '/report/nca3/chapter/human-health'}, {'publication_type': 'finding', 'publication': '/report/nca3/chapter/human-health/finding/existing-health-threats-amplified', 'reference': '/reference/7ed0591e-06c2-488f-bf19-1b3bbb520214'}, {'publication_type': 'report', 'reference': '/reference/7ed0591e-06c2-488f-bf19-1b3bbb520214', 'publication': '/report/nca3'}], 'in_library': None, 'parents': [], 'files': [], 'number_of_pages': '359', 'year': '2011', 'topic': None, 'publisher': 'American Public Health Association Press', 'title': 'Environmental Health and Racial Equity in the United States, Building Environmentally Just, Sustainable and Livable Communities', 'identifier': 'e6b25ebb-4ffa-40e6-ab8b-50ed25d8ff7b', 'references': [], 'contributors': [], 'isbn': '9780875530079', 'uri': '/book/e6b25ebb-4ffa-40e6-ab8b-50ed25d8ff7b'}
+
+	isbn_original:9780875530079
+
+	isbn_mod:9780875530079
+
+GOOB
+
+	{'Title': 'Environmental Health And Racial Equity In The United States', 'Publisher': 'American Public Health association', 'Authors': ['Robert D. Bullard, PhD', 'Glenn S. Johnson, PhD', 'Angel O. Torres, MCP'], 'Year': '2011', 'ISBN-13': '9780875530079', 'Language': 'en'}
+
+------------
+
