@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Encyclopedia of biodiversity</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Biodiversity</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Levin, Simon A.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <genre authority="rdacontent">text</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">ne</placeTerm>
+    </place>
+    <dateIssued encoding="marc">2013</dateIssued>
+    <copyrightDate encoding="marc">2013</copyrightDate>
+    <edition>Second edition.</edition>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <originInfo eventType="publication">
+    <place>
+      <placeTerm type="text">Amsterdam :</placeTerm>
+    </place>
+    <publisher>Elsevier, Academic Press,</publisher>
+    <dateIssued>[2013]</dateIssued>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>7 volumes : illustrations (some color), maps (some color) ; 29 cm.</extent>
+    <form type="media" authority="rdamedia">unmediated</form>
+    <form type="carrier" authority="rdacarrier">volume</form>
+  </physicalDescription>
+  <tableOfContents>volume 1. A-CA -- volume 2. CE-EC -- volume 3. EC-GR --volume 4. GR-MA -- volume 5.  MA-PH --volume 6. PH-SP --volume 7. ST-ZO, Index.</tableOfContents>
+  <note type="statement of responsibility" altRepGroup="00">editor-in-chief, Simon A. Levin, Princeton University, Princeton, NJ, USA.</note>
+  <note type="bibliography">Includes bibliographical references and index.</note>
+  <subject authority="lcsh">
+    <topic>Biodiversity</topic>
+    <genre>Encyclopedias</genre>
+  </subject>
+  <classification authority="lcc">QH541.15.B56 E53 2013</classification>
+  <classification authority="ddc" edition="23">577.03</classification>
+  <identifier type="isbn">9780123847195 (set)</identifier>
+  <identifier type="isbn">0123847192 (set)</identifier>
+  <identifier type="isbn">9780123847218 (v. 1)</identifier>
+  <identifier type="isbn">0123847214 (v. 1)</identifier>
+  <identifier type="isbn">9780123847225 (v. 2)</identifier>
+  <identifier type="isbn">0123847222 (v. 2)</identifier>
+  <identifier type="isbn">9780123847232 (v. 3)</identifier>
+  <identifier type="isbn">0123847230 (v. 3)</identifier>
+  <identifier type="isbn">9780123847249 (v. 4)</identifier>
+  <identifier type="isbn">0123847249 (v. 4)</identifier>
+  <identifier type="isbn">9780123847256 (v. 5)</identifier>
+  <identifier type="isbn">0123847257 (v. 5)</identifier>
+  <identifier type="isbn">9780123945815 (v. 6)</identifier>
+  <identifier type="isbn">012394581X (v. 6)</identifier>
+  <identifier type="isbn">9780123945822 (v. 7)</identifier>
+  <identifier type="isbn">0123945828 (v. 7)</identifier>
+  <identifier type="lccn">2012538441</identifier>
+  <recordInfo>
+    <descriptionStandard>rda</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">130724</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20130813115859.0</recordChangeDate>
+    <recordIdentifier>17823917</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9780123847195</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

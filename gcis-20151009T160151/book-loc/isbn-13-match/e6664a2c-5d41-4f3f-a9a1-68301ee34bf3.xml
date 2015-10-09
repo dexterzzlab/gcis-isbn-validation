@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>A </nonSort>
+    <title>practitioner's guide to state and local population projections</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Smith, Stanley K.</namePart>
+    <namePart type="termsOfAddress">(Demographer)</namePart>
+    <role>
+      <roleTerm type="text">author.</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Tayman, Jeff</namePart>
+    <namePart type="date">1951-</namePart>
+    <role>
+      <roleTerm type="text">author.</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Swanson, David A. (David Arthur)</namePart>
+    <namePart type="date">1946-</namePart>
+    <role>
+      <roleTerm type="text">author.</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <genre authority="rdacontent">text</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">ne</placeTerm>
+    </place>
+    <dateIssued encoding="marc">2013</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <originInfo eventType="publication">
+    <place>
+      <placeTerm type="text">Dordrecht ;</placeTerm>
+    </place>
+    <publisher>Springer,</publisher>
+    <dateIssued>[2013]</dateIssued>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xv, 411 pages : illustrations ; 25 cm.</extent>
+    <form type="media" authority="rdamedia">unmediated</form>
+    <form type="carrier" authority="rdacarrier">volume</form>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">Stanley K. Smith, Jeff Tayman, David A. Swanson.</note>
+  <note type="bibliography">Includes bibliographical references and index.</note>
+  <subject authority="lcsh">
+    <topic>Population forecasting</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Population forecasting</topic>
+    <topic>Methodology</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Population research</topic>
+    <topic>Methodology</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Demography</topic>
+    <topic>Methodology</topic>
+  </subject>
+  <classification authority="lcc">HB849.53 .S6254 2013</classification>
+  <relatedItem type="otherFormat" displayLabel="Also available online:">
+    <titleInfo>
+      <title>Practioner's guide to state and local population projections</title>
+    </titleInfo>
+    <name>
+      <namePart>Smith, Stanley K.</namePart>
+    </name>
+    <originInfo>
+      <publisher>Dordrecht : Springer, 2014</publisher>
+    </originInfo>
+    <identifier type="local">(OCoLC)868026619</identifier>
+  </relatedItem>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Springer series on demographic methods and population analysis ; 37</title>
+    </titleInfo>
+  </relatedItem>
+  <identifier type="isbn">9789400775503 (hbk)</identifier>
+  <identifier type="isbn">9400775504 (hbk)</identifier>
+  <identifier type="isbn" invalid="yes">9789400775510 (eBook)</identifier>
+  <identifier type="lccn">2013956645</identifier>
+  <identifier type="oclc">ocn862716342</identifier>
+  <recordInfo>
+    <descriptionStandard>rda</descriptionStandard>
+    <recordContentSource authority="marcorg">OHX</recordContentSource>
+    <recordCreationDate encoding="marc">131202</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20140630113543.0</recordChangeDate>
+    <recordIdentifier>17959717</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9789400775503</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>earth is faster now</title>
+    <subTitle>indigenous observations of Arctic environment change</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Krupnik, Igor.</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Jolly, Dyanna.</namePart>
+  </name>
+  <name type="corporate">
+    <namePart>Arctic Studies Center (National Museum of Natural History)</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">aku</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Fairbanks, Alaska</placeTerm>
+    </place>
+    <publisher>Arctic Research Consortium of the United States</publisher>
+    <dateIssued>2002</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xxvii, 356 p. : ill., maps ; 26 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">edited by Igor Krupnik and Dyanna Jolly.</note>
+  <note>"In cooperation with the Arctic Studies Center, Smithsonian Institution."</note>
+  <note type="bibliography">Includes bibliographical references.</note>
+  <note type="funding">Sponsored by the National Science Foundation (NSF) Arctic Social Sciences Program OPP-0101279</note>
+  <subject>
+    <geographicCode authority="marcgac">r------</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Climatic changes</topic>
+    <geographic>Arctic regions</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Indians of North America</topic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Arctic regions</geographic>
+    <topic>Climate</topic>
+  </subject>
+  <classification authority="lcc">QC994.8 .E37 2002</classification>
+  <classification authority="ddc" edition="21">551.6911/3</classification>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Frontiers in polar social science</title>
+    </titleInfo>
+  </relatedItem>
+  <identifier type="isbn">0972044906</identifier>
+  <identifier type="lccn">2003268287</identifier>
+  <identifier type="oclc">ocm50679745</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">ES0</recordContentSource>
+    <recordCreationDate encoding="marc">030123</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20150515140550.0</recordChangeDate>
+    <recordIdentifier>13066893</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9780972044905</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

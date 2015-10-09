@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Adaptive management</title>
+    <subTitle>the U.S. Department of the Interior technical guide</subTitle>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>U.S. Department of the Interior technical guide</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Williams, Byron K.</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Szaro, Robert C.</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Shapiro, Carl D.</namePart>
+  </name>
+  <name type="corporate">
+    <namePart>United States</namePart>
+    <namePart>Department of the Interior.</namePart>
+    <namePart>Adaptive Management Working Group.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <genre authority="marcgt">government publication</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">dcu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Washington, D.C.]</placeTerm>
+    </place>
+    <publisher>U.S. Dept. of the Interior, Adaptive Management Working Group</publisher>
+    <dateIssued>[2009]</dateIssued>
+    <dateIssued encoding="marc">2009</dateIssued>
+    <edition>2009 ed., updated.</edition>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>v, 72 p. : col. ill. ; 28 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">Adaptive Management Working Group ; lead authors, Byron K. Williams, Robert C. Szaro, and Carl D. Shapiro.</note>
+  <note type="bibliography">Includes bibliographical references (p. 66-70).</note>
+  <note type="additional physical form">Also available via Internet.</note>
+  <subject>
+    <geographicCode authority="marcgac">n-us---</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Environmental policy</topic>
+    <geographic>United States</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Natural resources</topic>
+    <geographic>United States</geographic>
+    <topic>Management</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Sustainable development</topic>
+    <topic>Government policy</topic>
+    <geographic>United States</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Conservation of natural resources</topic>
+    <topic>Government policy</topic>
+    <geographic>United States</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Land use</topic>
+    <topic>Government policy</topic>
+    <geographic>United States</geographic>
+  </subject>
+  <classification authority="lcc">HC110.E5 W536 2009</classification>
+  <classification authority="ddc" edition="22">333.70973</classification>
+  <location>
+    <url displayLabel="electronic resource" usage="primary display">http://www.doi.gov/initiatives/AdaptiveManagement/TechGuide.pdf</url>
+  </location>
+  <identifier type="isbn" invalid="yes">9781413324787</identifier>
+  <identifier type="lccn">2009526288</identifier>
+  <identifier type="oclc">ocn606892432</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">UDI</recordContentSource>
+    <recordCreationDate encoding="marc">100114</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20130606082650.0</recordChangeDate>
+    <recordIdentifier>16054248</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9781413324787</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

@@ -1,0 +1,14 @@
+Normalization Log 
+
+ISBN13 files: 185
+
+Files that have an ISBN, but are not ISBN-13 format: 2
+	933850a8-dc65-48a1-bc73-4047fed6a77e
+	0ba6f02e-a3d9-4da0-b147-50787c15c707
+
+Files without any ISBN: 3
+	b6c5075c-7f4c-4cf2-8624-1dbd3b94de32
+	458c01d4-613f-4d0d-b712-9c2c6c781651
+	72911cf4-f5dd-4ff4-99ae-fc01098e3b7c
+
+Total files: 190

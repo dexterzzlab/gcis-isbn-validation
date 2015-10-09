@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Agroecosystems in a changing climate</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Newton, Paul C. D.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">flu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Boca Raton, FL</placeTerm>
+    </place>
+    <publisher>CRC/Taylor &amp; Francis</publisher>
+    <dateIssued>c2007</dateIssued>
+    <dateIssued encoding="marc">2007</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>364 p. : ill. ; 25 cm.</extent>
+  </physicalDescription>
+  <tableOfContents>Climate change effects on biogeochemical cycles, nutrient and water supply / Pascal A. Niklaus -- Nutrient and water demands of plants under global climate change / Oula Ghannoum, Matthew J. Searson and Jann P. Conroy -- Climate change and symbiotic nitrogen fixation in agroecosystems / Richard B. Thomas, Skip J. Van Bloem and William H. Schlesinger -- Belowground food webs in a changing climate / Joseph C. Blankinship and Bruce A. Hungate -- Herbivory and nutrient cycling / R. Andrew Carran and Vincent Allard -- Sustainability of crop production systems under climate change / Ju&#x308;rg Fuhrer -- Plant performance and implications for plant population dynamics and species composition in a changing climate / Grant R. Edwards and Paul C.D. Newton -- Climate change effects on fungi in agroecosystems / Matthias C. Rillig -- Trophic interactions and climate change / Jonathan A. Newman -- Future weed/pest/disease problems for plants / Lewis H. Ziska and G. Brett Runion -- Distinguishing between acclimation and adaptation / Mark J. Hovenden -- Plant breeding for a changing environment / Paul C.D. Newton and Grant R. Edwards.</tableOfContents>
+  <note type="statement of responsibility" altRepGroup="00">edited by Paul C.D. Newton ... [et al.].</note>
+  <note type="bibliography">Includes bibliographical references and index.</note>
+  <subject authority="lcsh">
+    <topic>Agricultural ecology</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Climatic changes</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Agriculture</topic>
+    <topic>Environmental aspects</topic>
+  </subject>
+  <classification authority="lcc">S589.7 .A479 2007</classification>
+  <classification authority="ddc" edition="22">577.5/522</classification>
+  <location>
+    <url displayLabel="Table of contents" usage="primary display">http://www.loc.gov/catdir/toc/ecip0611/2006010178.html</url>
+  </location>
+  <location>
+    <url displayLabel="Publisher description">http://www.loc.gov/catdir/enhancements/fy0704/2006010178-d.html</url>
+  </location>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Advances in agroecology</title>
+    </titleInfo>
+  </relatedItem>
+  <identifier type="isbn">0849320887 (alk. paper)</identifier>
+  <identifier type="isbn">9780849320880</identifier>
+  <identifier type="lccn">2006010178</identifier>
+  <identifier type="oclc">ocm66463471</identifier>
+  <identifier type="oclc">66463471</identifier>
+  <relatedItem>
+    <location>
+      <url displayLabel="Publisher description">http://www.loc.gov/catdir/enhancements/fy0704/2006010178-d.html</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">DNAL/DLC</recordContentSource>
+    <recordCreationDate encoding="marc">060329</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20080221111114.0</recordChangeDate>
+    <recordIdentifier>14323831</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9780849320880</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

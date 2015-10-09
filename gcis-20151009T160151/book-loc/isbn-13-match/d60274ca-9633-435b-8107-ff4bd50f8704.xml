@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Climate change and Arctic sustainable development</title>
+    <subTitle>scientific, social, cultural and educational challenges</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Nakashima, Douglas.</namePart>
+  </name>
+  <name type="corporate">
+    <namePart>Unesco</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <genre authority="marcgt">conference publication</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">fr</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Paris</placeTerm>
+    </place>
+    <publisher>UNESCO</publisher>
+    <dateIssued>2009</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xvii, 357 p. : ill. (some col.), maps ; 24 cm.</extent>
+  </physicalDescription>
+  <abstract type="Summary">The Arctic is undergoing rapid and dramatic environmental and social transformations due to climate change. This has ramifications for the entire planet, as change spreads through interconnected global networks that are environmental, cultural, economic and political. Today, with the major thrust of research shifting away from deciphering causes and monitoring trends, the central preoccupation of a growing circle of actors has become the exploration of strategies for responding and adapting to climate change. But to understand the far-reaching nature of climate change impacts and the complexities of adaptation, a truly interdisciplinary approach is required. Unique in the UN system, UNESCO brings together the domains of natural sciences, social sciences, culture, education and communication. Given this broad mandate, UNESCO favors integrated approaches for monitoring and adapting to climate change in the Arctic, fostering dialogue among scientists, circumpolar communities and decision-makers. This book brings together the knowledge, concerns and visions of leading Arctic scientists in the natural and social sciences, prominent Chukchi, Even, Inuit and Saami leaders from across the circumpolar North, and international experts in education, health and ethics. They highlight the urgent need for a sustained interdisciplinary and multi-actor approach to monitoring, managing and responding to climate change in the Arctic, and explore avenues by which this can be achieved.--Publisher's description.</abstract>
+  <note type="statement of responsibility" altRepGroup="00">[coordinator, Douglas Nakashima].</note>
+  <note>Papers presented at a conference of the same name, held in Monaco March 3-6, 2009.</note>
+  <note type="bibliography">Includes bibliographical references.</note>
+  <note type="additional physical form">Also available online.</note>
+  <subject authority="lcsh">
+    <topic>Climatic changes</topic>
+    <geographic>Arctic regions</geographic>
+    <genre>Congresses</genre>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Sustainable development</topic>
+    <geographic>Arctic regions</geographic>
+    <genre>Congresses</genre>
+  </subject>
+  <classification authority="lcc">QC903.2.A68 C54 2009</classification>
+  <location>
+    <url displayLabel="electronic resource" usage="primary display" note="Connect to online resource">http://unesdoc.unesco.org/images/0018/001863/186364e.pdf</url>
+  </location>
+  <identifier type="isbn">9789231041396</identifier>
+  <identifier type="isbn">9231041398</identifier>
+  <identifier type="lccn">2010389024</identifier>
+  <identifier type="oclc">ocn495781800</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">BTCTA</recordContentSource>
+    <recordCreationDate encoding="marc">100304</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20100507141444.0</recordChangeDate>
+    <recordIdentifier>16119054</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9789231041396</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

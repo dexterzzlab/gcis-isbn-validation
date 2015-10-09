@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Assessment of climate change in the Southwest United States</title>
+    <subTitle>a report prepared for the National Climate Assessment</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Garfin, Gregg.</namePart>
+  </name>
+  <name type="corporate">
+    <namePart>National Climate Assessment (U.S.)</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">dcu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Washington, [D.C.]</placeTerm>
+    </place>
+    <publisher>Island Press</publisher>
+    <dateIssued>c2013</dateIssued>
+    <dateIssued encoding="marc">2013</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xiv, 506 p. : ill., maps ; 26 cm.</extent>
+  </physicalDescription>
+  <tableOfContents>Coastal issues / Margaret R. Caldwell, Eric H. Hartge, coordinating lead authors ; Lesley C. Ewing ... [et al.], lead authors.</tableOfContents>
+  <note type="statement of responsibility" altRepGroup="00">executive editor, Gregg Garfin ... [et al.].</note>
+  <note type="bibliography">Includes bibliographical references.</note>
+  <subject>
+    <geographicCode authority="marcgac">n-ust--</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Climatic changes</topic>
+    <geographic>Southwestern States</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Climatic changes</topic>
+    <topic>Risk assessment</topic>
+    <geographic>Southwestern States</geographic>
+  </subject>
+  <classification authority="lcc">QC903.2.U6 A85 2013</classification>
+  <classification authority="ddc" edition="23">551.6979</classification>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>National Climate Assessment regional technical input report series</title>
+    </titleInfo>
+  </relatedItem>
+  <identifier type="isbn">9781610914468 (pbk. : acid-free paper)</identifier>
+  <identifier type="isbn">1610914465 (pbk. : acid-free paper)</identifier>
+  <identifier type="lccn">2013444201</identifier>
+  <identifier type="oclc">ocn834403237</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">BTCTA</recordContentSource>
+    <recordCreationDate encoding="marc">131204</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20150210080402.0</recordChangeDate>
+    <recordIdentifier>17962807</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9781610914468</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

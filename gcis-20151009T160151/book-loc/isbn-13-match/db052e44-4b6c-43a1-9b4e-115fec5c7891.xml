@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Kivalina</title>
+    <subTitle>a climate change story</subTitle>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Shearer, Christine.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">ilu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Chicago, Ill</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">St. Paul, Minn.]</placeTerm>
+    </place>
+    <publisher>Haymarket Books</publisher>
+    <publisher>Distributed to the trade by Consortium Book Sales and Distribution</publisher>
+    <dateIssued>2011</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>vii, 199 p. : ill., map ; 22 cm.</extent>
+  </physicalDescription>
+  <abstract type="Summary">"For the people of Kivalina, Alaska, the price of further climate change denial could be the complete devastation of their lives and culture. Their village must be relocated to survive, but neither the fossil fuel giants or the U.s. government are willing to take full responsibility."--P. [4] of cover.</abstract>
+  <tableOfContents>Blueprint for denial -- Shaping legality -- Fossilized fuels and U.S. power -- Global what? -- The human face of global warming -- Relocation in a neoliberal state.</tableOfContents>
+  <note type="statement of responsibility" altRepGroup="00">Christine Shearer.</note>
+  <note type="bibliography">Includes bibliographical references and index.</note>
+  <subject>
+    <geographicCode authority="marcgac">n-us-ak</geographicCode>
+    <geographicCode authority="marcgac">n-us---</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Inupiat</topic>
+    <topic>Relocation</topic>
+    <geographic>Alaska</geographic>
+    <geographic>Kivalina</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Climatic changes</topic>
+    <topic>Economic aspects</topic>
+    <geographic>Alaska</geographic>
+    <geographic>Kivalina</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Environmental justice</topic>
+    <geographic>Alaska</geographic>
+    <geographic>Kivalina</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Climate change mitigation</topic>
+    <topic>Government policy</topic>
+    <geographic>United States</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Kivalina (Alaska)</geographic>
+    <topic>Economic conditions</topic>
+  </subject>
+  <classification authority="lcc">E99.E7 S463 2011</classification>
+  <classification authority="ddc" edition="22">979.8/7</classification>
+  <identifier type="isbn">9781608461288 (alk. paper)</identifier>
+  <identifier type="isbn">1608461289 (alk. paper)</identifier>
+  <identifier type="isbn">40019708942</identifier>
+  <identifier type="lccn">2010048651</identifier>
+  <identifier type="oclc">ocn669754970</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">101216</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20120213180119.0</recordChangeDate>
+    <recordIdentifier>16581492</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9781608461288</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

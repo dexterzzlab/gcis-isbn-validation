@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>hidden costs of coastal hazards</title>
+    <subTitle>implications for risk assessment and mitigation</subTitle>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>H. John Heinz III Center for Science, Economics, and the Environment</namePart>
+    <namePart>Panel on Risk, Vulnerability, and the True Costs of Coastal Hazards.</namePart>
+  </name>
+  <name type="corporate">
+    <namePart>H. John Heinz III Center for Science, Economics, and the Environment</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">dcu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Washington, D.C</placeTerm>
+    </place>
+    <publisher>Island Press</publisher>
+    <dateIssued>c2000</dateIssued>
+    <dateIssued encoding="marc">2000</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xxxii, 220 p. : ill. ; 23 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">[foreword by Gilbert F. White].</note>
+  <note>"The H. John Heinz III Center for Science, Economics, and the Environment."</note>
+  <note type="bibliography">Includes bibliographical references and index.</note>
+  <subject authority="lcsh">
+    <topic>Coastal zone management</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Regional planning</topic>
+  </subject>
+  <classification authority="lcc">HT391 .H23 2000</classification>
+  <classification authority="ddc" edition="21">333.91/7</classification>
+  <identifier type="isbn">1559637560 (pbk. : acid-free paper)</identifier>
+  <identifier type="lccn">99037171</identifier>
+  <relatedItem>
+    <location>
+      <url displayLabel="Publisher description">http://www.loc.gov/catdir/enhancements/fy0666/99037171-d.html</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">990623</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20060908124644.0</recordChangeDate>
+    <recordIdentifier>2631566</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9781559637565</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

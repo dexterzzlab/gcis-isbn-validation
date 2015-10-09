@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Advances in decision analysis</title>
+    <subTitle>from foundations to applications</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Edwards, Ward</namePart>
+    <namePart type="date">1927-2005</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Miles, Ralph F.</namePart>
+    <namePart type="date">1933-</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Von Winterfeldt, Detlof.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">enk</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Cambridge</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">New York</placeTerm>
+    </place>
+    <publisher>Cambridge University Press</publisher>
+    <dateIssued>2007</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xv, 623 p. : ill. ; 24 cm.</extent>
+  </physicalDescription>
+  <tableOfContents>The emergence of decision analysis / Ralph F. Miles, Jr. -- The foundations of decision analysis revisited / Ronald A. Howard -- Decision analysis : a personal account of how it got started and evolved / Howard Raiffa -- Reflections on the contributions of Ward Edwards to decision analysis and behavioral research / Lawrence D. Phillips and Detlof von Winterfeldt -- Defining a decision analytic structure / Detlof von Winterfeldt and Ward Edwards -- Developing objectives and attributes / Ralph L. Keeney -- Eliciting probabilities from experts / Stephen C. Hora -- Aggregating probability distributions / Robert T. Clemen and Robert L. Winkler -- Model building with belief networks and influence diagrams / Ross D. Shachter -- A Bayesian approach to learning causal networks / David Heckerman -- Utility and risk preferences / David E. Bell -- Practical value models -- Ralph L. Keeney and Detlof von Winterfeldt -- Extensions of the subjective expected utility model / Robert F. Nau -- Probabilistic risk analysis for engineered systems / Vicki M. Bier and Louis Anthony Cox, Jr. -- The engineering risk-analysis method and some applications / M. Elisabeth Pate&#x301;-Cornell -- Health risk analysis for risk-management decision-making / Louis Anthony Cox, Jr. -- What have we learned from our mistakes? / Barbara Mellers and Connson Locke -- Decision conferencing / Lawrence D. Phillips -- Resource allocation decisions / Don N. Kleinmuntz -- From decision analysis to the decision organization / David Matheson and James E. Matheson -- Building decision competency in organizations / Carl S. Spetzler -- Negotiation analysis : between decisions and games / James K. Sebenius -- The adoption of multiattribute utility theory for the evaluation of plutonium disposition options in the United States and Russia / John C. Butler, Alexander N. Chebeskov, James S. Dyer, Thomas A. Edmunds, Jianmin Jia, and Vladimir I. Oussanov -- Choosing a tritium supply technology for nuclear weapons : reflections on a controversial decision analysis / Detlof von Winterfeldt -- Applications of decision analysis to the military systems acquisition process / Dennis M. Buede and Terry A. Bresnick -- Balancing environmental and operational objectives in nuclear refueling strategies / Phillip C. Beccue and Jeffrey S. Stonebraker -- Perspective on decision analysis applications / Donald L. Keefer, Craig W. Kirkwood, and James L. Corner.</tableOfContents>
+  <note type="statement of responsibility" altRepGroup="00">edited by Ward Edwards, Ralph F. Miles, Jr., Detlof von Winterfeldt.</note>
+  <note type="bibliography">Includes bibliographical references and index.</note>
+  <subject authority="lcsh">
+    <topic>Decision making</topic>
+  </subject>
+  <classification authority="lcc">BF448 .A38 2007</classification>
+  <classification authority="ddc" edition="22">153.8/3</classification>
+  <location>
+    <url displayLabel="Table of contents only" usage="primary display">http://www.loc.gov/catdir/toc/ecip0618/2006025610.html</url>
+  </location>
+  <location>
+    <url displayLabel="Publisher description">http://www.loc.gov/catdir/enhancements/fy0668/2006025610-d.html</url>
+  </location>
+  <location>
+    <url displayLabel="Contributor biographical information">http://www.loc.gov/catdir/enhancements/fy0729/2006025610-b.html</url>
+  </location>
+  <identifier type="isbn">0521863686</identifier>
+  <identifier type="isbn">9780521863681</identifier>
+  <identifier type="isbn">0521682304 (pbk.)</identifier>
+  <identifier type="isbn">9780521682305 (pbk.)</identifier>
+  <identifier type="lccn">2006025610</identifier>
+  <identifier type="oclc">ocm70877901</identifier>
+  <identifier type="oclc">70877901</identifier>
+  <relatedItem>
+    <location>
+      <url displayLabel="Publisher description">http://www.loc.gov/catdir/enhancements/fy0668/2006025610-d.html</url>
+    </location>
+  </relatedItem>
+  <relatedItem>
+    <location>
+      <url displayLabel="Contributor biographical information">http://www.loc.gov/catdir/enhancements/fy0729/2006025610-b.html</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">060803</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20071015205716.0</recordChangeDate>
+    <recordIdentifier>14480350</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9780521682305</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

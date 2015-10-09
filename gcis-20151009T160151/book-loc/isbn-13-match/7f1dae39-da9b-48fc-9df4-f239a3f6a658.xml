@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Sustainability science</title>
+    <subTitle>the emerging paradigm and the urban environment</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Weinstein, Michael P.</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Turner, R. E. (Robert Eugene)</namePart>
+    <namePart type="date">1945-</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">nyu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">New York, NY</placeTerm>
+    </place>
+    <publisher>Springer</publisher>
+    <dateIssued>c2012</dateIssued>
+    <dateIssued encoding="marc">2012</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xx, 441 p. : ill. (some col.), col. maps ; 24 cm.</extent>
+  </physicalDescription>
+  <tableOfContents>Part 1. Managing the Earth's Life Support Systems: The Emergence of Sustainability Science and Transdisciplinarity -- From the Unity of Nature to Sustainability Science: Ideas and Practice / Robert W. Kates -- Sustaining Sustainability: Creating a Systems Science in a Fragmented Academy and Polarized World / John D. Sterman -- A Landscape Approach for Sustainability Science / Jianguo (Jingle) Wu -- It's OK to Talk About Sustainability / Alan D. Hecht -- Part 2. Balancing Ecology and Economy: Natural Capital and Quality of Life -- The Value of Natural and Social Capital in Our Current Full World and in a Sustainable and Desirable Future / Robert Costanza -- Steps Towards Sustainability and Tools for Restoring Natural Capital: Etang de Berre (Southern France) Case Study / James Aronson, Florian Claeys, Vanja Westerberg, Philippe Picon and Guillaume Bernard, et al. -- Sustainability of Biodiversity Under Global Changes, with Particular Reference to Biological Invasions / Daniel Simberloff -- Part 3. From Science to Policy: Managing the Commons, Social Learning and Social Responsibility -- "Post-sustainability": The Emergence of the Social Sciences as the Hand-Maidens of Policy / Michael R. Redclift -- The Purpose and Politics of Ecosystem-Based Management / Judith A. Layzer -- Sustainable Coastal Margins: Challenges of Tempo and Mode for the Policy Domain / Ronald C. Baird -- Fishery and Forest Transitions to Sustainability: A Comparative Analysis / Bonnie J. McCay and Thomas K. Rudel.</tableOfContents>
+  <tableOfContents>Part 4. The Ecology of Cities -- Cities as Dissipative Structures: Global Change and the Vulnerability of Urban Civilization / William E. Rees -- A Mathematical Description of Urban Metabolism / Christopher Kennedy -- Urbanization, Local Government, and Planning for Sustainability / Robert W. Taylor -- Climate Change, Globalization, and the Double Exposure Challenge to Sustainability: Rolling the Dice in Coastal New Jersey / Robin Leichenko -- Sustainability Trajectories for Urban Waters / Richard Burroughs -- Part 5. Restoring and Rehabilitating Ecosystems: Return from the Precipice -- Reversing Two Centuries of Wetland Degradation: Can Science Better Inform Policy and Practice? / Michael P. Weinstein, Steven Y. Litvin and Michael G. Frisk -- Changing Nature: Novel Ecosystems, Intervention, and Knowing When to Step Back / Eric Higgs -- Knocking on Doors: Boundary Objects in Ecological Conservation and Restoration / Jac. A. A. Swart and Henny J. van der Windt -- Sustainability: More About the Toolmaker than the Tools / R. Eugene Turner -- Epilogue: The Challenge of Sustainability: Lessons from an Evolutionary Perspective / Simon Levin.</tableOfContents>
+  <note type="statement of responsibility" altRepGroup="00">Michael P. Weinstein, R. Eugene Turner, editors.</note>
+  <note type="bibliography">Includes bibliographical references and index.</note>
+  <subject authority="lcsh">
+    <topic>Urban ecology (Sociology)</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Sustainable development</topic>
+  </subject>
+  <classification authority="lcc">HC79.E5 S86665 2012</classification>
+  <location>
+    <url displayLabel="Publisher description">http://www.loc.gov/catdir/enhancements/fy1303/2012937794-d.html</url>
+  </location>
+  <location>
+    <url displayLabel="Table of contents only" usage="primary display">http://www.loc.gov/catdir/enhancements/fy1303/2012937794-t.html</url>
+  </location>
+  <identifier type="isbn">9781461431879</identifier>
+  <identifier type="isbn">1461431875</identifier>
+  <identifier type="isbn">9781461431886 (electronic bk.)</identifier>
+  <identifier type="isbn">1461431883 (electronic bk.)</identifier>
+  <identifier type="lccn">2012937794</identifier>
+  <identifier type="oclc">ocn801521120</identifier>
+  <relatedItem>
+    <location>
+      <url displayLabel="Publisher description">http://www.loc.gov/catdir/enhancements/fy1303/2012937794-d.html</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">NJR</recordContentSource>
+    <recordCreationDate encoding="marc">120417</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20121025140225.0</recordChangeDate>
+    <recordIdentifier>17259139</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9781461431879</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

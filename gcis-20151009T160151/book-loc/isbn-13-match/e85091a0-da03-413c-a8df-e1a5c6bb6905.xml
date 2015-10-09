@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Research and networks for decision support in the NOAA Sectoral Applications Research Program</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>National Research Council (U.S.)</namePart>
+    <namePart>Panel on Design Issues for the NOAA Sectoral Applications Research Program.</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Ingram, Helen M.</namePart>
+    <namePart type="date">1937-</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Stern, Paul C.</namePart>
+    <namePart type="date">1944-</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">dcu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Washington, D.C</placeTerm>
+    </place>
+    <publisher>National Academies Press</publisher>
+    <dateIssued>c2008</dateIssued>
+    <dateIssued encoding="marc">2008</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xi, 85 p. ; 23 cm.</extent>
+  </physicalDescription>
+  <tableOfContents>Executive summary -- Introduction : the Sectoral Applications Research Program -- Climate forecasts as innovations and the concept of decision support -- Use-inspired science and communication -- Principles for selecting activities and modes of support -- Evaluating SARP -- References -- Biographical sketches of panel members and staff.</tableOfContents>
+  <note type="statement of responsibility" altRepGroup="00">Panel on Design Issues for the NOAA Sectoral Applications Research Program ; Helen M. Ingram and Paul C. Stern, editors ; Committee on the Human Dimensions of Global Change, Division of Behavioral and Social Sciences and Education, National Research Council of the National Academies.</note>
+  <note type="bibliography">Includes bibliographical references (p. 74-82).</note>
+  <subject>
+    <geographicCode authority="marcgac">n-us---</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>United States.</namePart>
+      <namePart>National Oceanic and Atmospheric Administration.</namePart>
+      <namePart>Sectoral Applications Research Program.</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Climatic changes</topic>
+    <topic>Research</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Climatic changes</topic>
+    <topic>Social aspects</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Science and state</topic>
+    <geographic>United States</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Research</topic>
+    <topic>Government policy</topic>
+    <geographic>United States</geographic>
+  </subject>
+  <classification authority="lcc">QC981.8.C5 N424 2008</classification>
+  <identifier type="isbn">0309112028 (pbk.)</identifier>
+  <identifier type="isbn">9780309112024 (pbk.)</identifier>
+  <identifier type="lccn">2009278223</identifier>
+  <identifier type="oclc">ocn180691097</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">YDXCP</recordContentSource>
+    <recordCreationDate encoding="marc">090521</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20100908111445.0</recordChangeDate>
+    <recordIdentifier>15747076</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9780309112024</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Climate change, ethics and human security</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>O'Brien, Karen L.</namePart>
+  </name>
+  <name type="personal">
+    <namePart>St. Clair, Asuncion Lera.</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Kristoffersen, Berit.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">nyu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">New York</placeTerm>
+    </place>
+    <publisher>Cambridge University Press</publisher>
+    <dateIssued>2010</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xiv, 231 p. : ill. ; 26 cm.</extent>
+  </physicalDescription>
+  <abstract type="Summary">"Presenting human security perspectives on climate change, this volume raises issues of equity, ethics and environmental justice, as well as our capacity to respond to what is increasingly considered to be the greatest societal challenge for humankind. Written by international experts, it argues that climate change must be viewed as an issue of human security, and not an environmental problem that can be managed in isolation from larger questions concerning development trajectories, and ethical obligations towards the poor and to future generations. The concept of human security offers a new approach to the challenges of climate change, and the responses that could lead to a more equitable and sustainable future. Climate Change, Ethics and Human Security will be of interest to researchers, policy makers, and practitioners concerned with the human dimensions of climate change, as well as to upper-level students in the social sciences and humanities interested in climate change"--</abstract>
+  <tableOfContents>Machine generated contents note: Foreword Heide Hackmann; Preface Karen O'Brien, Asuncio&#x301;n Lera St. Clair and Berit Kristoffersen; Part I. Framings: 1. The framing of climate change Karen O'Brien, Asuncio&#x301;n Lera St. Clair and Berit Kristoffersen; 2. The idea of human security Des Gasper; 3. Climate change science and policy in the South Pacific, as if people mattered Jon Barnett; Part II. Equity: 4. A 'shared vision'? Why inequality should worry us J. Timmons Roberts and Bradley C. Parks; 5. Fair decision making in a new climate of risk W. Neil Adger and Donald R. Nelson; Part III. Ethics: 6. Ethics, politics and the global environment Desmond McNeill; 7. Human rights, climate change and discounting Simon Caney; 8. Climate change: a global test for contemporary political institutions and theories Stephen Gardiner; Part IV. Reflexivity: 9. Linking sustainable development with climate change adaptation and mitigation Livia Bizikova, Sarah Burch, John Robinson and Stewart Cohen; 10. Global poverty and climate change: the responsibility to protect Asuncio&#x301;n Lera St. Clair; 11. Security for whom? Social contracts in a changing climate Bronwyn Hayward and Karen O'Brien; 12. Towards a new science on climate change Karen O'Brien, Asuncio&#x301;n Lera St. Clair and Berit Kristoffersen; Index.</tableOfContents>
+  <note type="statement of responsibility" altRepGroup="00">edited by Karen O'Brien, Asuncio&#x301;n Lera St. Clair, Berit Kristoffersen.</note>
+  <note type="bibliography">Includes bibliographical references and index.</note>
+  <subject authority="lcsh">
+    <topic>Human beings</topic>
+    <topic>Effect of climate on</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Human security</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Human rights</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Climatic changes</topic>
+    <topic>Social aspects</topic>
+  </subject>
+  <classification authority="lcc">GF71 .C56 2010</classification>
+  <classification authority="ddc" edition="22">304.2/3</classification>
+  <identifier type="isbn">9780521197663 (hardback)</identifier>
+  <identifier type="lccn">2010015149</identifier>
+  <relatedItem>
+    <location>
+      <url displayLabel="Cover image">http://assets.cambridge.org/97805211/97663/cover/9780521197663.jpg</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">100409</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20110407162045.0</recordChangeDate>
+    <recordIdentifier>16179264</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9780521197663</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Pasteur's quadrant</title>
+    <subTitle>basic science and technological innovation</subTitle>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Stokes, Donald E.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">dcu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Washington, D.C</placeTerm>
+    </place>
+    <publisher>Brookings Institution Press</publisher>
+    <dateIssued>c1997</dateIssued>
+    <dateIssued encoding="marc">1997</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xiv, 180 p. : ill. ; 24 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">Donald E. Stokes.</note>
+  <note type="bibliography">Includes bibliographical references (p. 153-173) and index.</note>
+  <subject>
+    <geographicCode authority="marcgac">n-us---</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Science and state</topic>
+    <geographic>United States</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Technology and state</topic>
+    <geographic>United States</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Science</topic>
+    <topic>History</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Research</topic>
+    <topic>History</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Technological innovations</topic>
+    <topic>History</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Paradigm (Theory of knowledge)</topic>
+  </subject>
+  <classification authority="lcc">Q127.U6 S757 1997</classification>
+  <classification authority="ddc" edition="21">338.97306</classification>
+  <identifier type="isbn">0815781784 (cloth : alk. paper)</identifier>
+  <identifier type="isbn">0815781776 (pbk. : alk. paper)</identifier>
+  <identifier type="lccn">97004807</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">970326</recordCreationDate>
+    <recordChangeDate encoding="iso8601">19980708153426.6</recordChangeDate>
+    <recordIdentifier>3069272</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9780815781776</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

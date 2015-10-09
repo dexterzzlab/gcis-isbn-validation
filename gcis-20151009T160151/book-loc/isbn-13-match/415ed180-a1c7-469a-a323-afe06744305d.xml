@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Making climate forecasts matter</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Climate forecasts</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Stern, Paul C.</namePart>
+    <namePart type="date">1944-</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Easterling, William E.</namePart>
+  </name>
+  <name type="corporate">
+    <namePart>National Research Council (U.S.)</namePart>
+    <namePart>Panel on the Human Dimensions of Seasonal-to-Interannual Climate Variability.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">dcu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Washington, D.C</placeTerm>
+    </place>
+    <publisher>National Academy Press</publisher>
+    <dateIssued>c1999</dateIssued>
+    <dateIssued encoding="marc">1999</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xii, 175 p. : ill. ; 24 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">Paul C. Stern and William E. Easterling, editors ; Panel on the Human Dimensions of Seasonal-to-Interannual Climate Variability, Committee on the Human Dimensions of Global Change, Commission on Behavioral and Social Sciences and Education, National Research Council.</note>
+  <note type="bibliography">Includes bibliographical references (p. 142-159) and index.</note>
+  <subject authority="lcsh">
+    <topic>Climatic changes</topic>
+    <topic>Social aspects</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Weather forecasting</topic>
+    <topic>Social aspects</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Long-range weather forecasts</topic>
+    <topic>Social aspects</topic>
+  </subject>
+  <classification authority="lcc">QC981.8.C5 M345 1999</classification>
+  <classification authority="ddc" edition="21">551.63</classification>
+  <identifier type="isbn">0309064759 (hardcover)</identifier>
+  <identifier type="lccn">99006247</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">990310</recordCreationDate>
+    <recordChangeDate encoding="iso8601">19990813073812.0</recordChangeDate>
+    <recordIdentifier>3101739</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9780309064750</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

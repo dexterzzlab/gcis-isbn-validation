@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Climate change in the Adirondacks</title>
+    <subTitle>the path to sustainability</subTitle>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Jenkins, Jerry (Jerry C.)</namePart>
+  </name>
+  <name type="corporate">
+    <namePart>Wildlife Conservation Society (New York, N.Y.)</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">nyu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Ithaca</placeTerm>
+    </place>
+    <publisher>Comstock Pub. Associates</publisher>
+    <dateIssued>2010</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xv, 183 p. : col. ill., col. maps ; 28 cm.</extent>
+  </physicalDescription>
+  <tableOfContents>Introduction : we have a climate problem -- The weather is changing -- The climate problem is an energy problem -- How much could the Adirondacks change? -- What we might lose -- Biology and recreation are changing -- Assessment : Adirondack carbon emissions -- Reduction : low-carbon transport -- Reduction : low-carbon buildings -- Replacement : low-carbon energy -- Offsets : carbon in Adirondack forests -- Can the Adirondacks become energy independent? -- How can we finance energy independence? -- The path forward -- Appendix : calculating energy and emissions.</tableOfContents>
+  <note type="statement of responsibility" altRepGroup="00">Jerry Jenkins ; foreword by Bill McKibben.</note>
+  <note>"A project of the Wildlife Conservation Society Adirondack Program."</note>
+  <note type="bibliography">Includes bibliographical references and index.</note>
+  <subject>
+    <geographicCode authority="marcgac">n-us-ny</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Climatic changes</topic>
+    <geographic>New York (State)</geographic>
+    <geographic>Adirondack Mountains Region</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Energy consumption</topic>
+    <topic>Environmental aspects</topic>
+    <geographic>New York (State)</geographic>
+    <geographic>Adirondack Mountains Region</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Energy policy</topic>
+    <topic>Environmental aspects</topic>
+    <geographic>New York (State)</geographic>
+    <geographic>Adirondack Mountains Region</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Sustainable development</topic>
+    <geographic>New York (State)</geographic>
+    <geographic>Adirondack Mountains Region</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Environmental policy</topic>
+    <geographic>New York (State)</geographic>
+    <geographic>Adirondack Mountains Region</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Adirondack Mountains Region (N.Y.)</geographic>
+    <topic>Environmental conditions</topic>
+  </subject>
+  <classification authority="lcc">QC984.N7 J46 2010</classification>
+  <classification authority="ddc" edition="22">363.738/746097475</classification>
+  <identifier type="isbn">9780801476518 (pbk. : alk. paper)</identifier>
+  <identifier type="isbn">0801476518 (pbk. : alk. paper)</identifier>
+  <identifier type="isbn">3177660</identifier>
+  <identifier type="lccn">2009053992</identifier>
+  <identifier type="oclc">ocn475444468</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">NIC/DLC</recordContentSource>
+    <recordCreationDate encoding="marc">100104</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20140916090242.0</recordChangeDate>
+    <recordIdentifier>16040526</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9780801476518</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

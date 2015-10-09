@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Encyclopedia of hydrological sciences</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Anderson, M. G.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">enk</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Chichester, West Sussex, England</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Hoboken, NJ</placeTerm>
+    </place>
+    <publisher>J. Wiley</publisher>
+    <dateIssued>c2005</dateIssued>
+    <dateIssued encoding="marc">2005</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>5 v. : ill., maps ; 29 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">editor-in-chief, Malcolm G. Anderson ; senior advisory editor, Jeffrey J. McDonnell.</note>
+  <note type="bibliography">Includes bibliographical references and index.</note>
+  <subject authority="lcsh">
+    <topic>Hydrology</topic>
+    <genre>Encyclopedias</genre>
+  </subject>
+  <classification authority="lcc">GB655 .E527 2005</classification>
+  <classification authority="ddc" edition="22">551.48/03</classification>
+  <location>
+    <url displayLabel="Table of contents" usage="primary display">http://www.loc.gov/catdir/toc/ecip0517/2005022541.html</url>
+  </location>
+  <location>
+    <url displayLabel="Publisher description">http://www.loc.gov/catdir/enhancements/fy0622/2005022541-d.html</url>
+  </location>
+  <identifier type="isbn">0471491039 (cased)</identifier>
+  <identifier type="isbn">9780471491033 (cased)</identifier>
+  <identifier type="isbn">0470848944 (obook)</identifier>
+  <identifier type="isbn">9780470848944 (obook)</identifier>
+  <identifier type="isbn" invalid="yes">9780471491039</identifier>
+  <identifier type="lccn">2005022541</identifier>
+  <identifier type="oclc">ocm61247175</identifier>
+  <identifier type="oclc">61247175</identifier>
+  <relatedItem>
+    <location>
+      <url displayLabel="Publisher description">http://www.loc.gov/catdir/enhancements/fy0622/2005022541-d.html</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">050803</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20080219100557.0</recordChangeDate>
+    <recordIdentifier>14063309</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9780470848944</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

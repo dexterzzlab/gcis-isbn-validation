@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Atmospheric chemistry and physics</title>
+    <subTitle>from air pollution to climate change</subTitle>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Seinfeld, John H.</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Pandis, Spyros N.</namePart>
+    <namePart type="date">1963-</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">nju</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Hoboken, N.J</placeTerm>
+    </place>
+    <publisher>J. Wiley</publisher>
+    <dateIssued>c2006</dateIssued>
+    <dateIssued encoding="marc">2006</dateIssued>
+    <edition>2nd ed.</edition>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xxviii, 1203 p. : ill. ; 26 cm.</extent>
+  </physicalDescription>
+  <tableOfContents>The atmosphere -- Atmospheric trace constituents -- Chemical kinetics -- Atmospheric radiation and photochemistry -- Chemistry of the stratosphere -- Chemistry of the troposphere -- Chemistry of the atmospheric aqueous phase -- Properties of the atmospheric aerosol -- Dynamics of single aerosol particles -- Thermodynamics of aerosols -- Nucleation -- Mass transfer aspects of atmospheric chemistry -- Dynamics of aerosol populations -- Organic atmospheric aerosols -- Interaction of aerosols with radiation -- Meteorology of the local scale -- Cloud physics -- Atmospheric diffusion -- Dry deposition -- Wet deposition -- General circulation of the atmosphere -- Global cycles: sulfur and carbon -- Climate and chemical composition of the atmosphere -- Aerosols and climate -- Atmospheric chemical transport models -- Statistical models.</tableOfContents>
+  <note type="statement of responsibility" altRepGroup="00">John H. Seinfeld, Spyros N. Pandis.</note>
+  <note>"A Wiley-Interscience publication."</note>
+  <note type="bibliography">Includes bibliographical references (p. 1172-1174) and index.</note>
+  <subject authority="lcsh">
+    <topic>Atmospheric chemistry</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Air</topic>
+    <topic>Pollution</topic>
+    <topic>Environmental aspects</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Environmental chemistry</topic>
+  </subject>
+  <classification authority="lcc">QC879.6 .S45 2006</classification>
+  <classification authority="ddc" edition="22">551.51/1</classification>
+  <location>
+    <url displayLabel="Contributor biographical information">http://www.loc.gov/catdir/enhancements/fy0826/2005058370-b.html</url>
+  </location>
+  <location>
+    <url displayLabel="Publisher description">http://www.loc.gov/catdir/enhancements/fy0826/2005058370-d.html</url>
+  </location>
+  <location>
+    <url displayLabel="Table of contents only" usage="primary display">http://www.loc.gov/catdir/enhancements/fy0826/2005058370-t.html</url>
+  </location>
+  <identifier type="isbn">0471720178 (cloth)</identifier>
+  <identifier type="isbn">0471720186 (pbk.)</identifier>
+  <identifier type="isbn">9780471720171</identifier>
+  <identifier type="isbn">9780471720188</identifier>
+  <identifier type="lccn">2005058370</identifier>
+  <identifier type="lccn" invalid="yes">2005056954</identifier>
+  <identifier type="oclc">ocm62493628</identifier>
+  <identifier type="oclc">62493628</identifier>
+  <relatedItem>
+    <location>
+      <url displayLabel="Contributor biographical information">http://www.loc.gov/catdir/enhancements/fy0826/2005058370-b.html</url>
+    </location>
+  </relatedItem>
+  <relatedItem>
+    <location>
+      <url displayLabel="Publisher description">http://www.loc.gov/catdir/enhancements/fy0826/2005058370-d.html</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">051202</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20081017091557.0</recordChangeDate>
+    <recordIdentifier>14187410</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9780471720188</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

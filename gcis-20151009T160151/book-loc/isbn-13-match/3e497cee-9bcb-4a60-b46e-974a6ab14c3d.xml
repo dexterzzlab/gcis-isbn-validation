@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>A </nonSort>
+    <title>review of the use of science and adaptive management in California's draft Bay Delta Conservation Plan</title>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>California's Draft Bay Delta Conservation Plan</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>National Research Council (U.S.)</namePart>
+    <namePart>Panel to Review California's Draft Bay Delta Conservation Plan.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">dcu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Washington, D.C</placeTerm>
+    </place>
+    <publisher>National Academies Press</publisher>
+    <dateIssued>c2011</dateIssued>
+    <dateIssued encoding="marc">2011</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>x, 81 p. : ill., maps (chiefly col.) ; 23 cm.</extent>
+  </physicalDescription>
+  <abstract type="Summary">"The San Francisco Bay Delta Estuary is a large, complex estuarine ecosystem in California. It has been substantially altered by dikes, levees, channelization, pumps, human development, introduced species, dams on its tributary streams and contaminants. The Delta supplies water from the state's wetter northern regions to the drier southern regions and also serves as habitat for many species, some of which are threatened and endangered. The restoration of water exacerbated tensions over water allocation in recent years, and have led to various attempts to develop comprehensive plans to provide reliable water supplies and to protect the ecosystem. One of these plans is the Bay Delta Conservation Plan (BDCP). The report, A review of the use of science and adaptive management in California's draft Bay Delta Conservation Plan, determines that the plan is incomplete in a number of important areas and takes this opportunity to identify key scientific and structural gaps that, if addressed, could lead to a more successful and comprehensive final BDCP. The plan is missing the type of structure usually associated with current planning methods in which the goals and objectives are specified, alternative measure for achieving the objectives are introduced and analyzed, and a course of action in identified based on analytical optimization of economic, social, and environmental factors. Yet the panel underscores the importance of a credible and a robust BDCP in addressing the various water management problems that beset the Delta. A stronger, more complete, and more scientifically credible BDCP that effectively integrates and utilizes science could indeed pave the way toward the next generation of solutions to California's chronic water problems."--Publisher's description.</abstract>
+  <tableOfContents>Background -- Critical gaps in the scope of the draft BDCP -- Use of science in the BDCP -- Adaptive management in the BDCP -- Management fragmentation and a lack of coherence -- In conclusion.</tableOfContents>
+  <note type="statement of responsibility" altRepGroup="00">Panel to Review California's Draft Bay Delta Conservation Plan, Water Science and Technology Board, Ocean Studies Board, Division on Earth and Life Studies, National Research Council of the National Academies.</note>
+  <note type="bibliography">Includes bibliographical references (p. 52-60).</note>
+  <note type="additional physical form">Also available online in Open Book format via the National Academies Press home page.</note>
+  <subject>
+    <geographicCode authority="marcgac">n-us-ca</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>Bay Delta Conservation Plan (Calif.)</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Natural resources conservation areas</topic>
+    <geographic>California</geographic>
+    <geographic>Delta Region</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Ecosystem management</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Water conservation</topic>
+    <geographic>California</geographic>
+    <geographic>Delta Region</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Wetland restoration</topic>
+    <geographic>California</geographic>
+    <geographic>Delta Region</geographic>
+  </subject>
+  <classification authority="lcc">QH76.5.C2 N367 2011</classification>
+  <location>
+    <url displayLabel="National Academies Press" usage="primary display">http://www.nap.edu/catalog.php?record_id=13148</url>
+  </location>
+  <location>
+    <url displayLabel="National Academies Press">http://books.nap.edu/openbook.php?record_id=13148</url>
+  </location>
+  <identifier type="isbn">9780309212311 (pbk.)</identifier>
+  <identifier type="isbn">0309212316 (pbk.)</identifier>
+  <identifier type="lccn">2012471902</identifier>
+  <identifier type="oclc">ocn730412355</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">BTCTA</recordContentSource>
+    <recordCreationDate encoding="marc">121025</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20121101103525.0</recordChangeDate>
+    <recordIdentifier>17508416</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9780309212311</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

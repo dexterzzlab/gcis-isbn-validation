@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Race, place, and environmental justice after Hurricane Katrina</title>
+    <subTitle>struggles to reclaim, rebuild, and revitalize New Orleans and the Gulf Coast</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Bullard, Robert D. (Robert Doyle)</namePart>
+    <namePart type="date">1946-</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Wright, Beverly</namePart>
+    <namePart type="termsOfAddress">Ph. D</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">cou</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Boulder, CO</placeTerm>
+    </place>
+    <publisher>Westview Press</publisher>
+    <dateIssued>c2009</dateIssued>
+    <dateIssued encoding="marc">2009</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xxii, 290 p. : ill., maps ; 23 cm.</extent>
+  </physicalDescription>
+  <tableOfContents>Race, place, and the environment in post-Katrina New Orleans / Robert D. Bullard and Beverly Wright -- The overlooked significance of place in law and policy : lessons from Hurricane Katrina / Debra Lyn Bassett -- Transportation matters : stranded on the side of the road before and after disasters strike / Robert D. Bullard, Glenn S. Johnson, and Angel O. Torres -- Katrina and the condition of black New Orleans : the struggle for justice, equity, and democracy / Mtangulizi Sanyika -- Contaminants in the air and soil in New Orleans after the flood : opportunities and limitations for community empowerment / Rachel Godsil, Albert Huang, and Gina Solomon -- Investing in human capital and healthy rebuilding in the aftermath of Hurricane Katrina / Sheila J. Webb -- Making the case for community-based laboratories : a new strategy for environmental justice / Earthea Nance -- Post-Katrina profiteering : the new Big Easy / Rita J. King -- Rebuilding lives post-Katrina : choices and challenges in New Orleans's economic development / Robert K. Whelan and Denise Strong -- The color of opportunity and the future of New Orleans : planning, rebuilding, and social inclusion after Hurricane Katrina / Mafruza Khan -- Housing recovery in the Ninth Ward : disparities in policy, process, and prospects / Lisa K. Bates and Rebekah A. Green -- Unnatural disaster : social impacts and policy choices after Katrina / John R. Logan -- Afterword : looking back to move forward / Beverly Wright and Robert D. Bullard.</tableOfContents>
+  <note type="statement of responsibility" altRepGroup="00">edited by Robert D. Bullard, Beverly Wright.</note>
+  <note type="bibliography">Includes bibliographical references and index.</note>
+  <subject>
+    <geographicCode authority="marcgac">n-us-la</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Emergency management</topic>
+    <geographic>Louisiana</geographic>
+    <geographic>New Orleans</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Crisis management</topic>
+    <geographic>Louisiana</geographic>
+    <geographic>New Orleans</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Disaster relief</topic>
+    <geographic>Louisiana</geographic>
+    <geographic>New Orleans</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Hurricane Katrina, 2005</topic>
+  </subject>
+  <classification authority="lcc">HV551.4 .R34 2009</classification>
+  <classification authority="ddc" edition="22">976.3/35064</classification>
+  <location>
+    <url displayLabel="Table of contents only" usage="primary display">http://www.loc.gov/catdir/toc/fy1001/2008044517.html</url>
+  </location>
+  <identifier type="isbn">0813344247 (pbk. : alk. paper)</identifier>
+  <identifier type="isbn">9780813344249 (pbk. : alk. paper)</identifier>
+  <identifier type="lccn">2008044517</identifier>
+  <identifier type="oclc">ocn251196760</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">081022</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20091026145742.0</recordChangeDate>
+    <recordIdentifier>15494436</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9780813344249</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

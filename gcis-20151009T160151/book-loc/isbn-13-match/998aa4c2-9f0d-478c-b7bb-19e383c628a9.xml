@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Climate variability and extremes during the past 100 years</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Bro&#x308;nnimann, Stefan.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">ne</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Dordrecht]</placeTerm>
+    </place>
+    <publisher>Springer</publisher>
+    <dateIssued>c2008</dateIssued>
+    <dateIssued encoding="marc">2008</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xv, 361 p. : ill. (some col.) ; 24 cm.</extent>
+  </physicalDescription>
+  <tableOfContents>A focus on climate during the past 100 years / S. Bro&#x308;nnimann ... [et al.] -- From the bottom to the stratosphere : arctic climate features as seen from the First International Polar Year (1882-1883) until the end of World War II / C. Lu&#x308;decke -- Arctic sea ice data sets in the context of climate change during the 20th century / G.V. Alekseev ... [et al.] -- The evolving SST record from ICOADS / S.D. Woodruff ... [et al.] -- Upper-air temperature trends : current problems and some recent results / A.M. Sterin, V.M.Khan, and K.G. Rubinshtein -- Atmospheric reanalyses and climate variations / S. Uppala ... [et al.] -- Constructing climate quality atmospheric temperatures from satellite microwave measurements / C.A. Mears -- Total ozone observations during the past 80 years / S. Bro&#x308;nnimann ... [et al.] -- Arctic sea ice variability during the last half century / J. Stroeve and W. Maslowski -- Decadal changes in surface radiative fluxes and their role in global climate change / M. Wild -- Observed interdecadal changes in cloudiness : real or spurious? / J.R. Norris -- The role of land-atmosphere interactions for climate variability in Europe / S.I. Seneviratne and R. Sto&#x308;ckli -- Aerosol effects on precipitation locally and globally / U. Lohmann -- Human activity and climate change in Africa / H. Paeth -- Impacts of climate variability, trends and NAO on 20th century European plant phenology / A. Menzel, N. Estrella, and C. Schleip -- Summer heat waves in Western Europe, their past change and future projections / P.M. Della-Marta and M. Beniston -- Distribution changes of seasonal mean temperature in observations and climate change scenarios / S.C. Scherrer, M.A. Liniger, and C. Appenzeller -- Long-term tropospheric ozone trends : a critical review / J. Staehelin and C. Schnadt Poberaj -- Simulation of long-term evolution of stratospheric dynamics and chemistry : role of natural and anthropogenic forcings / M. Dameris and R. Deckert -- Dynamical changes in the arctic and antarctic stratosphere during spring / U. Langematz and M. Kunze -- Creating knowledge from the confrontation of observations and models : the case of stratospheric ozone / G.P. Brasseur -- Response of the earth's atmosphere to the solar irradiance variability / E. Rozanov, T. Egorova, and W. Schmutz -- Stratospheric ozone variations caused by solar proton events between 1963 and 2005 / C.H. Jackman and E.L. Fleming -- Sunspots, the QBO, and the stratosphere in the north polar region : an update / K. Labitzke, M. Kunze, and S. Bro&#x308;nnimann.</tableOfContents>
+  <note type="statement of responsibility" altRepGroup="00">Stefan Bro&#x308;nnimann ... [et al.], editors.</note>
+  <note type="bibliography">Includes bibliographical references and index.</note>
+  <subject authority="lcsh">
+    <topic>Climatic changes</topic>
+    <genre>Congresses</genre>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Climatic changes</topic>
+    <topic>History</topic>
+    <temporal>20th century</temporal>
+    <genre>Congresses</genre>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Climatic changes</topic>
+    <topic>Social aspects</topic>
+    <genre>Congresses</genre>
+  </subject>
+  <classification authority="lcc">QC981.8.C5 C61855 2008</classification>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Advances in global change research ; v. 33</title>
+    </titleInfo>
+  </relatedItem>
+  <identifier type="isbn">9781402067655 (hbk.)</identifier>
+  <identifier type="isbn">1402067658 (hbk.)</identifier>
+  <identifier type="lccn">2007940817</identifier>
+  <identifier type="oclc">ocn195612778</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">UKM</recordContentSource>
+    <recordCreationDate encoding="marc">071106</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20100505154909.0</recordChangeDate>
+    <recordIdentifier>15072027</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9781402067655</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Risk modeling, assessment, and management</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Haimes, Yacov Y.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">nju</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Hoboken, NJ</placeTerm>
+    </place>
+    <publisher>John Wiley &amp; Sons</publisher>
+    <dateIssued>c2009</dateIssued>
+    <dateIssued encoding="marc">2009</dateIssued>
+    <edition>3rd ed.</edition>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xxiii, 1009 p. : ill. ; 25 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">Yacov Y. Haimes.</note>
+  <note type="bibliography">Includes bibliographical references and index.</note>
+  <subject authority="lcsh">
+    <topic>Technology</topic>
+    <topic>Risk assessment</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Technology</topic>
+    <topic>Risk assessment</topic>
+    <genre>Case studies</genre>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Risk management</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Risk management</topic>
+    <genre>Case studies</genre>
+  </subject>
+  <classification authority="lcc">T174.5 .H35 2009</classification>
+  <classification authority="ddc" edition="22">658.15/5011</classification>
+  <location>
+    <url displayLabel="Table of contents only" usage="primary display">http://www.loc.gov/catdir/toc/ecip0821/2008026773.html</url>
+  </location>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Wiley series in systems engineering and management</title>
+    </titleInfo>
+  </relatedItem>
+  <identifier type="isbn">9780470282373 (cloth)</identifier>
+  <identifier type="isbn">0470282371 (cloth)</identifier>
+  <identifier type="lccn">2008026773</identifier>
+  <identifier type="oclc">232605676</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">080613</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20090901064229.0</recordChangeDate>
+    <recordIdentifier>15328991</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9780470282373</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

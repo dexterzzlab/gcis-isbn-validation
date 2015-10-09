@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Investigating quality of urban life</title>
+    <subTitle>theory, methods and empirical research</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Marans, Robert W.</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Stimson, R. J. (Robert John)</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">ne</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Dordrecht</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">New York</placeTerm>
+    </place>
+    <publisher>Springer</publisher>
+    <dateIssued>c2011</dateIssued>
+    <dateIssued encoding="marc">2011</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xvi, 453 p. : ill., maps ; 24 cm.</extent>
+  </physicalDescription>
+  <abstract type="Summary">This volume synthesizes past and current, international research on the quality of urban life. It emphasizes the contributions of the urban environment to the overall well-being of residents living in urban are as ranging in scale from small cities and their hinterlands to metropolitan regions. The term urban environment refers to the socio-physical aspects of urban living ranging from individual dwellings and neighborhoods to public services (i.e. transportation, rubbish collection etc.) to neighbors and community organization. The work emphasizes not only perceptions of and behaviors within urban environments but the actual conditions to which individuals are responding. The research covers both the subjective and behavioral aspects of urban living as well as the objective conditions which drive them. Drawing on collaborative research with a broad group of researchers in a variety of settings around the world, the book incorporates theoretical and methodological approaches to the conceptualizing and measuring of quality of life. It covers research designs that are based on both the analysis and modeling of aggregate secondary data and on the collection, analysis and modeling of primary survey data on subjective urban quality of life. --Book Jacket.</abstract>
+  <tableOfContents>An overview of quality of urban life / Robert W. Marans, Robert Stimson -- Objective measurement of quality of life using secondary data analysis / Robert Stimson, Robert W. Marans -- Subjective measurement of quality of life using primary data collection and the analysis of survey data / Rod McCrea, Robert W. Marans, Robert Stimson, John Western -- The evolution of integrative approaches to the analysis of quality of urban life / Rod McCrea, Robert Stimson, Robert W. Marans -- Amenities, quality of life, and regional development / Gordon F. Mulligan, John I. Carruthers -- Variations in objective quality of urban life across a city region : the case of Phoenix / Subhrajit Guhathakurta, Ying Cao -- The quality of life in metro Detroit at the beginning of the millennium / Robert W. Marans, Byoung-Suk Kweon -- The Brisbane-South East Queensland region, Australia : subjective assessment of quality of urban life and changes over time / Robert Stimson, Rod McCrea, John Western -- Measuring quality of urban life in Istanbul / Handan Tu&#x308;rkog&#x306;lu, Fulin Bo&#x308;len, Perver Korc&#x327;a Baran, Fatih Terzi -- The quality of urban life and neighborhood satisfaction in Famagusta, Northern Cyprus / Derya Oktay, Ahmet Rustemli -- The quality of life in Dhaka, Bangladesh : neighborhood quality as a major component of residential satisfaction / Abul Mukim Mozammel Haque Mridha, Gary T. Moore -- The Salzburg quality of urban life study with GIS support / Alexander G. Keul, Thomas Prinz -- Subjective quality of life in Queensland : comparing metropolitan, regional and rural areas / Rod McCrea, Mark Western, Tung-Kai Shyy -- Comparing urban and rural quality of life in the state of Washington / Benjamin L. Messer, Don A. Dillman -- Modeling determinants of subjective QOUL at different geographic scales : the case of the Brisbane-SEQ region / Rod McCrea, John Western, Robert Stimson -- Disaggregating the measurement of quality of urban life dimensions across a complex metro region : the case of metro Detroit / Byoung-Suk Kweon, Robert W. Marans -- A spatial clustering approach analyzing types of objective quality of urban life using spatial data for survey respondents : South East Queensland, Australia / Rod McCrea -- Using GIS to derive region-wide patterns of quality of urban life dimensions : illustrated with data from the Brisbane-SEQ region / Prem Chhetri, Robert Stimson, John Western -- Challenges for quality of urban life research / Robert W. Marans, Robert Stimson.</tableOfContents>
+  <note type="statement of responsibility" altRepGroup="00">Robert W. Marans, Robert J. Stimson, editors.</note>
+  <note type="bibliography">Includes bibliographical references and index.</note>
+  <subject authority="lcsh">
+    <topic>Quality of life</topic>
+    <topic>Measurement</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>City and town life</topic>
+  </subject>
+  <classification authority="lcc">HT153 .I55 2011</classification>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Social indicators research series ; v. 45</title>
+    </titleInfo>
+  </relatedItem>
+  <identifier type="isbn">9789400717411 (hdb.)</identifier>
+  <identifier type="isbn">9400717415 (hdb.)</identifier>
+  <identifier type="isbn">9789400717428 (ebook)</identifier>
+  <identifier type="isbn">9400717423 (ebook)</identifier>
+  <identifier type="lccn">2011937028</identifier>
+  <identifier type="oclc">ocn731918621</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">BTCTA</recordContentSource>
+    <recordCreationDate encoding="marc">110822</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20130419190917.0</recordChangeDate>
+    <recordIdentifier>16929975</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9789400717428</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

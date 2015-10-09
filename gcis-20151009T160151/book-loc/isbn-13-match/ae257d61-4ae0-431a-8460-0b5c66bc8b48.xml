@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Multi-criteria decision analysis</title>
+    <subTitle>environmental applications and case studies</subTitle>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Linkov, Igor.</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Moberg, Emily.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <genre authority="rdacontent">text</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">flu</placeTerm>
+    </place>
+    <dateIssued encoding="marc">2012</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <originInfo eventType="publication">
+    <place>
+      <placeTerm type="text">Boca Raton, FL :</placeTerm>
+    </place>
+    <publisher>CRC Press,</publisher>
+    <dateIssued>[2012]</dateIssued>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xvi, 186 pages : illustrations  ; 24 cm.</extent>
+    <form type="media" authority="rdamedia">unmediated</form>
+    <form type="carrier" authority="rdacarrier">volume</form>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">Igor Linkov, Emily Moberg.</note>
+  <note type="bibliography">Includes bibliographical references and index.</note>
+  <subject authority="lcsh">
+    <topic>Environmental sciences</topic>
+    <topic>Decision making</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Multiple criteria decision making</topic>
+  </subject>
+  <classification authority="lcc">GE105 .L56 2012</classification>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Environmental assessment and management</title>
+    </titleInfo>
+  </relatedItem>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Environmental assessment and management</title>
+    </titleInfo>
+  </relatedItem>
+  <identifier type="isbn">9781439853184</identifier>
+  <identifier type="isbn">1439853185</identifier>
+  <identifier type="lccn">2012359972</identifier>
+  <identifier type="oclc">ocn642845588</identifier>
+  <relatedItem>
+    <location>
+      <url displayLabel="Contributor biographical information">http://www.loc.gov/catdir/enhancements/fy1302/2012359972-b.html</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>rda</descriptionStandard>
+    <recordContentSource authority="marcorg">BTCTA</recordContentSource>
+    <recordCreationDate encoding="marc">120223</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20150804123832.0</recordChangeDate>
+    <recordIdentifier>17179150</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9781439853184</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

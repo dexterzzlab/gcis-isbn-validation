@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Through the eye of Katrina</title>
+    <subTitle>social justice in the United States</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Bates, Kristin Ann.</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Swan, Richelle S.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">ncu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Durham, N.C</placeTerm>
+    </place>
+    <publisher>Carolina Academic Press</publisher>
+    <dateIssued>c2007</dateIssued>
+    <dateIssued encoding="marc">2007</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xix, 420 p. : ill., maps ; 23 cm.</extent>
+  </physicalDescription>
+  <tableOfContents>Social justice in the face of the storm: when natural disasters become social disasters / Richelle S. Swan and Kristin A. Bates -- Images from the past: social justice and Hurricane Katrina in context -- Setting the stage: roots of social inequity and the human tragedy of Hurricane Katrina / DeMond S. Miller and Jason Rivera -- "Revolutions may go backwards": the persistence of voter disenfranchisement in the United States / Michelle Inderbitzin, Kelly Fawcett, Christopher Uggen and Kristin A. Bates -- Locked and loaded: the prison industrial complex and the response to Hurricane Katrina / Shana Agid -- Social justice movements: education disregarded, lessons ignored / Richelle S. Swan -- Reminders of poverty, soon forgotten / Alexander Keyssar -- Images from the disaster: reactions to Hurricane Katrina -- New song, same old tune: racial discourse in the aftermath of Hurricane Katrina / Ashley "Woody" Doane -- "Reasonable racism": the "new" white supremacy and Hurricane Katrina / Dreama G. Moon and Anthony Hurst -- Katrina's Latinos: vulnerability and disasters in relief and recovery / Nicole Trujillo-Paga&#x301;n -- From invisibility to hypervisibility: the complexity of race, survival, and resiliency for the Vietnamese American community in eastern New Orleans / Karen J. Leong ... [et al.] -- Disaster pornography: Hurricane Katrina, voyeurism, and the television viewer / Benjamin R. Bates and Rukhsana Ahmed -- Access to mediated emergency messages: differences in crisis knowledge across age, race, and socioeconomic status / Kenneth Lachlan, Patric R. Spence, &amp; Christine Eith -- Discrimination, segregation, and the racialized search for housing post-Katrina / Jeannie Haubert Weil -- The voices of Katrina: ethos, race, and congressional testimonials / Terence Check -- Images of the future: policy, activism, and justice -- George Bush does not care about black people: hip hop and the struggle for Katrina justice / David J. Leonard -- Ordinary struggle and the "public good": navigating vernacular voices, state power, and the public sphere in quests for social justice / Lisa R. Foster -- Human rights in disaster policy: improving the federal response to natural disasters, disease pandemics, and terrorist attacks / Hannibal Travis -- Hurricane Katrina and the nation's obligation to black colleges / Marybeth Gasman and Noah D. Drezner -- Social justice after Katrina: the need for a revitalized public sphere / Peter G. Stillman and Adelaide H. Villmoare -- Whose city is it? Public housing, public sociology, and the struggle for social justice in New Orleans before and after Katrina / John D. Arena -- The disappearing neighborhood: an urban planner's tour of New Orleans / Kim Knowles-Ya&#x301;nez -- You can get there from here, but the road is long and hard: the intersection of social justice and social disasters post-Hurricane Katrina / Kristin A. Bates and Richelle S. Swan.</tableOfContents>
+  <note type="statement of responsibility" altRepGroup="00">edited by Kristin A. Bates, Richelle S. Swan.</note>
+  <note type="bibliography">Includes bibliographical references and index.</note>
+  <subject>
+    <geographicCode authority="marcgac">n-us-la</geographicCode>
+    <geographicCode authority="marcgac">n-us---</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Hurricane Katrina, 2005</topic>
+    <topic>Social aspects</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Social justice</topic>
+    <geographic>United States</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Disaster relief</topic>
+    <topic>Social aspects</topic>
+    <geographic>Louisiana</geographic>
+    <geographic>New Orleans</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Marginality, Social</topic>
+    <geographic>Louisiana</geographic>
+    <geographic>New Orleans</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Poor</topic>
+    <topic>Government policy</topic>
+    <geographic>United States</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>New Orleans (La.)</geographic>
+    <topic>Race relations</topic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>United States</geographic>
+    <topic>Race relations</topic>
+  </subject>
+  <classification authority="lcc">HV636 2005 .N4 T47 2007</classification>
+  <classification authority="ddc" edition="22">976.3/35064</classification>
+  <location>
+    <url displayLabel="Table of contents only" usage="primary display">http://www.loc.gov/catdir/toc/ecip0718/2007021275.html</url>
+  </location>
+  <identifier type="isbn">9781594602887 (pbk.)</identifier>
+  <identifier type="lccn">2007021275</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">070521</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20080204102218.0</recordChangeDate>
+    <recordIdentifier>14858046</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9781594602887</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

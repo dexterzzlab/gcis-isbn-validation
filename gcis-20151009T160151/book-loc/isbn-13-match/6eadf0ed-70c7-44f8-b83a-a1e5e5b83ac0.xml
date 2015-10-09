@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Public participation in environmental assessment and decision making</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Dietz, Thomas.</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Stern, Paul C.</namePart>
+    <namePart type="date">1944-</namePart>
+  </name>
+  <name type="corporate">
+    <namePart>National Research Council (U.S.)</namePart>
+    <namePart>Panel on Public Participation in Environmental Assessment and Decision Making.</namePart>
+  </name>
+  <name type="corporate">
+    <namePart>National Research Council (U.S.)</namePart>
+    <namePart>Committee on the Human Dimensions of Global Change.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">dcu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Washington, DC</placeTerm>
+    </place>
+    <publisher>National Academies Press</publisher>
+    <dateIssued>2008</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xv, 305 p. : ill. ; 23 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">Panel on Public Participation in Environmental Assessment and Decision Making ; Thomas Dietz and Paul C. Stern, editors ; Committee on the Human Dimensions of Global Change, Division of Behavioral and Social Sciences and Education.</note>
+  <note type="bibliography">Includes bibliographical references (p. 245-297).</note>
+  <subject>
+    <geographicCode authority="marcgac">n-us---</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Environmental impact analysis</topic>
+    <topic>Citizen participation</topic>
+    <topic>Evaluation</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Environmental policy</topic>
+    <topic>Decision making</topic>
+    <topic>Citizen participation</topic>
+    <topic>Evaluation</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Environmental policy</topic>
+    <geographic>United States</geographic>
+    <topic>Decision making</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Administrative agencies</topic>
+    <geographic>United States</geographic>
+    <topic>Decision making</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Administrative procedure</topic>
+    <geographic>United States</geographic>
+    <topic>Citizen participation</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Environmental protection</topic>
+    <geographic>United States</geographic>
+    <topic>Citizen participation</topic>
+  </subject>
+  <classification authority="lcc">TD194.6 .P83 2008</classification>
+  <classification authority="ddc" edition="22">363.7/0525</classification>
+  <location>
+    <url displayLabel="Table of contents only" usage="primary display">http://www.loc.gov/catdir/toc/ecip0827/2008038571.html</url>
+  </location>
+  <identifier type="isbn">9780309123983 (pbk.)</identifier>
+  <identifier type="isbn">9780309123990 (pdf)</identifier>
+  <identifier type="lccn">2008038571</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">080902</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20090901072952.0</recordChangeDate>
+    <recordIdentifier>15435686</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9780309123983</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

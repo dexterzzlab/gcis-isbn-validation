@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Informing decisions in a changing climate</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>National Research Council (U.S.)</namePart>
+    <namePart>Panel on Strategies and Methods for Climate-Related Decision Support.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <genre authority="marcgt">government publication</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">dcu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Washington, DC</placeTerm>
+    </place>
+    <publisher>National Academies Press</publisher>
+    <dateIssued>c2009</dateIssued>
+    <dateIssued encoding="marc">2009</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xi, 188 p. : ill. ; 23 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">Panel on Strategies and Methods for Climate-Related Decision Support, Committee on the Human Dimensions of Global Change, Division of Behavioral and Social Sciences and Education.</note>
+  <note type="bibliography">Includes bibliographical references (p. 139-165).</note>
+  <subject>
+    <geographicCode authority="marcgac">n-us---</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Climatic changes</topic>
+    <topic>Research</topic>
+    <topic>Government policy</topic>
+    <geographic>United States</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Environmental policy</topic>
+    <topic>Decision making</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Decision support systems</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Climatic changes</topic>
+    <topic>Risk assessment</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Environmental degradation</topic>
+    <topic>Risk assessment</topic>
+  </subject>
+  <classification authority="lcc">QC903.2.U6 N38 2009</classification>
+  <classification authority="ddc" edition="22">363.738/74</classification>
+  <identifier type="isbn">9780309137379 (pbk.)</identifier>
+  <identifier type="isbn">0309137373 (pbk.)</identifier>
+  <identifier type="isbn">9780309137386 (pdf)</identifier>
+  <identifier type="lccn">2009014123</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">090414</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20150210082254.0</recordChangeDate>
+    <recordIdentifier>15698748</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9780309137379</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

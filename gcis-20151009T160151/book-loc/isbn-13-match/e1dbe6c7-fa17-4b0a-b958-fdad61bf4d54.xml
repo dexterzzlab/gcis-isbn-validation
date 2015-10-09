@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Coastal hazards</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Finkl, Charles W.</namePart>
+    <namePart type="date">1941-</namePart>
+    <role>
+      <roleTerm type="text">editor.</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <genre authority="rdacontent">text</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">ne</placeTerm>
+    </place>
+    <dateIssued encoding="marc">2013</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <originInfo eventType="publication">
+    <place>
+      <placeTerm type="text">Dordrecht ;</placeTerm>
+    </place>
+    <publisher>Springer,</publisher>
+    <dateIssued>[2013]</dateIssued>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xxi, 840 pages : illustrations (some color), maps (some color) ; 25 cm.</extent>
+    <form type="media" authority="rdamedia">unmediated</form>
+    <form type="carrier" authority="rdacarrier">volume</form>
+  </physicalDescription>
+  <tableOfContents>1. The southeast Florida Coastal Zone (SFCZ): a cascade of natural, biological, and human-induced hazards / Charles W. Finkl and Christopher Makowski -- 2. Remote sensing of coastal hazards / Victor V. Klemas -- 3. Determination of human induced coastal changes using RS, GIS and geostatistics / Elif Sertel and Dursun Zafer Seker -- 4. Coastal risk versus vulnerability in an uncertain sea level future / Michael S. Kearney -- 5. Sea-level rise impacts and responses: a global perspective / Sally Brown, Robert J. Nicholls, Colin D. Woodroffe, Susan Hanson, Jochen Hinkel, Abiy S. Kebede, Barbara Neumann, and Athanasios T. Vafeidis -- 6. Estimating the United States population at risk from coastal flood-related hazards / Mark Crowell, Jonathan Westcott, Susan Phelps, Tucker Mahoney, Kevin Coulton, and Dough Bellomo -- 7. Public perception of hurricane-related hazards / Bernhard Lee Lindner and Charles Cockcroft -- 8. Anthropogenic amplification of storm surge damage in th 1935 "Labor Day" hurricane / Nicholas K. Coch -- 9. Coastal flooding hazard in low-tide and high-tide coasts; evidence from the North Aegean Coast / Sotiris A. Lycourghiotis and Stathis C. Stiros -- 10. Sea level rise / James Houston -- 11. Conceptualizing seawater intrusion processes in small tropical island via geochemical modeling / Ahmad Zaharin Aris and Sarva Mangala Praveena -- 12. Reducing the risk associated to desalination brine disposal on the coastal areas of Red Sea / Adrian Ciocanea, Viorel Badescu, Richard B. Cathcart, and Charles W. Finkl -- 13. Beach erosion: causes and stabilization / R.G. Dean, T.L. Walton, J.D. Rosati, and L. Absalonsen -- 14. Innovative technique of predicting shoreline change in Developing Countries: case of Accra erosion and causal factors / Kwasi Appeaning-Addo and Emmanuel Lamptey -- 15. Detection of coastal change by geo-informatics means / Jay Gao -- 16. Spatial and numerical methodologies on coastal erosion and flooding risk assessment / Jarbas Bonetti, Antonio Henrique da Fontoura Klein, Mariela Muler, Clarissa Brelinger De Luca, Guilherme Vieira ea Silva, Eli&#x301;rio E. Toldo, Jr., and Mauricio Gonza&#x301;lez -- 17. Coastal erosion and protection policies in Europe: from EU programme (Eurosion and interreg projects) to local management / Giovanni Randazzo, Jordi Serra Raventos, and Lanza Stefania -- 18. Coastal dune hazards / Sara Mun&#x303;oz Valle&#x301;s and Jesu&#x301;s Cambrolle&#x301; -- 19. Erosion and management in coastal dunes / Silvia Cristina Marcomini and Ruben Alvaro Lo&#x301;pez -- 20. Coastal hazards from tropical cyclones and extratropical winter storms based on holocene storm chronologies / S.M. May, M. Engel, D. Brill, P. Squire, A. Scheffers, and D. Kelletat -- 21. U.S. Pacific Northwest Coastal hazards: tectonic and climate controls / Paul D. Komar, Jonathan C. Allan, and Peter Ruggiero -- 22. Extreme coastal waves, ocean surges and wave runnup / Zai-Jin You and Peter Nielsen -- 23. Effects of stratification on multi-layered tsunami waves / Monzur A. Imteaz, Fatemeh Mekanik, and Amimul Ahsan -- 24. The hazards of beach litter / A.T. Williams, K. Pond, A. Ergin, and M.J. Cullis -- 25. Coastal hazards from oil spills / Erich R. Gundlach -- 26. Rip currents / Stephen P. Leatherman.</tableOfContents>
+  <note type="statement of responsibility" altRepGroup="00">Charles W. Finkl, editor.</note>
+  <note type="bibliography">Includes bibliographical references and index.</note>
+  <subject authority="lcsh">
+    <topic>Coastal zone management</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Hazard mitigation</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Hazardous geographic environments</topic>
+  </subject>
+  <classification authority="lcc">HT391 .C49813 2013</classification>
+  <classification authority="ddc" edition="23">333.917</classification>
+  <location>
+    <url displayLabel="Table of contents only" usage="primary display">http://www.loc.gov/catdir/enhancements/fy1506/2012954679-t.html</url>
+  </location>
+  <location>
+    <url displayLabel="Publisher description">http://www.loc.gov/catdir/enhancements/fy1506/2012954679-d.html</url>
+  </location>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Coastal research library ; volume 6</title>
+    </titleInfo>
+  </relatedItem>
+  <identifier type="isbn">9789400752337</identifier>
+  <identifier type="isbn">9400752334</identifier>
+  <identifier type="lccn">2012954679</identifier>
+  <identifier type="oclc">ocn852389966</identifier>
+  <relatedItem>
+    <location>
+      <url displayLabel="Publisher description">http://www.loc.gov/catdir/enhancements/fy1506/2012954679-d.html</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>rda</descriptionStandard>
+    <recordContentSource authority="marcorg">AU@</recordContentSource>
+    <recordCreationDate encoding="marc">121127</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20150421120145.0</recordChangeDate>
+    <recordIdentifier>17540781</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9789400752337</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

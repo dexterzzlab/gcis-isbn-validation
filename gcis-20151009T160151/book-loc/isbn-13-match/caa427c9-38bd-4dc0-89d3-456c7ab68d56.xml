@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Atlas of the great plains</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Lavin, Stephen J. (Stephen James)</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Shelley, Fred M.</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Archer, J. Clark</namePart>
+  </name>
+  <typeOfResource>cartographic</typeOfResource>
+  <genre authority="marcgt">atlas</genre>
+  <genre authority="lcgft">Atlases.</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">nbu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">University of Nebraska Press</placeTerm>
+    </place>
+    <publisher>Lincoln</publisher>
+    <dateIssued>2011</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marccategory">map</form>
+    <form authority="marcsmd">atlas</form>
+    <extent>1 atlas (xvi, 335 p.) : ill. (mostly col.) ; 29 cm.</extent>
+  </physicalDescription>
+  <tableOfContents>Land and environment -- Land and water -- Climate -- History -- Native americans -- Bison -- Exploring the great plains -- Military forts and trading posts -- Railroads -- The historic sterling, colorado, area -- Population -- Population density -- Ethnicity and race -- Demographics -- Ancestry -- Rural settlement and agriculture -- Homesteading and farms -- Livestock -- Crops -- Urban settlement and economy -- Urban characteristics -- Employment -- Energy -- Politics and government -- Selected u.s. presidential elections -- National legislative seats -- Recreation and services -- Recreation -- Media and communications -- Sports -- Medical -- Artists, performers, and writers -- Social indicators -- Education -- Crime -- Religion.</tableOfContents>
+  <note type="statement of responsibility" altRepGroup="00">Stephen J. Lavin, Fred M. Shelley and J. Clark Archer ; with a foreword by David J. Wishart and an introduction by John C. Hudson.</note>
+  <note type="bibliography">Includes bibliographical references (p. 307-335).</note>
+  <subject>
+    <cartographics>
+      <scale>Scales differ.</scale>
+    </cartographics>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Great Plains</geographic>
+    <topic>History</topic>
+    <genre>Maps</genre>
+  </subject>
+  <classification authority="lcc">G1382.S1 L2 2011</classification>
+  <classification authority="ddc" edition="22">912.78</classification>
+  <identifier type="isbn">9780803215368 (cloth : alk. paper)</identifier>
+  <identifier type="lccn">2010032817</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">100804</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20120321110333.0</recordChangeDate>
+    <recordIdentifier>16374607</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9780803215368</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Risk communication</title>
+    <subTitle>a mental models approach</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Morgan, M. Granger (Millett Granger)</namePart>
+    <namePart type="date">1941-</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">enk</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Cambridge</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">New York</placeTerm>
+    </place>
+    <publisher>Cambridge University Press</publisher>
+    <dateIssued>2002</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xi, 351 p. : ill. ; 24 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">M. Granger Morgan ... [et al.].</note>
+  <note type="bibliography">Includes bibliographical references and index.</note>
+  <subject authority="lcsh">
+    <topic>Risk communication</topic>
+  </subject>
+  <classification authority="lcc">T10.68 .R58 2002</classification>
+  <classification authority="ddc" edition="21">658.4/08</classification>
+  <location>
+    <url displayLabel="Publisher description">http://www.loc.gov/catdir/description/cam021/00067448.html</url>
+  </location>
+  <location>
+    <url displayLabel="Table of contents" usage="primary display">http://www.loc.gov/catdir/toc/cam025/00067448.html</url>
+  </location>
+  <identifier type="isbn">0521802237</identifier>
+  <identifier type="isbn">0521002567 (pbk.)</identifier>
+  <identifier type="lccn">00067448</identifier>
+  <relatedItem>
+    <location>
+      <url displayLabel="Publisher description">http://www.loc.gov/catdir/description/cam021/00067448.html</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">001127</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20020821201539.0</recordChangeDate>
+    <recordIdentifier>12241188</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9780521002561</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

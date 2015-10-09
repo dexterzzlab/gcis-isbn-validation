@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Sacred ecology</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Berkes, Fikret.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">nyu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">New York</placeTerm>
+    </place>
+    <publisher>Routledge</publisher>
+    <dateIssued>2008</dateIssued>
+    <edition>2nd ed.</edition>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xxi, 313 p. : ill. ; 24 cm.</extent>
+  </physicalDescription>
+  <abstract type="Review">"Sacred Ecology examines bodies of knowledge held by indigenous and other rural peoples around the world, and asks how we can learn from this knowledge and ways of knowing. Berkes explores the importance of local and indigenous knowledge as a complement to scientific ecology, and its cultural and political significance for indigenous groups themselves."--Jacket.</abstract>
+  <tableOfContents>Context of traditional ecological knowledge. Defining traditional ecological knowledge ; Traditional ecological knowledge as science ; Differences: philosophical or political? ; Knowledge-practice-belief: a framework for analysis ; Objectives and overview of the volume 19 -- Emergence of the field. Evolution and differentiation of the literature ; Growth of ecosystem-based knowledge ; Cultural and political significance for indigenous peoples ; Questions of ownership and intellectual property rights ; Practical significance as common heritage of humankind -- Intellectual roots of traditional ecological knowledge. Ethnobiology and biosystematics: a good fit ; More on linguistics and methodology: how to get the information right ; Exaggeration and ethnoscience: the Eskimo snow hoax? ; Human ecology and territoriality ; Integration of social systems and natural systems: importance of worldviews -- Traditional knowledge systems in practice. Tropical forests: not amenable to management? ; Semi-arid areas: keeping the land productive ; Traditional uses of fire ; Island ecosystems -- personal ecosystems ; Coastal lagoons and wetlands ; Conclusions -- Cree worldview "From the inside" ; Animals control the hunt ; Obligations of hunters to show respect ; Importance of continued use for sustainability ; Conclusions -- A story of caribou and social learning. "No one knows the way of the winds and the caribou" ; Cree knowledge of caribou in context ; Caribou return to the land of the Chisasibi Cree ; A gathering of the hunters ; Lessons for the development of a conservation ethic ; Lessons for the question of monitoring -- Cree fishing practices as adaptive management. The Chisasibi Cree system of fishing ; Subarctic ecosystems: scientific understanding and Cree practice ; Three Cree practices: reading environmental signals for management ; A computer experiment on Cree practice and fish population resilience ; Traditional knowledge systems as adaptive management ; Lessons from fisher knowledge -- Climate change and indigenous ways of knowing. Indigenous ways of knowing and new models of community-based research ; Inuit observations of climate change project ; A convergence of findings ; Significance of local observations and place-based research ; Indigenous knowledge and adaptation ; Conclusions -- Complex systems, holism, and fuzzy logic. Rules-of-thumb: cutting complexity down to size ; Community-based monitoring and environmental change ; Complex systems thinking ; Local knowledge and expert systems ; A fuzzy logic analysis of indigenous knowledge ; Conclusions -- How local knowledge develops: cases from the West Indies. A framework for development of local and traditional knowledge ; Mangrove conservation and charcoal makers ; Dominican sawyers: developing private stewardship ; Cultivating sea moss in St. Lucia ; Rehabilitating edible sea urchin resources ; Lessons from the Caribbean cases ; Conclusions -- Challenges to indigenous knowledge. Limitations of indigenous knowledge and the exotic other ; Invaders and natives: a historical perspective ; Indigenous peoples as conservationists? ; "Wilderness" and a universal concept of conservation ; Adapting traditional systems to the modern context ; Traditional systems for building livelihoods in a globalized economy ; Toward an evolutionary theory of traditional knowledge -- Toward a unity of mind and nature. Political ecology of indigenous knowledge ; Indigenous knowledge for empowerment ; Indigenous knowledge as challenge to the positivist-reductionist paradigm ; Making scientific sense of indigenous knowledge ; Learning from traditional knowledge.</tableOfContents>
+  <note type="statement of responsibility" altRepGroup="00">Fikret Berkes.</note>
+  <note type="bibliography">Includes bibliographical references (p. [277]-303) and index.</note>
+  <subject>
+    <geographicCode authority="marcgac">nw-----</geographicCode>
+    <geographicCode authority="marcgac">n-cn-on</geographicCode>
+    <geographicCode authority="marcgac">n-cn-qu</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Environmental sciences</topic>
+    <topic>Philosophy</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Traditional ecological knowledge</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Indigenous peoples</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Human ecology</topic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>James Bay (Nunavut)</geographic>
+    <topic>Environmental conditions</topic>
+    <genre>Case studies</genre>
+  </subject>
+  <classification authority="lcc">GE40 .B45 2008</classification>
+  <classification authority="ddc" edition="22">179/.1</classification>
+  <classification authority="rvk">RB 10495</classification>
+  <location>
+    <url displayLabel="Table of contents only" usage="primary display">http://catdir.loc.gov/catdir/toc/ecip0723/2007029842.html</url>
+  </location>
+  <location>
+    <url displayLabel="Table of contents">http://bvbr.bib-bvb.de:8991/F?func=service&amp;doc_library=BVB01&amp;doc_number=017306060&amp;line_number=0001&amp;func_code=DB_RECORDS&amp;service_type=MEDIA</url>
+  </location>
+  <identifier type="isbn">9780415958271 (cloth)</identifier>
+  <identifier type="isbn">041595827X (cloth)</identifier>
+  <identifier type="isbn">9780415958295 (pbk.)</identifier>
+  <identifier type="isbn">0415958296 (pbk.)</identifier>
+  <identifier type="isbn">9780203928950</identifier>
+  <identifier type="isbn">0203928954</identifier>
+  <identifier type="lccn">2007029842</identifier>
+  <identifier type="oclc">ocn156975313</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">070719</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20110531194543.0</recordChangeDate>
+    <recordIdentifier>14933608</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9780203928950</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

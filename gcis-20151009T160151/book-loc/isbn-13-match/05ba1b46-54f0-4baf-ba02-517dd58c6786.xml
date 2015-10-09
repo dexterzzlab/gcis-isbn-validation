@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Documents of American Indian diplomacy</title>
+    <subTitle>treaties, agreements, and conventions, 1775-1979</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Deloria, Vine.</namePart>
+  </name>
+  <name type="personal">
+    <namePart>DeMallie, Raymond J.</namePart>
+    <namePart type="date">1946-</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <genre authority="marcgt">government publication</genre>
+  <genre authority="lcgft">Treaties.</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">oku</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Norman</placeTerm>
+    </place>
+    <publisher>University of Oklahoma Press</publisher>
+    <dateIssued>c1999</dateIssued>
+    <dateIssued encoding="marc">1999</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>2 v. (xiii, 1540 p.) ; 29 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">[compiled by] Vine Deloria, Jr., and Raymond J. DeMallie ; with a foreword by Daniel K. Inouye.</note>
+  <note type="bibliography">Includes bibliographical references (p. [1496]-1500) and index.</note>
+  <subject>
+    <geographicCode authority="marcgac">n-us---</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Indians of North America</topic>
+    <genre>Treaties</genre>
+  </subject>
+  <classification authority="lcc">KIE19 .D63 1999</classification>
+  <classification authority="ddc" edition="21">342.73/0872</classification>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Legal history of North America ; v. 4</title>
+    </titleInfo>
+  </relatedItem>
+  <identifier type="isbn">0806131187 (cloth : alk. paper)</identifier>
+  <identifier type="lccn">98045365</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">980925</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20140509123954.0</recordChangeDate>
+    <recordIdentifier>1200384</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9780806131184</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

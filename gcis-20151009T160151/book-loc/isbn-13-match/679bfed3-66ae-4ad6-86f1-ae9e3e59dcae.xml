@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>impact of climate change on the United States economy</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Mendelsohn, Robert O.</namePart>
+    <namePart type="date">1952-</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Neumann, James E.</namePart>
+    <namePart type="date">1962-</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">enk</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Cambridge</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">New York</placeTerm>
+    </place>
+    <publisher>Cambridge University Press</publisher>
+    <dateIssued>1999</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xi, 331 p. : ill. ; 26 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">edited by Robert Mendelsohn, James E. Neumann.</note>
+  <note type="bibliography">Includes bibliographical references.</note>
+  <subject>
+    <geographicCode authority="marcgac">n-us---</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Climatic changes</topic>
+    <topic>Economic aspects</topic>
+    <geographic>United States</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>United States</geographic>
+    <topic>Economic policy</topic>
+    <temporal>1993-2001</temporal>
+  </subject>
+  <classification authority="lcc">QC981.8.C5 I449 1999</classification>
+  <classification authority="ddc" edition="21">330.973</classification>
+  <location>
+    <url displayLabel="Table of contents" usage="primary display">http://www.loc.gov/catdir/toc/cam023/97035704.html</url>
+  </location>
+  <location>
+    <url displayLabel="Publisher description">http://www.loc.gov/catdir/description/cam028/97035704.html</url>
+  </location>
+  <identifier type="isbn">0521621984</identifier>
+  <identifier type="lccn">97035704</identifier>
+  <relatedItem>
+    <location>
+      <url displayLabel="Publisher description">http://www.loc.gov/catdir/description/cam028/97035704.html</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">970725</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20020913073611.0</recordChangeDate>
+    <recordIdentifier>1654528</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9780521621984</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

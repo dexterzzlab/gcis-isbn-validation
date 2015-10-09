@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Climate stabilization targets</title>
+    <subTitle>emissions, concentrations, and impacts over decades to millennia</subTitle>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>National Research Council (U.S.)</namePart>
+    <namePart>Board on Atmospheric Sciences and Climate.</namePart>
+  </name>
+  <name type="corporate">
+    <namePart>National Research Council (U.S.)</namePart>
+    <namePart>Committee on Stabilization Targets for Atmospheric Greenhouse Gas Concentrations.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">dcu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Washington, D.C</placeTerm>
+    </place>
+    <publisher>National Academies Press</publisher>
+    <dateIssued>c2011</dateIssued>
+    <dateIssued encoding="marc">2011</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xii, 286 p. : col. ill., col. maps ; 26 cm.</extent>
+  </physicalDescription>
+  <abstract type="Summary">"Emissions of carbon dioxide from the burning of fossil fuels have ushered in a new epoch where human activities will largely determine the evolution of Earth's climate. Because carbon dioxide in the atmosphere is long lived, it can effectively lock the Earth and future generations into a range of impacts, some of which could become very severe. Emissions reductions decisions made today matter in determining impacts experienced not just over the next few decades, but in the coming centuries and millennia. According to Climate Stabilization Targets: Emissions, Concentrations, and Impacts Over Decades to Millennia, important policy decisions can be informed by recent advances in climate science that quantify the relationships between increases in carbon dioxide and global warming, related climate changes, and resulting impacts, such as changes in streamflow, wildfires, crop productivity, extreme hot summers, and sea level rise. One way to inform these choices is to consider the projected climate changes and impacts that would occur if greenhouse gases in the atmosphere were stabilized at a particular concentration level. The book quantifies the outcomes of different stabilization targets for greenhouse gas concentrations using analyses and information drawn from the scientific literature. Although it does not recommend or justify any particular stabilization target, it does provide important scientific insights about the relationships among emissions, greenhouse gas concentrations, temperatures, and impacts. Climate Stabilization Targets emphasizes the importance of 21st century choices regarding long-term climate stabilization. It is a useful resource for scientists, educators and policy makers, among others."--Publisher's description.</abstract>
+  <tableOfContents>Machine generated contents note: SECTION I -- Synopsis -- Summary -- Overview of Climate Change and Illustrative Impacts -- SECTION II -- 1. Introduction -- 1.1. The Foci of This Report: Climate Changes and Implications for a Range of Alternative Future Worlds -- 1.2. Attribution -- 2. Emissions, Concentrations, and Related Factors -- 2.1. Contribution of Different Chemicals to CO2-Equivalent Levels and Climate Changes -- 2.2. Information from Scenarios -- 2.3. Short-lived Radiative Forcing Agents -- 2.4. Carbon Cycle -- 3. Global Mean Temperature Responses -- 3.1. Overview of Timescales and Climate Sensitivity -- 3.2. Equilibrium Climate Sensitivity -- 3.3. Transient Climate Response and Sensitivity -- 3.4. Cumulative Carbon -- 4. Physical Climate Change in the 21st Century.</tableOfContents>
+  <tableOfContents>4.1. Regional Patterns of Warming and Related Factors -- 4.2. Precipitation Response -- 4.3. Hurricanes -- 4.4. Circulation and Related Factors -- 4.5. Temperature Extremes -- 4.6. Precipitation Extremes -- 4.7. Sea Ice, Snow, and Related Factors -- 4.8. Sea Level Rise (inc. ice sheets and glaciers) -- 4.9. Ocean Acidification -- 5. Impacts In the Next Few Decades and Coming Centuries -- 5.1. Food Production, Prices, and Hunger -- 5.2. Coastal Erosion and Flooding -- 5.3. Streamflow -- 5.4. Fire -- 5.5. Infrastructure -- 5.6. Health -- 5.7. Ecology and Ecosystems -- 5.8. Biological Ocean -- 5.9. Illustrative Additional Factors -- 6. Beyond the Next Few Centuries -- 6.1. Long-term Feedbacks and Earth System Sensitivity -- 6.2. Long-term Societal and Environmental Issues -- REFERENCES -- APPENDIXES -- A. Statement of Task -- B. Committee Membership -- C. Methods.</tableOfContents>
+  <note type="statement of responsibility" altRepGroup="00">Committee on Stabilization Targets for Atmospheric Greenhouse Gas Concentrations, Board on Atmospheric Sciences and Climate, Division on Earth and Life Studies, National Research Council.</note>
+  <note type="bibliography">Includes bibliographical references (p. 235-268).</note>
+  <note type="additional physical form">Also available online.</note>
+  <subject authority="lcsh">
+    <topic>Climatic changes</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Global warming</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Greenhouse gas mitigation</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Climate change mitigation</topic>
+  </subject>
+  <classification authority="lcc">QC903 .C58 2011</classification>
+  <classification authority="ddc" edition="23">363.738/746</classification>
+  <location>
+    <url displayLabel="Full text" usage="primary display">http://www.nap.edu/catalog.php?record_id=12877</url>
+  </location>
+  <identifier type="isbn">9780309151764 (book)</identifier>
+  <identifier type="isbn">0309151767 (book)</identifier>
+  <identifier type="isbn">9780309151771 (PDF)</identifier>
+  <identifier type="isbn">0309151775 (PDF)</identifier>
+  <identifier type="lccn">2010936129</identifier>
+  <identifier type="oclc">ocn658581418</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">YDXCP</recordContentSource>
+    <recordCreationDate encoding="marc">100831</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20140117095310.0</recordChangeDate>
+    <recordIdentifier>16441096</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9780309151764</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

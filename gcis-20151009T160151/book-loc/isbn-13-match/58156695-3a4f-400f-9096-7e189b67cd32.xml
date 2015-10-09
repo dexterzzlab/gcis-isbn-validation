@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Rural people and communities in the 21st century</title>
+    <subTitle>resilience and transformation</subTitle>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>Rural people &amp; communities in the 21st century</title>
+    <subTitle>resilience &amp; transformation</subTitle>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Brown, David L. (David Louis)</namePart>
+    <namePart type="date">1945-</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Schafft, Kai A.</namePart>
+    <namePart type="date">1964-</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">enk</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Cambridge, UK</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Malden, MA</placeTerm>
+    </place>
+    <publisher>Polity Press</publisher>
+    <dateIssued>2011</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>viii, 260 p. : ill. ; 25 cm.</extent>
+  </physicalDescription>
+  <abstract type="Summary">Rural people and communities continue to play important social, economic and environmental roles at a time in which societies are rapidly urbanizing, and the identities of local places are increasingly subsumed by flows of people, information and economic activity across global spaces. However, while the organization of rural life has been fundamentally transformed by institutional and social changes that have occurred since the mid-twentieth century, rural people and communities have proved resilient in the face of these transformations. This book examines the causes and consequences of major social and economic changes affecting rural communities and populations during the first decades of the twenty-first century, and explores policies developed to ameliorate problems or enhance opportunities. Primarily focused on the U.S. context, while also providing international comparative discussion, the book is organized into five sections each of which explores both socio-demographic and political economic aspects of rural transformation. It features an accessible and up-to-date blend of theory and empirical analysis, with each chapter's discussion grounded in real-life situations through the use of empirical case-study materials. Rural People and Communities in the 21st Century is intended for advanced undergraduate and graduate courses in rural sociology, community sociology, rural and/or population geography, community development, and population studies--From publisher description.</abstract>
+  <tableOfContents>Thinking about rural places in metropolitan society. Rurality in metropolitan society ; Urbanization and population redistribution -- Rural communities, institutions and environments. Understanding community in rural society ; Community institutions in rural society ; Natural resources and social change -- Rural populations. Youth, aging and the life course ; Racial and ethnic minorities in rural areas -- Rural economy and socioeconomic wellbeing. Making a living in rural communities ; Farms, farmers and farming in contemporary rural society ; Poverty across rural people and places -- Conclusions. Rural transformations and rural policies for the future.</tableOfContents>
+  <note type="statement of responsibility" altRepGroup="00">David L. Brown and Kai A. Schafft.</note>
+  <note type="bibliography">Includes bibliographical references and index.</note>
+  <subject>
+    <geographicCode authority="marcgac">n-us---</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>United States</geographic>
+    <topic>Rural conditions</topic>
+  </subject>
+  <classification authority="lcc">HN59.2 .B753 2011</classification>
+  <identifier type="isbn">9780745641270 (hardback)</identifier>
+  <identifier type="isbn">074564127X (hardback)</identifier>
+  <identifier type="isbn">9780745641287 (pbk.)</identifier>
+  <identifier type="isbn">0745641288 (pbk.)</identifier>
+  <identifier type="lccn">2011410687</identifier>
+  <identifier type="oclc">ocn669128431</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">YDXCP</recordContentSource>
+    <recordCreationDate encoding="marc">120228</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20120523102834.0</recordChangeDate>
+    <recordIdentifier>17186042</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9780745641287</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

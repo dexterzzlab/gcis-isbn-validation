@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Vulnerability of tropical Pacific fisheries and aquaculture to climate change</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Bell, Johann D.</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Johnson, Johanna E.</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Hobday, Alistair James</namePart>
+    <namePart type="date">1970-</namePart>
+  </name>
+  <name type="corporate">
+    <namePart>Secretariat of the Pacific Community</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">nl</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Noumea, New Caledonia</placeTerm>
+    </place>
+    <publisher>Secretariat of the Pacific Community</publisher>
+    <dateIssued>2011</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xii, 925 p. : col. ill., col. maps ; 26 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">edited by Johann D. Bell, Johanna E. Johnson and Alistair J. Hobday.</note>
+  <note type="bibliography">Includes bibliographical references and index.</note>
+  <subject>
+    <geographicCode authority="marcgac">po-----</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Fishery management</topic>
+    <geographic>Oceania</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Marine ecosystem management</topic>
+    <geographic>Oceania</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Climatic changes</topic>
+    <geographic>Oceania</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Aquaculture</topic>
+    <geographic>Oceania</geographic>
+    <topic>Management</topic>
+  </subject>
+  <classification authority="lcc">SH319.A2 V86 2011</classification>
+  <identifier type="isbn">9789820004719</identifier>
+  <identifier type="lccn">2012453584</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">120912</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20121220112838.0</recordChangeDate>
+    <recordIdentifier>17460545</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9789820004719</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

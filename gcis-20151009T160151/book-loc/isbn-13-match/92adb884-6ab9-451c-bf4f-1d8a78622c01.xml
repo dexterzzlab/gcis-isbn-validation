@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Biometeorology for adaptation to climate variability and change</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Ebi, Kristie L.</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Burton, Ian</namePart>
+    <namePart type="date">1935-</namePart>
+  </name>
+  <name type="personal">
+    <namePart>McGregor, Glenn R.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">enk</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">London?]</placeTerm>
+    </place>
+    <publisher>Springer</publisher>
+    <dateIssued>c2009</dateIssued>
+    <dateIssued encoding="marc">2009</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>viii, 281 p. : ill., maps ; 25 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">Kristie L. Ebi, Ian Burton, Glenn R. McGregor, editors.</note>
+  <note type="bibliography">Includes bibliographical references and index.</note>
+  <subject authority="lcsh">
+    <topic>Bioclimatology</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Climatic changes</topic>
+    <topic>Research</topic>
+  </subject>
+  <classification authority="lcc">QH543 .B585 2009</classification>
+  <classification authority="ddc" edition="22">577.22</classification>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Biometeorology (Dordrecht, Netherlands) ; v. 1</title>
+    </titleInfo>
+  </relatedItem>
+  <identifier type="isbn">9781402089206 (hbk. : acid-free paper)</identifier>
+  <identifier type="isbn">1402089201 (hbk. : acid-free paper)</identifier>
+  <identifier type="isbn">9781402089213 (e-ISBN)</identifier>
+  <identifier type="isbn">140208921X (e-ISBN)</identifier>
+  <identifier type="lccn">2008940150</identifier>
+  <identifier type="oclc">ocn261939623</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">UKM</recordContentSource>
+    <recordCreationDate encoding="marc">081023</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20090914112242.0</recordChangeDate>
+    <recordIdentifier>15495091</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9781402089206</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

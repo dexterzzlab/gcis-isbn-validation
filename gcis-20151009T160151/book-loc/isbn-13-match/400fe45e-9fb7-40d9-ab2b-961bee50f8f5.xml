@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Changing climates in North American politics</title>
+    <subTitle>institutions, policymaking, and multilevel governance</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Selin, Henrik</namePart>
+    <namePart type="date">1971-</namePart>
+  </name>
+  <name type="personal">
+    <namePart>VanDeveer, Stacy D.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">mau</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Cambridge, Mass</placeTerm>
+    </place>
+    <publisher>MIT Press</publisher>
+    <dateIssued>c2009</dateIssued>
+    <dateIssued encoding="marc">2009</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xiv, 338 p. : ill. ; 23 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">edited by Henrik Selin and Stacy D. VanDeveer.</note>
+  <note type="bibliography">Includes bibliographical references and index.</note>
+  <subject>
+    <geographicCode authority="marcgac">n------</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Climatic changes</topic>
+    <topic>Political aspects</topic>
+    <geographic>North America</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Climatic changes</topic>
+    <topic>Government policy</topic>
+    <geographic>North America</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Environmental policy</topic>
+    <geographic>North America</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Global warming</topic>
+    <topic>Political aspects</topic>
+    <geographic>North America</geographic>
+  </subject>
+  <classification authority="lcc">QC982.8 .C53 2009</classification>
+  <classification authority="ddc" edition="22">363.738/7456097</classification>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>American and comparative environmental policy</title>
+    </titleInfo>
+  </relatedItem>
+  <identifier type="isbn">9780262012997 (hardcover : alk. paper)</identifier>
+  <identifier type="isbn">0262012995 (hardcover : alk. paper)</identifier>
+  <identifier type="isbn">9780262512862 (pbk. : alk. paper)</identifier>
+  <identifier type="isbn">0262512866 (pbk. : alk. paper)</identifier>
+  <identifier type="lccn">2008042153</identifier>
+  <identifier type="oclc">ocn259716037</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">080923</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20141223114351.0</recordChangeDate>
+    <recordIdentifier>15462341</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9780262012997</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

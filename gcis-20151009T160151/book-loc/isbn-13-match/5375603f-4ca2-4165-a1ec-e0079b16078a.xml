@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Coral reefs</title>
+    <subTitle>an ecosystem in transition</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Dubinsky, Z. (Zvy)</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Stambler, Noga.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">ne</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Dordrecht [Netherlands]</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">New York</placeTerm>
+    </place>
+    <publisher>Springer</publisher>
+    <dateIssued>c2011</dateIssued>
+    <dateIssued encoding="marc">2011</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>ix, 552 p. : ill. (some col.), col. maps ; 29 cm.</extent>
+  </physicalDescription>
+  <tableOfContents>Coral research : past efforts and future horizons / Robert H. Richmond, Eric Wolanski -- The paleoecology of coral reefs / John M. Pandolfi -- Remote sensing of coral reef processes / Eric J. Hochberg -- Coral taxonomy and evolution / John (Charlie) E.N. Veron -- The coral triangle / John (Charlie) E.N. Veron, Lyndon M. DeVantier, Emre Turak, Alison L. Green, Stuart Kininmonth, M. Stafford-Smith, N. Peterson -- Sexual reproduction of scleractinian corals / Peter L. Harrison -- Zooxanthellae : the yellow symbionts inside animals / Noga Stambler -- Light as a source of information and energy in zooxanthellate corals / Zvy Dubinsky, Paul Falkowski -- Coral calcification, cells to reefs / Denis Allemand, E&#x301;ric Tambutte&#x301;, Didier Zoccola, Sylvie Tambutte&#x301; -- Coral calcification under ocean acidification and global change / Jonathan Erez, Ste&#x301;phanie Reynaud, Jacob Silverman, Kenneth Schneider, Denis Allemand -- Simulating and quantifying the environmental influence on coral colony growth and form / Jaap A. Kaandorp, Maxim Filatov, Nol Chindapol -- Physiological adaptation to symbiosis in cnidarians / Paola Furla, Sophie Richier, Denis Allemand -- Biogeochemistry of nutrients / Marlin J. Atkinson -- The role of dissolved organic nitrogen (DON) in coral biology and reef ecology / Yoshimi Suzuki, Beatriz E. Casareto -- The role of plankton in coral trophodynamics / Christine Ferrier-Page&#x300;s, Mia Hoogenboom, Fanny Houlbre&#x300;que -- Fish or germs? : microbial dynamics associated with changing trophic structures on coral reefs / Elizabeth A. Dinsdale, Forest Rohwer -- Coral reef algae / Peggy Fong, Valerie J. Paul -- Invertebrates and their roles in coral reef ecosystems / Peter W. Glynn, Ian C. Enochs -- Coral reef fishes : opportunities, challenges and concerns / W. Linn Montgomery -- Competition among sessile organisms on coral reefs / Nanette E. Chadwick, Kathleen M. Morrow -- Scaling up models of the dynamics of coral reef ecosystems : an approach for science-based management of global change / Jesu&#x301;s Ernesto Arias-Gonza&#x301;lez, Craig Johnson, Rob M. Seymour, Pascal Perez, Porfirio Alin&#x303;o -- The impact of climate change on coral reef ecosystems / Ove Hoegh-Guldberg -- Coral bleaching : causes and mechanisms / Michael P. Lesser -- The potential for temperature acclimatisation of reef corals in the face of climate change / Barbara E. Brown, Andrew R. Cossins -- Reef bioerosion : agents and processes / Aline Tribollet, Stjepko Golubic -- Microbial diseases of corals : pathology and ecology / Eugene Rosenberg, Ariel Kushmaro -- Coral reef diseases in the Atlantic-Caribbean / Ernesto Weil, Caroline S. Rogers -- Factors determining the resilience of coral reefs to eutrophication : a review and conceptual model / Katharina E. Fabricius -- The resilience of coral reefs and its implications for reef management / Peter J. Mumby, Robert S. Steneck.</tableOfContents>
+  <note type="statement of responsibility" altRepGroup="00">Zvy Dubinsky, Noga Stambler, editors.</note>
+  <note type="bibliography">Includes bibliographical references and index.</note>
+  <subject authority="lcsh">
+    <topic>Coral reef ecology</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Coral reef biology</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Coral colonies</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Coral reefs and islands</topic>
+  </subject>
+  <subject authority="fast">
+    <topic>Coral colonies</topic>
+  </subject>
+  <subject authority="fast">
+    <topic>Coral reef biology</topic>
+  </subject>
+  <subject authority="fast">
+    <topic>Coral reef ecology</topic>
+  </subject>
+  <subject authority="fast">
+    <topic>Coral reefs and islands</topic>
+  </subject>
+  <subject authority="idszbz">
+    <topic>Korallenriff</topic>
+  </subject>
+  <subject authority="idszbz">
+    <topic>O&#x308;kosystem</topic>
+  </subject>
+  <subject authority="idszbz">
+    <topic>Klimaa&#x308;nderung</topic>
+  </subject>
+  <classification authority="lcc">QH541.5.C7 C573 2011</classification>
+  <classification authority="ddc" edition="23">577.7/89</classification>
+  <location>
+    <url displayLabel="Amazon.com" usage="primary display">http://www.amazon.com/exec/obidos/ASIN/9400701136/chopaconline-20</url>
+  </location>
+  <location>
+    <url displayLabel="Amazon customer reviews">http://www.chopac.org/cgi-bin/tools/azrev.pl?q=9400701136</url>
+  </location>
+  <identifier type="isbn">9789400701137 (acid-free paper)</identifier>
+  <identifier type="isbn">9400701136 (acid-free paper)</identifier>
+  <identifier type="isbn" invalid="yes">9789400701144 (e-ISBN)</identifier>
+  <identifier type="isbn" invalid="yes">9400701144 (e-ISBN)</identifier>
+  <identifier type="lccn">2014395187</identifier>
+  <identifier type="oclc">ocn663950216</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">BTCTA</recordContentSource>
+    <recordCreationDate encoding="marc">140515</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20140714102519.0</recordChangeDate>
+    <recordIdentifier>18152814</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9789400701144</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

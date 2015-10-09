@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Climate change and displacement</title>
+    <subTitle>multidisciplinary perspectives</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>McAdam, Jane</namePart>
+    <namePart type="date">1974-</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">enk</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Oxford</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Portland, Or</placeTerm>
+    </place>
+    <publisher>Hart Pub.</publisher>
+    <dateIssued>2010</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xvi, 258 p. : ill., maps ; 25 cm.</extent>
+  </physicalDescription>
+  <tableOfContents>Introduction / Jane McAdam -- Climate change-induced mobility and the existing migration regime in Asia and the Pacific / Graeme Hugo -- Migration as adaptation : opportunities and limits / Jon Barnett and Michael Webber -- Climate-induced community relocation in the Pacific : the meaning and importance of land / John Campbell -- Conceptualising climate-induced displacement / Walter Kalin -- Disappearing states, statelessness and the boundaries of international law / Jane McAdam -- Protecting people displaced by climate change : some conceptual challenges / Roger Zetter -- International ethical responsibilities to climate change refugees / Peter Penz -- Climate migration and climate migrants : what threat, whose security? / Lorraine Elliott -- Climate-related displacement : health risks and responses / Anthony J McMichael, Celia E McMichael, Helen L Berry and Kathryn Bowen -- Climate change, human movement and the promotion of mental health : what have we learnt from earlier global stressors? / Maryanne Loughry -- Afterword : What now? : climate-induced displacement after Copenhagen / Stephen Castles.</tableOfContents>
+  <note type="statement of responsibility" altRepGroup="00">edited by Jane McAdam.</note>
+  <note type="bibliography">Includes bibliographical references and index.</note>
+  <subject authority="lcsh">
+    <topic>Environmental refugees</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Forced migration</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Climatic changes</topic>
+    <topic>Social aspects</topic>
+  </subject>
+  <classification authority="lcc">HV640 .C53 2010</classification>
+  <classification authority="ddc" edition="22">305.906914</classification>
+  <identifier type="isbn">9781849460385 (hardback)</identifier>
+  <identifier type="isbn">1849460388 (hardback)</identifier>
+  <identifier type="lccn">2010284229</identifier>
+  <identifier type="oclc">ocn607975186</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">UKM</recordContentSource>
+    <recordCreationDate encoding="marc">101222</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20120801134252.0</recordChangeDate>
+    <recordIdentifier>16588078</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9781849460385</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

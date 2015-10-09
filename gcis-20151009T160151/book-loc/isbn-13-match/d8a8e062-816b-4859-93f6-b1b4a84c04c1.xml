@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>A </nonSort>
+    <title>final promise</title>
+    <subTitle>the campaign to assimilate the Indians, 1880-1920</subTitle>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Hoxie, Frederick E.</namePart>
+    <namePart type="date">1947-</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <genre authority="marcgt">government publication</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">nbu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Lincoln, Neb</placeTerm>
+    </place>
+    <publisher>University of Nebraska Press</publisher>
+    <dateIssued>c1984</dateIssued>
+    <dateIssued encoding="marc">1984</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xvi, 350 p. ; 24 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">Frederick E. Hoxie.</note>
+  <note>Includes index.</note>
+  <note type="bibliography">Bibliography: p. [293]-329.</note>
+  <subject>
+    <geographicCode authority="marcgac">n-us---</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Indians of North America</topic>
+    <topic>Cultural assimilation</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Indians of North America</topic>
+    <topic>Government relations</topic>
+    <temporal>1869-1934</temporal>
+  </subject>
+  <classification authority="lcc">E98.C89 H68 1984</classification>
+  <classification authority="ddc" edition="21">323.1/197073/09034</classification>
+  <identifier type="isbn">0803223234 (alk. paper)</identifier>
+  <identifier type="lccn">83006858</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">830418</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20010625095508.0</recordChangeDate>
+    <recordIdentifier>460797</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9780803223233</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

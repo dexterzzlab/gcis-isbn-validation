@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>World fisheries</title>
+    <subTitle>a social-ecological analysis</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Ommer, Rosemary.</namePart>
+  </name>
+  <name type="corporate">
+    <namePart>Global Ocean Ecosystems Dynamics (Program)</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">iau</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Ames, Iowa</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Chichester, West Sussex, UK</placeTerm>
+    </place>
+    <publisher>Wiley-Blackwell</publisher>
+    <dateIssued>2011</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xxii, 418 p. : ill., maps ; 26 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">edited by Rosemary E. Ommer ... [et al.].</note>
+  <note>Based on a symposium held in Rome in July 2008, sponsored by the Global Ocean Ecosystems Dynamics Program and other bodies.</note>
+  <note type="bibliography">Includes bibliographical references and index.</note>
+  <subject authority="lcsh">
+    <topic>Fishery management</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Marine fishes</topic>
+    <topic>Ecology</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Fisheries</topic>
+    <topic>Environmental aspects</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Fisheries</topic>
+    <topic>Social aspects</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Sustainable fisheries</topic>
+  </subject>
+  <classification authority="lcc">SH328 .W67 2011</classification>
+  <classification authority="ddc" edition="22">338.3/727</classification>
+  <identifier type="isbn">9781444334678 (hardcover : alk. paper)</identifier>
+  <identifier type="lccn">2010031135</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">100804</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20110812150307.0</recordChangeDate>
+    <recordIdentifier>16375871</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9781444334678</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

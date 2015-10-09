@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Breach of faith</title>
+    <subTitle>Hurricane Katrina and the near death of a great American city</subTitle>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Horne, Jed</namePart>
+    <namePart type="date">1948-</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">nyu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">New York</placeTerm>
+    </place>
+    <publisher>Random House</publisher>
+    <dateIssued>2008</dateIssued>
+    <edition>Random House trade pbk. ed.</edition>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xx, 440 p. : maps ; 25 cm.</extent>
+  </physicalDescription>
+  <tableOfContents>A Camille on Betsy's track -- When Wallyworld closes at four -- An imperfect storm -- Real ugly, real fast -- Decaf cigarettes and golden carp -- Other Texans, other times -- Media in the moment -- At least somebody had a plan -- Code gray -- Like bricks on Jello-O -- Help yourself -- A Rockets Jersey and a picture of Jesus -- Reversal of fortune -- In search of common ground -- If they can rebuild Beirut -- Crunch time -- Sue the bastards -- A comparable catastrophe -- Visions of a city reborn -- Blue tarps in a chocolate city -- Shrink-proof city -- Safe enough for cows -- Children with bad timing -- Failure is not an option -- Summing up.</tableOfContents>
+  <note type="statement of responsibility" altRepGroup="00">Jed Horne.</note>
+  <note type="bibliography">Includes bibliographical references (p. [419]-428) and index.</note>
+  <subject>
+    <geographicCode authority="marcgac">n-us-la</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Hurricane Katrina, 2005</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Disasters</topic>
+    <geographic>Louisiana</geographic>
+    <geographic>New Orleans</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Hurricanes</topic>
+    <geographic>Louisiana</geographic>
+    <geographic>New Orleans</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Disaster victims</topic>
+    <geographic>Louisiana</geographic>
+    <geographic>New Orleans</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Disaster relief</topic>
+    <geographic>Louisiana</geographic>
+    <geographic>New Orleans</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Emergency management</topic>
+    <topic>Government policy</topic>
+    <geographic>United States</geographic>
+  </subject>
+  <classification authority="lcc">HV636 2005 .N4 H66 2008</classification>
+  <classification authority="ddc" edition="22">976.3/35064</classification>
+  <identifier type="isbn">9780812976502 (pbk.</identifier>
+  <identifier type="lccn">2008614325</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">080723</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20081027152235.0</recordChangeDate>
+    <recordIdentifier>15378723</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9780812976502</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

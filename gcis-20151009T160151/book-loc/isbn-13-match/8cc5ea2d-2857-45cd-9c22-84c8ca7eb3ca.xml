@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Understanding climate change</title>
+    <subTitle>climate variability, predictability, and change in the midwestern United States</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Pryor, S. C.</namePart>
+    <namePart type="date">1967-</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <genre authority="marcgt">government publication</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">inu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Bloomington</placeTerm>
+    </place>
+    <publisher>Indiana University Press</publisher>
+    <dateIssued>c2009</dateIssued>
+    <dateIssued encoding="marc">2009</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xiv, 296 p. : ill. (some col.), maps (some col.) ; 26 cm.</extent>
+  </physicalDescription>
+  <tableOfContents>Climate variability, predictability, and change : an introduction -- Overview : thermal regimes -- Global climate change impact on the midwestern USA--a summer cooling trend -- Historical and projected changes in the length of the frost-free season -- Long-term midwestern USA summer equivalent temperature variability -- Estimating changes in temperature variability in a future climate -- Wisconsin's changing climate : temperature -- Overview : hydrologic regimes -- Did precipitation regimes change during the twentieth century? -- Climate change and streamflow in the upper Mississippi River Basin -- The influence of land cover type on surface hydrology in Michigan -- Wisconsin's changing climate : hydrologic cycle -- Spatial and temporal dimensions of extreme rainfall in the Twin Cities metropolitan area -- Overview : North American atmospheric circulation effects on midwestern USA climate -- Historical trends in near-surface wind speeds -- Variability of wind speed regimes in Minnesota -- Teleconnections and circulation patterns in the midwestern USA -- Regional synoptic classification : a midwestern USA example -- Overview : climate hazards -- Severe storms in the midwestern USA -- Climate sensitivity of Great Lakes-generated weather systems -- Severe weather hazards in the Twin Cities metropolitan area -- Where is climate science in the midwestern USA going?</tableOfContents>
+  <note type="statement of responsibility" altRepGroup="00">edited by S.C. Pryor.</note>
+  <note type="bibliography">Includes bibliographical references and index.</note>
+  <subject>
+    <geographicCode authority="marcgac">n-usc--</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Climatic changes</topic>
+    <geographic>Middle West</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Teleconnections (Climatology)</topic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Middle West</geographic>
+    <topic>Climate</topic>
+  </subject>
+  <classification authority="lcc">QC984.M53 U53 2009</classification>
+  <classification authority="ddc" edition="22">551.6978</classification>
+  <identifier type="isbn">9780253353443 (cloth : alk. paper)</identifier>
+  <identifier type="isbn">0253353440 (cloth : alk. paper)</identifier>
+  <identifier type="lccn">2008051664</identifier>
+  <identifier type="oclc">ocn261177808</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">081205</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20100624145303.0</recordChangeDate>
+    <recordIdentifier>15546359</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9780253353443</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

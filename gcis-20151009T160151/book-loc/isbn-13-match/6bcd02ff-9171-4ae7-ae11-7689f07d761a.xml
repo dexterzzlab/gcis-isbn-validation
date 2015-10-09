@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Ocean acidification</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Gattuso, Jean-Pierre.</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Hansson, Lina.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">enk</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Oxford</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">New York</placeTerm>
+    </place>
+    <publisher>Oxford University Press</publisher>
+    <dateIssued>2011</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xix, 326 p. : ill. (some col.), col. maps ; 25 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">edited by Jean-Pierre Gattuso, Lina Hansson.</note>
+  <note type="bibliography">Includes bibliographical references and index.</note>
+  <subject authority="lcsh">
+    <topic>Ocean acidification</topic>
+  </subject>
+  <classification authority="lcc">TD427.A27 O24 2011</classification>
+  <location>
+    <url displayLabel="Contributor biographical information">http://www.loc.gov/catdir/enhancements/fy1203/2011275341-b.html</url>
+  </location>
+  <location>
+    <url displayLabel="Publisher description">http://www.loc.gov/catdir/enhancements/fy1203/2011275341-d.html</url>
+  </location>
+  <location>
+    <url displayLabel="Table of contents only" usage="primary display">http://www.loc.gov/catdir/enhancements/fy1203/2011275341-t.html</url>
+  </location>
+  <identifier type="isbn">9780199591084</identifier>
+  <identifier type="isbn">0199591083</identifier>
+  <identifier type="isbn">9780199591091</identifier>
+  <identifier type="isbn">0199591091</identifier>
+  <identifier type="lccn">2011275341</identifier>
+  <identifier type="oclc">ocn730413873</identifier>
+  <relatedItem>
+    <location>
+      <url displayLabel="Contributor biographical information">http://www.loc.gov/catdir/enhancements/fy1203/2011275341-b.html</url>
+    </location>
+  </relatedItem>
+  <relatedItem>
+    <location>
+      <url displayLabel="Publisher description">http://www.loc.gov/catdir/enhancements/fy1203/2011275341-d.html</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">BTCTA</recordContentSource>
+    <recordCreationDate encoding="marc">111118</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20111130164529.0</recordChangeDate>
+    <recordIdentifier>17050582</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9780199591091</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

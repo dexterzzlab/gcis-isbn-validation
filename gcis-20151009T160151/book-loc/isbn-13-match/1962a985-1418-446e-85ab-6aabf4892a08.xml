@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>A </nonSort>
+    <title>scientific assessment of alternatives for reducing water management effects on threatened and endangered fishes in California's bay-delta</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>National Research Council (U.S.)</namePart>
+    <namePart>Committee on Sustainable Water and Environmental Management in the California Bay-Delta.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">dcu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Washington, D.C</placeTerm>
+    </place>
+    <publisher>National Academies Press</publisher>
+    <dateIssued>c2010</dateIssued>
+    <dateIssued encoding="marc">2010</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xiii, 93 p. : ill., map ; 23 cm.</extent>
+  </physicalDescription>
+  <abstract type="Summary">"California's Bay-Delta estuary is a biologically diverse estuarine ecosystem that plays a central role in the distribution of California's water from the state's wetter northern regions to its southern, arid, and populous cities and agricultural areas. Recently, the Fish and Wildlife Service and the National Marine Fisheries Service required changes (reasonable and prudent alternatives, or RPAs) in water operations and related actions to avoid jeopardizing the continued existence and potential for recovery of threatened species of fish. Those changes have reduced the amount of water available for other uses, and the tensions that resulted have been exacerbated by recent dry years. The complexity of the problem of the decline of the listed species and the difficulty of identifying viable solutions have led to disagreements, including concerns that some of the actions in the RPAs might be ineffective and might cause harm and economic disruptions to water users, and that some of the actions specified in the RPAs to help one or more of the listed species might harm others. In addition, some have suggested that the agencies might be able to meet their legal obligation to protect species with less economic disruptions to other water users. The National Research Council examines the issue in the present volume to conclude that most of the actions proposed by two federal agencies to protect endangered and threatened fish species through water diversions in the California Bay-Delta are 'scientifically justified'. But less well-supported by scientific analyses is the basis for the specific environmental triggers that would indicate when to reduce the water diversions required by the actions."--Publisher's description.</abstract>
+  <tableOfContents>Introduction -- The legal context of this report -- The life histories of the fishes -- Use of models -- Other stressors -- Assessment of the RPAs.</tableOfContents>
+  <note type="statement of responsibility" altRepGroup="00">Committee on Sustainable Water and Environmental Management in the California Bay-Delta, Water Science and Technology Board, Ocean Studies Board, Division on Earth and Life Studies, National Research Council of the National Academies.</note>
+  <note type="bibliography">Includes bibliographical referenes (p. 66-75).</note>
+  <note type="additional physical form">Also available online in Open Book format.</note>
+  <subject>
+    <geographicCode authority="marcgac">n-us-ca</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Fishes</topic>
+    <topic>Effect of water levels on</topic>
+    <geographic>California</geographic>
+    <geographic>Sacramento-San Joaquin Estuary</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Rare fishes</topic>
+    <geographic>California</geographic>
+    <geographic>Sacramento-San Joaquin Estuary</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Estuarine ecology</topic>
+    <geographic>California</geographic>
+    <geographic>Sacramento-San Joaquin Estuary</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Sacramento-San Joaquin Estuary (Calif.)</geographic>
+  </subject>
+  <classification authority="lcc">SH173.5 .S33 2010</classification>
+  <classification authority="ddc" edition="23">597.16809794/54</classification>
+  <location>
+    <url displayLabel="electronic resource" usage="primary display" note="Online version in Open Book format">http://www.nap.edu/catalog.php?record_id=12881</url>
+  </location>
+  <identifier type="isbn">0309128021</identifier>
+  <identifier type="isbn">9780309128025</identifier>
+  <identifier type="lccn">2010283712</identifier>
+  <identifier type="oclc">ocn612335780</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">YDXCP</recordContentSource>
+    <recordCreationDate encoding="marc">101102</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20120817070616.0</recordChangeDate>
+    <recordIdentifier>16528812</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9780309128025</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Climate change and agriculture</title>
+    <subTitle>an economic analysis of global impacts, adaptation and distributional effects</subTitle>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Mendelsohn, Robert O.</namePart>
+    <namePart type="date">1952-</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Dinar, Ariel</namePart>
+    <namePart type="date">1947-</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">enk</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Cheltenham</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Northampton, MA</placeTerm>
+    </place>
+    <publisher>Edward Elgar</publisher>
+    <dateIssued>c2009</dateIssued>
+    <dateIssued encoding="marc">2009</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>vii, 246 p. : ill., maps (some col.) ; 24 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">Robert Mendelsohn and Ariel Dinar.</note>
+  <note type="bibliography">Includes bibliographical references and index.</note>
+  <subject authority="lcsh">
+    <topic>Agriculture</topic>
+    <topic>Environmental aspects</topic>
+    <geographic>Developing countries</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Agriculture</topic>
+    <topic>Economic aspects</topic>
+    <geographic>Developing countries</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Climatic changes</topic>
+    <geographic>Developing countries</geographic>
+  </subject>
+  <classification authority="lcc">S589.75 .M46 2009</classification>
+  <classification authority="ddc" edition="22">338.14091724</classification>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>New horizons in environmental economics</title>
+    </titleInfo>
+  </relatedItem>
+  <identifier type="isbn">9781847206701 (hbk.)</identifier>
+  <identifier type="isbn">1847206700 (hbk.)</identifier>
+  <identifier type="lccn">2009930434</identifier>
+  <identifier type="oclc">ocn456834753</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">UKM</recordContentSource>
+    <recordCreationDate encoding="marc">090610</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20150515140943.0</recordChangeDate>
+    <recordIdentifier>15770792</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9781847206701</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

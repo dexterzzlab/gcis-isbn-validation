@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Successful adaptation in climate change</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Moser, Susanne C.</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Boykoff, Maxwell T.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="rdacontent">text</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">enk</placeTerm>
+    </place>
+    <dateIssued encoding="marc">2013</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <originInfo eventType="publication">
+    <place>
+      <placeTerm type="text">Abingdon, Oxon :</placeTerm>
+    </place>
+    <publisher>Routledge,</publisher>
+    <dateIssued>2013.</dateIssued>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>pages cm</extent>
+    <form type="media" authority="rdamedia">unmediated</form>
+    <form type="carrier" authority="rdacarrier">volume</form>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">[edited by] Susanne C. Moser, Maxwell T. Boykoff.</note>
+  <note>Includes index.</note>
+  <subject authority="lcsh">
+    <topic>Climatic changes</topic>
+    <topic>Effect of human beings on</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Climatic changes</topic>
+    <topic>Social aspects</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Human ecology</topic>
+  </subject>
+  <classification authority="lcc">QC903 .S88 2013</classification>
+  <classification authority="ddc" edition="23">363.738/744</classification>
+  <identifier type="isbn">9780415524995 (hardback : alk. paper)</identifier>
+  <identifier type="isbn">9780415525008 (pbk. : alk. paper)</identifier>
+  <identifier type="lccn">2012044487</identifier>
+  <recordInfo>
+    <descriptionStandard>rda</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">121217</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20150826071734.0</recordChangeDate>
+    <recordIdentifier>17565745</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9780415524995</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

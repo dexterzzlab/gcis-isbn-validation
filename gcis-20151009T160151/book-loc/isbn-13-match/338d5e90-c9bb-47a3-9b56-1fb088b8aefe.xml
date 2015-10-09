@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>global carbon cycle</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Archer, David</namePart>
+    <namePart type="date">1960-</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">nju</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Princeton</placeTerm>
+    </place>
+    <publisher>Princeton University Press</publisher>
+    <dateIssued>c2010</dateIssued>
+    <dateIssued encoding="marc">2010</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>205 p. : ill. ; 21 cm.</extent>
+  </physicalDescription>
+  <abstract type="Summary">Presents an introduction to the global carbon cycle and the ways in which it interacts with the Earth's climate system.--</abstract>
+  <tableOfContents>Carbon on earth -- The stable geologic carbon cycle -- The unstable ice age carbon cycle -- The present and future carbon cycle: stable or unstable? -- Methane.</tableOfContents>
+  <note type="statement of responsibility" altRepGroup="00">David Archer.</note>
+  <note type="bibliography">Includes bibliographic references (p. [187]-202) and index.</note>
+  <subject authority="lcsh">
+    <topic>Carbon cycle (Biogeochemistry)</topic>
+  </subject>
+  <subject authority="sears">
+    <topic>Carbon</topic>
+  </subject>
+  <classification authority="lcc">QH344 .A74 2010</classification>
+  <classification authority="ddc" edition="22">577.144</classification>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Princeton primers in climate</title>
+    </titleInfo>
+  </relatedItem>
+  <identifier type="isbn">9780691144139 (hbk.)</identifier>
+  <identifier type="isbn">0691144133 (hbk.)</identifier>
+  <identifier type="isbn">9780691144146 (pbk</identifier>
+  <identifier type="isbn">0691144141 (pbk.)</identifier>
+  <identifier type="lccn">2010933104</identifier>
+  <identifier type="oclc">ocn587249027</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">UKM</recordContentSource>
+    <recordCreationDate encoding="marc">100722</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20120713101457.0</recordChangeDate>
+    <recordIdentifier>16343801</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9780691144139</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

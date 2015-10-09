@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Climate change</title>
+    <subTitle>inferences from paleoclimate and regional aspects</subTitle>
+  </titleInfo>
+  <name type="conference">
+    <namePart>Milutin Milankovitch Anniversary Symposium (3rd : 2009 : Srpska akademija nauka i umetnosti)</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Berger, A. (Andre&#x301;)</namePart>
+    <namePart type="date">1942-</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Mesinger, Fedor.</namePart>
+  </name>
+  <name type="personal">
+    <namePart>S&#x30C;ijac&#x30C;ki, Djordje.</namePart>
+  </name>
+  <name type="corporate">
+    <namePart>Srpska akademija nauka i umetnosti</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <genre authority="marcgt">conference publication</genre>
+  <genre authority="fast">Conference proceedings.</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">au</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Wien</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">New York</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">London</placeTerm>
+    </place>
+    <publisher>Springer</publisher>
+    <dateIssued>c2012</dateIssued>
+    <dateIssued encoding="marc">2012</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xviii, 244 p. : ill. (chiefly col.), maps (chiefly col.) ; 27 cm.</extent>
+  </physicalDescription>
+  <tableOfContents>Science, politics, and public perceptions of climate change / Richard C.J. Somerville -- Paleoclimate implications for human-made climate change / James E. Hansen and Makiko Sato -- Simulation of glacial cycles with an earth system model / Andrey Ganopolski and Reinhard Calov -- Modeling the interglacials of the last 1 million years / Andre&#x301; Berger and Qiuzhen Yin -- Relating the astronomical timescale to the loess-paleosol sequences in Vojvodina, northern Serbia / Slobodan B. Markovic&#x301; ... [et al.] -- A spatial view on temperature change and variability during the last deglaciation : a model analysis / Didier M. Roche, Hans Renssen, and Didier Paillard -- Perspectives of parameter and state estimation in paleoclimatology / Andre&#x301; Paul and Martin Losch -- A brief history of the astronomical theories of paleoclimates / Andre&#x301; Berger -- Canon of eccentricity : how Milankovic&#x301; built a general mathematical theory of insolation / Aleksandar Petrovic&#x301; -- Exaggerated Milankovitch-like eccentricity cycles and extreme exoplanet climate variation / David S. Spiegel ... [et al.] -- Aquatic vegetation in river floodplains : climate change effects, river restoration and ecohydrology aspects / Georg A. Janauer -- Canadian regional climate model as a tool for assessing hydrological impacts of climate change at the watershed scale / Biljana Music ... [et al.] -- Analysis of the changes of the streamflows in Serbia due to climate changes / Dejan Dimkic&#x301; and Jovan Despotovic&#x301; -- Considerations of domain size and large-scale driving for nested regional climate models : impact on internal variability and ability at developing small-scale details / Rene&#x301; Laprise ... [et al.] -- Value added in regional climate modeling : should one aim to improve on the large scales as well? / Fedor Mesinger ... [et al.] -- Eta model simulations and AMSR images to study an event of polynya at Terra Nova Bay, Antarctica / Sandra Morelli and Flavio Parmiggiani -- Some indicators of the present and future climate of Serbia according to the SRES-A1B scenario / Aleksandra Krz&#x30C;ic&#x30C; ... [et al.].</tableOfContents>
+  <note type="statement of responsibility" altRepGroup="00">Andre&#x301; Berger, Fedor Mesinger, Djordje S&#x30C;ijac&#x30C;ki, editors.</note>
+  <note>Proceedings of the third international Milutin Milankovitch anniversay symposium organized by the Serbian Academy of Sciences and Arts in 2009. Cf. pref.</note>
+  <note type="bibliography">Includes bibliographical references and index.</note>
+  <subject authority="lcsh">
+    <topic>Climatic changes</topic>
+    <genre>Congresses</genre>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Climatic changes</topic>
+    <topic>Mathematical models</topic>
+    <genre>Congresses</genre>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Paleoclimatology</topic>
+    <genre>Congresses</genre>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Climatic changes</topic>
+    <topic>Forecasting</topic>
+    <genre>Congresses</genre>
+  </subject>
+  <subject authority="fast">
+    <topic>Climatic changes</topic>
+    <topic>Environmental aspects</topic>
+  </subject>
+  <subject authority="fast">
+    <topic>Climatic changes</topic>
+    <topic>Forecasting</topic>
+  </subject>
+  <subject authority="fast">
+    <topic>Climatic changes</topic>
+    <topic>Mathematical models</topic>
+  </subject>
+  <subject authority="fast">
+    <topic>Paleoclimatology</topic>
+  </subject>
+  <classification authority="lcc">QC902.8 .M55 2009</classification>
+  <classification authority="ddc" edition="23">551.6</classification>
+  <identifier type="isbn">9783709109724 (hbk. : alk. paper)</identifier>
+  <identifier type="isbn">3709109728 (hbk. : alk. paper)</identifier>
+  <identifier type="lccn">2012937046</identifier>
+  <identifier type="oclc">ocn766343687</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">UKMGB</recordContentSource>
+    <recordCreationDate encoding="marc">120405</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20150515140933.0</recordChangeDate>
+    <recordIdentifier>17242961</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    <languageOfCataloging>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </languageOfCataloging>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9783709109724</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

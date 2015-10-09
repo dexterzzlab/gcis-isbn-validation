@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Adaptation and resilience</title>
+    <subTitle>the economics of climate, water, and energy challenges in the American Southwest</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Colby, Bonnie G.</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Frisvold, George B.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">dcu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Washington, DC</placeTerm>
+    </place>
+    <publisher>Earthscan</publisher>
+    <dateIssued>2011</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xxiii, 264 p. : ill. ; 25 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">edited by Bonnie G. Colby and George B. Frisvold.</note>
+  <note type="bibliography">Includes bibliographical references and index.</note>
+  <subject authority="lcsh">
+    <topic>Water resources development</topic>
+    <topic>Environmental aspects</topic>
+    <geographic>Southwestern States</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Water-supply</topic>
+    <geographic>Southwestern States</geographic>
+    <topic>Management</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Climatic changes</topic>
+    <geographic>Southwestern States</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Water-supply</topic>
+    <topic>Economic aspects</topic>
+    <geographic>Southwestern States</geographic>
+  </subject>
+  <classification authority="lcc">HD1695.S664 A33 2011</classification>
+  <classification authority="ddc" edition="22">333.9100979</classification>
+  <identifier type="isbn">9781933115931 (hardback : alk. paper)</identifier>
+  <identifier type="lccn">2010035305</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">100824</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20110610100610.0</recordChangeDate>
+    <recordIdentifier>16431711</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9781933115931</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Panarchy</title>
+    <subTitle>understanding transformations in human and natural systems</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Gunderson, Lance H.</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Holling, C. S.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">dcu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Washington, DC</placeTerm>
+    </place>
+    <publisher>Island Press</publisher>
+    <dateIssued>c2002</dateIssued>
+    <dateIssued encoding="marc">2002</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xxiv, 507 p., [2] p. of plates : ill. (some col.) ; 24 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">edited by Lance H. Gunderson and C.S. Holling.</note>
+  <note type="bibliography">Includes bibliographical references (p. 449-488) and index.</note>
+  <subject authority="lcsh">
+    <topic>Human ecology</topic>
+    <topic>Philosophy</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Political ecology</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Social ecology</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Nature</topic>
+    <topic>Effect of human beings on</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Biotic communities</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Environmental degradation</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Environmental policy</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Ecosystem management</topic>
+  </subject>
+  <classification authority="lcc">GF49 .P365 2002</classification>
+  <classification authority="ddc" edition="21">304.2</classification>
+  <identifier type="isbn">1559638567 (cloth : alk. paper)</identifier>
+  <identifier type="isbn">1559638575 (paper)</identifier>
+  <identifier type="lccn">2001006112</identifier>
+  <relatedItem>
+    <location>
+      <url displayLabel="Publisher description">http://www.loc.gov/catdir/enhancements/fy0666/2001006112-d.html</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">011009</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20060908124239.0</recordChangeDate>
+    <recordIdentifier>12558421</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9781559638579</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

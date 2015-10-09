@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Cost-benefit analysis</title>
+    <subTitle>concepts and practice</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Boardman, Anthony E.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">nju</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Upper Saddle River, N.J</placeTerm>
+    </place>
+    <publisher>Pearson/Prentice Hall</publisher>
+    <dateIssued>c2006</dateIssued>
+    <dateIssued encoding="marc">2006</dateIssued>
+    <edition>3rd ed.</edition>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xv, 560 p. : ill. ; 24 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">Anthony E. Boardman ... [et al.].</note>
+  <note type="bibliography">Includes bibliographical references (p. 523-543) and indexes.</note>
+  <subject authority="lcsh">
+    <topic>Cost effectiveness</topic>
+  </subject>
+  <classification authority="lcc">HD47.4 .C669 2006</classification>
+  <classification authority="ddc" edition="22">658.15/54</classification>
+  <location>
+    <url displayLabel="Table of contents" usage="primary display">http://www.loc.gov/catdir/toc/ecip0517/2005023256.html</url>
+  </location>
+  <identifier type="isbn">0131435833 (casebound : alk. paper)</identifier>
+  <identifier type="lccn">2005023256</identifier>
+  <identifier type="oclc">ocm61262392</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">050812</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20060510160806.0</recordChangeDate>
+    <recordIdentifier>14072538</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9780131435834</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Major acts of Congress</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Landsberg, Brian K.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">nyu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">New York</placeTerm>
+    </place>
+    <publisher>Macmillan Reference USA</publisher>
+    <publisher>Thomson/Gale</publisher>
+    <dateIssued>c2004</dateIssued>
+    <dateIssued encoding="marc">2004</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>3 v. : ill. ; 29 cm.</extent>
+  </physicalDescription>
+  <abstract type="Review">"A selection of 262 significant laws, beginning with the Northwest Ordinance of 1787 and concluding with the Department of Homeland Security Act of 2002, these congressional acts are explained in detail and with historical context. The entries are well written and accessible to students and the general public. Contributors include legal scholars, practicing attorneys, economists, and political scientists. Same-page definitions of terms, sidebars and illustrations illuminating historical events, a glossary, and a timeline enhance this useful ready-reference work."--"Reference that rocks," American Libraries, May 2005.</abstract>
+  <tableOfContents>v. 1. A-E -- v. 2. F-M -- v. 3. N-Z.</tableOfContents>
+  <note type="statement of responsibility" altRepGroup="00">Brian K. Landsberg, editor in chief.</note>
+  <note type="bibliography">Includes bibliographical references and index.</note>
+  <subject>
+    <geographicCode authority="marcgac">n-us---</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Law</topic>
+    <geographic>United States</geographic>
+    <genre>Encyclopedias</genre>
+  </subject>
+  <classification authority="lcc">KF154 .M35 2004</classification>
+  <classification authority="ddc" edition="22">348.73/22</classification>
+  <location>
+    <url displayLabel="Table of contents" usage="primary display">http://www.loc.gov/catdir/toc/ecip048/2003018747.html</url>
+  </location>
+  <identifier type="isbn">0028657497 (set hardcover : alk. paper)</identifier>
+  <identifier type="isbn">0028657500 (v. 1 : alk. paper)</identifier>
+  <identifier type="isbn">0028657519 (v. 2 : alk. paper)</identifier>
+  <identifier type="isbn">0028657527 (v. 3 : alk. paper)</identifier>
+  <identifier type="lccn">2003018747</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">030902</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20050616143531.0</recordChangeDate>
+    <recordIdentifier>13330347</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9780028657493</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Drought, risk management, and policy</title>
+    <subTitle>decision making under uncertainty</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Botterill, Linda Courtenay.</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Cockfield, Geoff.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">flu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Boca Raton</placeTerm>
+    </place>
+    <publisher>CRC Press</publisher>
+    <dateIssued>c2013</dateIssued>
+    <dateIssued encoding="marc">2013</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xviii, 208 p. : ill., maps ; 24 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">editors, Linda Courtenay Botterill and Geoff Cockfield.</note>
+  <note type="bibliography">Includes bibliographical references and index.</note>
+  <subject>
+    <geographicCode authority="marcgac">n-us---</geographicCode>
+    <geographicCode authority="marcgac">u-at---</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Drought relief</topic>
+    <geographic>United States</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Drought relief</topic>
+    <geographic>Australia</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Environmental policy</topic>
+    <geographic>United States</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Environmental policy</topic>
+    <geographic>Australia</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Climatic changes</topic>
+    <geographic>United States</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Climatic changes</topic>
+    <geographic>Australia</geographic>
+  </subject>
+  <classification authority="lcc">HV626.U6 D764 2013</classification>
+  <classification authority="ddc" edition="23">363.34/9295610973</classification>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Drought and water crises ; 2</title>
+    </titleInfo>
+  </relatedItem>
+  <identifier type="isbn">9781439876299 (acid-free paper)</identifier>
+  <identifier type="lccn">2012031228</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">120820</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20130507163435.0</recordChangeDate>
+    <recordIdentifier>17436026</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9781439876299</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Implementing the Endangered Species Act on the Platte Basin water commons</title>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Freeman, David M.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">cou</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Boulder, Colo</placeTerm>
+    </place>
+    <publisher>University Press of Colorado</publisher>
+    <dateIssued>c2010</dateIssued>
+    <dateIssued encoding="marc">2010</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xxiv, 483 p. : ill., maps, photos ; 24 cm.</extent>
+  </physicalDescription>
+  <tableOfContents>Problem and significance -- Change on the river -- Into a federal nexus -- Colorado in a federal nexus : defending the water tower -- Nebraska in a federal nexus : threat to the big house -- Wyoming in a federal nexus : defending the mountaintop -- Options : individual consultation, litigation, or constructing a cooperative program -- Organization of negotiations -- Colorado's interests -- Nebraska's interests -- Wyoming's interests -- States, federal agencies, and the water plan -- Defining success : science as a referee in a game where no one knows the score -- Science as justification for sacrifice : the junk science controversy -- Science as faith : negotiating an adaptive management deal for terrestrial habitat -- Science as faith : putting adaptive management to its first test with the sedimentation-vegetation problem -- Scent of victory and impasse -- Negotiating context, 2000-2006 -- Regime of the river : Colorado and Nebraska nightmares -- Regime of the river : sharing peak flows : Colorado and the USFWS struggle on the South Platte -- Regime of the river : Wyoming and Nebraska address new depletions -- Regime of the river : Nebraska confronts its history -- Regime of the river : building a federal depletions plan : states confront the U.S. Forest Service -- Regime of the river : inserting pulse flows -- Locked into an awful dance : bypass flows and hydro-cycling -- The pallid sturgeon habitat gamble -- Wielding the regulatory hammer -- Adaptive management : lashing together conflicting visions with a Chinese wall -- Search for approval -- Policy implications -- Theory implications.</tableOfContents>
+  <note type="statement of responsibility" altRepGroup="00">David M. Freeman.</note>
+  <note type="bibliography">Includes bibliographical references (p. 457-473) and index.</note>
+  <subject>
+    <geographicCode authority="marcgac">n-us---</geographicCode>
+    <geographicCode authority="marcgac">n-us-nb</geographicCode>
+    <geographicCode authority="marcgac">n-us-co</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>United States.</namePart>
+    </name>
+    <titleInfo>
+      <title>Endangered Species Act of 1973</title>
+    </titleInfo>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Endangered species</topic>
+    <topic>Law and legislation</topic>
+    <geographic>South Platte River Watershed (Colo. and Neb.)</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Fishery law and legislation</topic>
+    <geographic>South Platte River Watershed (Colo. and Neb.)</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Wildlife conservation</topic>
+    <topic>Law and legislation</topic>
+    <geographic>South Platte River Watershed (Colo. and Neb.)</geographic>
+  </subject>
+  <classification authority="lcc">KF5640 .F738 2010</classification>
+  <classification authority="ddc" edition="22">346.7304/69522</classification>
+  <identifier type="isbn">9781607320548 (hbk. : alk. paper)</identifier>
+  <identifier type="isbn">1607320541 (hbk. : alk. paper)</identifier>
+  <identifier type="isbn">9781607320555 (e-book)</identifier>
+  <identifier type="isbn">160732055X (e-book)</identifier>
+  <identifier type="lccn">2010034837</identifier>
+  <identifier type="oclc">ocn642837952</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">100818</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20110509163025.0</recordChangeDate>
+    <recordIdentifier>16422047</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9781607320548</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

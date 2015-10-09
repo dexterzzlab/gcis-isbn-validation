@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>social amplification of risk</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Pidgeon, Nick F.</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Kasperson, Roger E.</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Slovic, Paul</namePart>
+    <namePart type="date">1938-</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">enk</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Cambridge</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">New York</placeTerm>
+    </place>
+    <publisher>Cambridge University Press</publisher>
+    <dateIssued>2003</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xv, 448 p. : ill. ; 24 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">edited by Nick Pidgeon, Roger E. Kasperson, and Paul Slovic.</note>
+  <note type="bibliography">Includes bibliographical references (p. 402-435) and index.</note>
+  <subject authority="lcsh">
+    <topic>Risk perception</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Risk</topic>
+    <topic>Sociological aspects</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Public opinion</topic>
+  </subject>
+  <classification authority="lcc">HM1101 .S63 2003</classification>
+  <classification authority="ddc" edition="22">302/.12</classification>
+  <location>
+    <url displayLabel="Table of contents" usage="primary display">http://www.loc.gov/catdir/toc/cam051/2003279774.html</url>
+  </location>
+  <location>
+    <url displayLabel="Publisher description">http://www.loc.gov/catdir/description/cam051/2003279774.html</url>
+  </location>
+  <location>
+    <url displayLabel="Contributor biographical information">http://www.loc.gov/catdir/enhancements/fy0732/2003279774-b.html</url>
+  </location>
+  <identifier type="isbn">0521817285</identifier>
+  <identifier type="isbn">0521520444 (pbk.)</identifier>
+  <identifier type="lccn">2003279774</identifier>
+  <identifier type="oclc">ocm52286642</identifier>
+  <relatedItem>
+    <location>
+      <url displayLabel="Publisher description">http://www.loc.gov/catdir/description/cam051/2003279774.html</url>
+    </location>
+  </relatedItem>
+  <relatedItem>
+    <location>
+      <url displayLabel="Contributor biographical information">http://www.loc.gov/catdir/enhancements/fy0732/2003279774-b.html</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">UKM</recordContentSource>
+    <recordCreationDate encoding="marc">031030</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20070724105810.0</recordChangeDate>
+    <recordIdentifier>13389437</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9780521520447</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

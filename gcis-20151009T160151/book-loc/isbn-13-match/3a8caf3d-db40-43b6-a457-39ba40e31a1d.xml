@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Sustainable and resilient critical infrastructure systems</title>
+    <subTitle>simulation, modeling, and intelligent engineering</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Gopalakrishnan, Kasthurirangan.</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Peeta, Srinivas.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">gw</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Berlin</placeTerm>
+    </place>
+    <publisher>Springer</publisher>
+    <dateIssued>c2010</dateIssued>
+    <dateIssued encoding="marc">2010</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>x, 265 p. : ill. (chiefly col.), col. maps ; 24 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">Kasthurirangan Gopalakrishnan and Srinivas Peeta, [editors].</note>
+  <note type="bibliography">Includes bibliographical references and index.</note>
+  <subject authority="lcsh">
+    <topic>Infrastructure (Economics)</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Emergency management</topic>
+  </subject>
+  <subject authority="swd">
+    <topic>Kritische Infrastruktur</topic>
+  </subject>
+  <subject authority="swd">
+    <topic>Nachhaltige Entwicklung</topic>
+  </subject>
+  <subject authority="swd">
+    <topic>Computersimulation</topic>
+  </subject>
+  <subject authority="swd">
+    <topic>Stochastische Optimierung</topic>
+  </subject>
+  <classification authority="lcc">HC79.C3 S92 2010</classification>
+  <classification authority="ddc" edition="22">363.6</classification>
+  <identifier type="isbn">9783642114045 (hbk.)</identifier>
+  <identifier type="isbn">3642114040 (hbk.)</identifier>
+  <identifier type="lccn">2010924761</identifier>
+  <identifier type="oclc">ocn477296345</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">UKM</recordContentSource>
+    <recordCreationDate encoding="marc">100315</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20120807194705.0</recordChangeDate>
+    <recordIdentifier>16135614</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9783642114045</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Pagans in the promised land</title>
+    <subTitle>decoding the doctrine of Christian discovery</subTitle>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Newcomb, Steven T.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">cou</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Golden, Colo</placeTerm>
+    </place>
+    <publisher>Fulcrum Pub.</publisher>
+    <dateIssued>c2008</dateIssued>
+    <dateIssued encoding="marc">2008</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xxviii, 186 p. ; 23 cm.</extent>
+  </physicalDescription>
+  <tableOfContents>A primer on cognitive theory -- Metaphorical experience and federal Indian law -- The conqueror model -- Colonizing the promised land -- The chosen people-promised land model -- The dominating mentality of Christendom -- Johnson v. M'Intosh -- Converting Christian discovery into heathen conquest -- The mental process of negation -- Christian nations theory : hidden in plain sight -- Conclusion: A sacred regard for all living things.</tableOfContents>
+  <note type="statement of responsibility" altRepGroup="00">Steven T. Newcomb.</note>
+  <note type="bibliography">Includes bibliographical references (p. 171-180) and index.</note>
+  <subject>
+    <geographicCode authority="marcgac">n-us---</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Indians of North America</topic>
+    <topic>Legal status, laws, etc</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Land tenure</topic>
+    <geographic>Law and legislation</geographic>
+    <geographic>United States</geographic>
+  </subject>
+  <classification authority="lcc">KF8205 .N48 2008</classification>
+  <classification authority="ddc" edition="22">346.7304/3208997</classification>
+  <location>
+    <url displayLabel="Table of contents only" usage="primary display">http://www.loc.gov/catdir/toc/ecip081/2007039833.html</url>
+  </location>
+  <identifier type="isbn">9781555916428 (pbk.)</identifier>
+  <identifier type="isbn">1555916422 (pbk.)</identifier>
+  <identifier type="lccn">2007039833</identifier>
+  <identifier type="oclc">ocn173509387</identifier>
+  <identifier type="oclc">173509387</identifier>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">070925</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20101103141206.0</recordChangeDate>
+    <recordIdentifier>15021460</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9781555916428</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>

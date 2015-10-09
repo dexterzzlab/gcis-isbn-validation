@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>mods</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Decisions with multiple objectives</title>
+    <subTitle>preferences and value tradeoffs</subTitle>
+  </titleInfo>
+  <name type="personal" usage="primary">
+    <namePart>Keeney, Ralph L.</namePart>
+    <namePart type="date">1944-</namePart>
+  </name>
+  <name type="personal">
+    <namePart>Raiffa, Howard</namePart>
+    <namePart type="date">1924-</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">enk</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Cambridge [England]</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">New York, NY, USA</placeTerm>
+    </place>
+    <publisher>Cambridge University Press</publisher>
+    <dateIssued>1993</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xix, 569 p. : ill. ; 24 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">Ralph L. Keeney and Howard Raiffa.</note>
+  <note>Originally published: New York : Wiley, 1976.</note>
+  <note type="bibliography">Includes bibliographical references (p. 549-560) and index.</note>
+  <subject authority="lcsh">
+    <topic>Multiple criteria decision making</topic>
+  </subject>
+  <classification authority="lcc">T57.95 .K43 1993</classification>
+  <classification authority="ddc" edition="20">658.4/03</classification>
+  <location>
+    <url displayLabel="Sample text" usage="primary display">http://www.loc.gov/catdir/samples/cam034/92031874.html</url>
+  </location>
+  <location>
+    <url displayLabel="Table of contents">http://www.loc.gov/catdir/toc/cam031/92031874.html</url>
+  </location>
+  <location>
+    <url displayLabel="Publisher description">http://www.loc.gov/catdir/description/cam025/92031874.html</url>
+  </location>
+  <identifier type="isbn">0521441854</identifier>
+  <identifier type="isbn">0521438837 (pbk.)</identifier>
+  <identifier type="lccn">92031874</identifier>
+  <relatedItem>
+    <location>
+      <url displayLabel="Publisher description">http://www.loc.gov/catdir/description/cam025/92031874.html</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">920818</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20110316065318.0</recordChangeDate>
+    <recordIdentifier>1560937</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
+</mods></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>bath.isbn=9780521438834</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>mods</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>
