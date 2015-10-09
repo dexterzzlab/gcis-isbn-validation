@@ -48,14 +48,18 @@ if len(sys.argv) > 1:
             if not os.path.isdir(isbn_none_path):
                 os.makedirs(isbn_none_path)
 
-            problem_log = open(norm_top_path+"problem_log.txt", "w")
-            problem_log.write("Files without ISBN-13 Format: \n")
+            problem_log = open(norm_top_path+"normalize_log.txt", "w")
+            problem_log.write("Normalization Log \n\n")
 
-            problem_json = []
+            #problem_json = []
 
 #            book_dir = top_dir+"book/"
 #            directory = "gcis-isbn-validation/%s"%book_dir
             
+            no_isbn = []
+            other_isbn = []
+
+
             problem_count = 0
             normal_count = 0
             other_count = 0
@@ -67,38 +71,51 @@ if len(sys.argv) > 1:
                         json_item = json.load(item)
                         book_isbn = json_item['isbn']
                         if book_isbn is not None:
+
+                            #No isbn
                             if book_isbn == "None": 
                                 with open("%s%s"%(isbn_none_path,str(f)),'w') as jsonFile:
                                     jsonFile.write(json.dumps(json_item, sort_keys=True, indent=4, separators=(',',': ')))
-                                    problem_log.write(json_item['identifier']+"\n")
+                                    #problem_log.write(json_item['identifier']+"\n")
+                                    no_isbn.append(json_item['identifier'])
                                     problem_count = problem_count + 1
+                            
                             else:
                                 book_isbn = clean(book_isbn)
+                                #ISBN-13
                                 if EAN13(book_isbn) != None:
                                     book_isbn = EAN13(book_isbn)
                                     json_item['isbn'] = book_isbn
                                     with open("%s%s"%(isbn_13_path,str(f)), 'w') as jsonFile:
                                         jsonFile.write(json.dumps(json_item, sort_keys=True, indent=4, separators=(',', ': ')))
                                         normal_count = normal_count + 1
+                                #ISBN-OTHER
                                 else:
                                     book_isbn = book_isbn.replace("-", "")
                                     json_item['isbn'] = book_isbn
                                     with open("%s%s"%(isbn_other_path,str(f)), 'w') as jsonFile:
                                         jsonFile.write(json.dumps(json_item, sort_keys=True, indent=4, separators=(',', ': ')))
-                                        problem_log.write(json_item['identifier']+"\n")
+                                        other_isbn.append(json_item['identifier'])
+                                        #problem_log.write(json_item['identifier']+"\n")
                                         other_count = other_count + 1
+                        #No isbn
                         else:
                             with open("%s%s"%(isbn_none_path,str(f)),'w') as jsonFile:
                                 jsonFile.write(json.dumps(json_item, sort_keys=True, indent=4, separators=(',',': ')))
-                                problem_log.write(json_item['identifier']+"\n")
+                                no_isbn.append(json_item['identifier'])
+                                #problem_log.write(json_item['identifier']+"\n")
                                 problem_count = problem_count + 1
 
             total_count = normal_count+problem_count+other_count
-            problem_log.write("\nFiles without any ISBN: %s"%problem_count+"\n")
-            problem_log.write("Files that have an ISBN, but are not ISBN-13 format: %s"%other_count+"\n")
             problem_log.write("ISBN13 files: %s"%normal_count+"\n")
             
-            problem_log.write("Total files: %s"%total_count+"\n")
+            problem_log.write("\nFiles that have an ISBN, but are not ISBN-13 format: %s"%other_count+"\n")
+            for non13_id in other_isbn:
+                problem_log.write("\t%s\n"%(non13_id))
+            problem_log.write("\nFiles without any ISBN: %s"%problem_count+"\n")
+            for problem_id in no_isbn:
+                problem_log.write("\t%s\n"%(problem_id))
+            problem_log.write("\nTotal files: %s"%(total_count))
     else:
         print "Requires parameter for GCIS book dump"
 
